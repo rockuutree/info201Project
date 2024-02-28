@@ -27,26 +27,49 @@ head(forest_km,5)
 head(forest_percent,5) 
 head(global_temp,5)
 ```
+```{r}
+forest_km <- forest_km %>%
+  rename(country = `Country Name`)
+  head(forest_km, 5)
+```
+```{r}
+forest_percent <- forest_percent %>%
+  rename(country = `Country Name`)
+  head(forest_km, 5)
+```
+```{r}
+global_temp <- global_temp %>%
+  mutate(year = as.character(year))
+```
+
+
 ## Convert Forms
 
 ```{r}
-country <- c('Country Name', 'Country Code')
+countryList <- c('country', 'Country Code')
 
 longForestKM <- forest_km %>%
-   pivot_longer(!country, names_to = "forest.year", values_to = "km")
+   pivot_longer(!countryList, names_to = "year", values_to = "km")
 longForestKM
+
 ```
 ```{r}
 
 longForestPercent <- forest_percent %>%
-   pivot_longer(!country, names_to = "forest.year", values_to = "percent")
+   pivot_longer(!countryList, names_to = "year", values_to = "percent")
 longForestPercent
 ```
-## Joining Table Together
+## Joining Table Together for Forest
 ```{r}
 forest_km_percent <- left_join(longForestKM, longForestPercent)
-head(forest_km_percent,5) 
+forest_km_percent
 ```
+## Joining global temp together
+```{r}
+final_set <- left_join(forest_km_percent, global_temp)
+final_set
+```
+
 
 
 
