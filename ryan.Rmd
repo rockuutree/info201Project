@@ -34,13 +34,17 @@ country <- c('Country Name', 'Country Code')
 
 longForestKM <- forest_km %>%
    pivot_longer(!country, names_to = "forest.year", values_to = "km")
-longForestKM %>%
-   head(7)
+longForestKM
 ```
+```{r}
 
+longForestPercent <- forest_percent %>%
+   pivot_longer(!country, names_to = "forest.year", values_to = "percent")
+longForestPercent
+```
 ## Joining Table Together
 ```{r}
-forest_km_percent <- left_join(forest_km, forest_percent)
+forest_km_percent <- left_join(longForestKM, longForestPercent)
 head(forest_km_percent,5) 
 ```
 
