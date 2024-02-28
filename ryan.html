@@ -382,6 +382,8 @@ library(dplyr)</code></pre>
 library(ggplot2)</code></pre>
 <div id="combining-datasets" class="section level2">
 <h2>Combining Datasets</h2>
+<div id="read-csv-files" class="section level3">
+<h3>Read CSV Files</h3>
 <pre class="r"><code>forest_km &lt;- read_delim(&quot;forest_area_km.csv&quot;)</code></pre>
 <pre><code>## Rows: 259 Columns: 34
 ## ── Column specification ────────────────────────────────────────────────────────
@@ -410,8 +412,8 @@ library(ggplot2)</code></pre>
 ## ℹ Use `spec()` to retrieve the full column specification for this data.
 ## ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.</code></pre>
 </div>
-<div id="checking-first-few-columns-in-each-csv" class="section level2">
-<h2>Checking first few columns in each csv</h2>
+<div id="checking-first-few-columns-in-each-csv" class="section level3">
+<h3>Checking first few columns in each csv</h3>
 <pre class="r"><code>head(forest_km,5) </code></pre>
 <pre><code>## # A tibble: 5 × 34
 ##   `Country Name` `Country Code` `1990` `1991` `1992` `1993` `1994` `1995` `1996`
@@ -451,6 +453,11 @@ library(ggplot2)</code></pre>
 ## 3 Africa Algeria Algiers  1999                64.9
 ## 4 Africa Algeria Algiers  2000                64.2
 ## 5 Africa Algeria Algiers  2001                64.7</code></pre>
+</div>
+<div id="cleaning-up-csv-files" class="section level3">
+<h3>Cleaning Up CSV Files</h3>
+<div id="convert-country-name-header-to-country" class="section level4">
+<h4>Convert “Country Name” header to “country”</h4>
 <pre class="r"><code>forest_km &lt;- forest_km %&gt;%
   rename(country = `Country Name`)
   head(forest_km, 5)</code></pre>
@@ -467,6 +474,9 @@ library(ggplot2)</code></pre>
 ## #   `2007` &lt;dbl&gt;, `2008` &lt;dbl&gt;, `2009` &lt;dbl&gt;, `2010` &lt;dbl&gt;, `2011` &lt;dbl&gt;,
 ## #   `2012` &lt;dbl&gt;, `2013` &lt;dbl&gt;, `2014` &lt;dbl&gt;, `2015` &lt;dbl&gt;, `2016` &lt;dbl&gt;,
 ## #   `2017` &lt;dbl&gt;, `2018` &lt;dbl&gt;, `2019` &lt;dbl&gt;, `2020` &lt;dbl&gt;, `2021` &lt;dbl&gt;</code></pre>
+</div>
+<div id="convert-country-name-header-to-country-1" class="section level4">
+<h4>Convert “Country Name” header to “country”</h4>
 <pre class="r"><code>forest_percent &lt;- forest_percent %&gt;%
   rename(country = `Country Name`)
   head(forest_km, 5)</code></pre>
@@ -483,11 +493,15 @@ library(ggplot2)</code></pre>
 ## #   `2007` &lt;dbl&gt;, `2008` &lt;dbl&gt;, `2009` &lt;dbl&gt;, `2010` &lt;dbl&gt;, `2011` &lt;dbl&gt;,
 ## #   `2012` &lt;dbl&gt;, `2013` &lt;dbl&gt;, `2014` &lt;dbl&gt;, `2015` &lt;dbl&gt;, `2016` &lt;dbl&gt;,
 ## #   `2017` &lt;dbl&gt;, `2018` &lt;dbl&gt;, `2019` &lt;dbl&gt;, `2020` &lt;dbl&gt;, `2021` &lt;dbl&gt;</code></pre>
+</div>
+<div id="convert-year-data-type-from-double-to-char" class="section level4">
+<h4>Convert “year” data type from double to char</h4>
 <pre class="r"><code>global_temp &lt;- global_temp %&gt;%
   mutate(year = as.character(year))</code></pre>
 </div>
-<div id="convert-forms" class="section level2">
-<h2>Convert Forms</h2>
+</div>
+<div id="convert-forms-from-wide-to-long-form" class="section level3">
+<h3>Convert Forms from wide to long form</h3>
 <pre class="r"><code>countryList &lt;- c(&#39;country&#39;, &#39;Country Code&#39;)
 
 longForestKM &lt;- forest_km %&gt;%
@@ -537,6 +551,7 @@ longForestPercent</code></pre>
 ## 10 Afghanistan AFG            1999     1.85
 ## # ℹ 8,246 more rows</code></pre>
 </div>
+</div>
 <div id="joining-table-together-for-forest" class="section level2">
 <h2>Joining Table Together for Forest</h2>
 <pre class="r"><code>forest_km_percent &lt;- left_join(longForestKM, longForestPercent)</code></pre>
@@ -557,8 +572,8 @@ longForestPercent</code></pre>
 ## 10 Afghanistan AFG            1999  12084.    1.85
 ## # ℹ 8,278 more rows</code></pre>
 </div>
-<div id="joining-global-temp-together" class="section level2">
-<h2>Joining global temp together</h2>
+<div id="joining-global-temp-together-to-create-a-final-set" class="section level2">
+<h2>Joining global temp together to create a final set</h2>
 <pre class="r"><code>final_set &lt;- left_join(global_temp, forest_km_percent)</code></pre>
 <pre><code>## Joining with `by = join_by(country, year)`</code></pre>
 <pre class="r"><code>final_set</code></pre>
