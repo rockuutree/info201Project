@@ -401,10 +401,10 @@ library(ggplot2)</code></pre>
 ## ℹ Use `spec()` to retrieve the full column specification for this data.
 ## ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.</code></pre>
 <pre class="r"><code>global_temp &lt;- read_delim(&quot;Global_Temperatures.csv&quot;)</code></pre>
-<pre><code>## Rows: 3064 Columns: 6
+<pre><code>## Rows: 3064 Columns: 5
 ## ── Column specification ────────────────────────────────────────────────────────
 ## Delimiter: &quot;,&quot;
-## chr (4): region, country, state, city
+## chr (3): region, country, city
 ## dbl (2): year, average_temperature
 ## 
 ## ℹ Use `spec()` to retrieve the full column specification for this data.
@@ -443,14 +443,14 @@ library(ggplot2)</code></pre>
 ## #   `2016` &lt;dbl&gt;, `2017` &lt;dbl&gt;, `2018` &lt;dbl&gt;, `2019` &lt;dbl&gt;, `2020` &lt;dbl&gt;,
 ## #   `2021` &lt;dbl&gt;</code></pre>
 <pre class="r"><code>head(global_temp,5)</code></pre>
-<pre><code>## # A tibble: 5 × 6
-##   region country state city     year average_temperature
-##   &lt;chr&gt;  &lt;chr&gt;   &lt;chr&gt; &lt;chr&gt;   &lt;dbl&gt;               &lt;dbl&gt;
-## 1 Africa Algeria &lt;NA&gt;  Algiers  1997                64.9
-## 2 Africa Algeria &lt;NA&gt;  Algiers  1998                63.6
-## 3 Africa Algeria &lt;NA&gt;  Algiers  1999                64.9
-## 4 Africa Algeria &lt;NA&gt;  Algiers  2000                64.2
-## 5 Africa Algeria &lt;NA&gt;  Algiers  2001                64.7</code></pre>
+<pre><code>## # A tibble: 5 × 5
+##   region country city     year average_temperature
+##   &lt;chr&gt;  &lt;chr&gt;   &lt;chr&gt;   &lt;dbl&gt;               &lt;dbl&gt;
+## 1 Africa Algeria Algiers  1997                64.9
+## 2 Africa Algeria Algiers  1998                63.6
+## 3 Africa Algeria Algiers  1999                64.9
+## 4 Africa Algeria Algiers  2000                64.2
+## 5 Africa Algeria Algiers  2001                64.7</code></pre>
 <pre class="r"><code>forest_km &lt;- forest_km %&gt;%
   rename(country = `Country Name`)
   head(forest_km, 5)</code></pre>
@@ -562,21 +562,20 @@ longForestPercent</code></pre>
 <pre class="r"><code>final_set &lt;- left_join(global_temp, forest_km_percent)</code></pre>
 <pre><code>## Joining with `by = join_by(country, year)`</code></pre>
 <pre class="r"><code>final_set</code></pre>
-<pre><code>## # A tibble: 3,064 × 9
-##    region country state city    year  average_temperature `Country Code`    km
-##    &lt;chr&gt;  &lt;chr&gt;   &lt;chr&gt; &lt;chr&gt;   &lt;chr&gt;               &lt;dbl&gt; &lt;chr&gt;          &lt;dbl&gt;
-##  1 Africa Algeria &lt;NA&gt;  Algiers 1997                 64.9 DZA            16054
-##  2 Africa Algeria &lt;NA&gt;  Algiers 1998                 63.6 DZA            15966
-##  3 Africa Algeria &lt;NA&gt;  Algiers 1999                 64.9 DZA            15878
-##  4 Africa Algeria &lt;NA&gt;  Algiers 2000                 64.2 DZA            15790
-##  5 Africa Algeria &lt;NA&gt;  Algiers 2001                 64.7 DZA            16129
-##  6 Africa Algeria &lt;NA&gt;  Algiers 2002                 64.1 DZA            16468
-##  7 Africa Algeria &lt;NA&gt;  Algiers 2003                 65.5 DZA            16807
-##  8 Africa Algeria &lt;NA&gt;  Algiers 2004                 64.1 DZA            17146
-##  9 Africa Algeria &lt;NA&gt;  Algiers 2005                 62.9 DZA            17485
-## 10 Africa Algeria &lt;NA&gt;  Algiers 2006                 64.9 DZA            17824
-## # ℹ 3,054 more rows
-## # ℹ 1 more variable: percent &lt;dbl&gt;</code></pre>
+<pre><code>## # A tibble: 3,064 × 8
+##    region country city    year  average_temperature `Country Code`    km percent
+##    &lt;chr&gt;  &lt;chr&gt;   &lt;chr&gt;   &lt;chr&gt;               &lt;dbl&gt; &lt;chr&gt;          &lt;dbl&gt;   &lt;dbl&gt;
+##  1 Africa Algeria Algiers 1997                 64.9 DZA            16054   0.674
+##  2 Africa Algeria Algiers 1998                 63.6 DZA            15966   0.670
+##  3 Africa Algeria Algiers 1999                 64.9 DZA            15878   0.667
+##  4 Africa Algeria Algiers 2000                 64.2 DZA            15790   0.663
+##  5 Africa Algeria Algiers 2001                 64.7 DZA            16129   0.677
+##  6 Africa Algeria Algiers 2002                 64.1 DZA            16468   0.691
+##  7 Africa Algeria Algiers 2003                 65.5 DZA            16807   0.706
+##  8 Africa Algeria Algiers 2004                 64.1 DZA            17146   0.720
+##  9 Africa Algeria Algiers 2005                 62.9 DZA            17485   0.734
+## 10 Africa Algeria Algiers 2006                 64.9 DZA            17824   0.748
+## # ℹ 3,054 more rows</code></pre>
 </div>
 
 
