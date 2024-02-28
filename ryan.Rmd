@@ -5,19 +5,45 @@ date: "`r Sys.Date()`"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+##Loading libraries
+```{r}
+library(readr)
+library(dplyr)
+library(tidyverse)
+library(stringr)
+library(ggplot2)
 ```
 
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+## Combining Datasets
 
 ```{r cars}
-summary(cars)
+forest_km <- read_delim("forest_area_km.csv")
+forest_percent <- read_delim("forest_area_percent.csv")
+global_temp <- read_delim("Global_Temperatures.csv")
+```
+## Checking first few columns in each csv
+```{r}
+head(forest_km,5) 
+head(forest_percent,5) 
+head(global_temp,5)
+```
+## Convert Forms
+
+```{r}
+country <- c('Country Name', 'Country Code')
+
+longForestKM <- forest_km %>%
+   pivot_longer(!country, names_to = "forest.year", values_to = "km")
+longForestKM %>%
+   head(7)
 ```
 
-## Including Plots
+## Joining Table Together
+```{r}
+forest_km_percent <- left_join(forest_km, forest_percent)
+head(forest_km_percent,5) 
+```
+
+
+
 
