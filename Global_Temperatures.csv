@@ -1,0 +1,3065 @@
+region,country,state,city,year,average_temperature
+Africa,Algeria,,Algiers,1997,64.926301369863
+Africa,Algeria,,Algiers,1998,63.61966759002768
+Africa,Algeria,,Algiers,1999,64.92362637362642
+Africa,Algeria,,Algiers,2000,64.18278688524586
+Africa,Algeria,,Algiers,2001,64.66986301369867
+Africa,Algeria,,Algiers,2002,64.13545706371188
+Africa,Algeria,,Algiers,2003,65.49340659340658
+Africa,Algeria,,Algiers,2004,64.08743169398907
+Africa,Algeria,,Algiers,2005,62.91342465753426
+Africa,Algeria,,Algiers,2006,64.93041095890408
+Africa,Algeria,,Algiers,2007,63.61236263736265
+Africa,Algeria,,Algiers,2008,63.97753424657535
+Africa,Algeria,,Algiers,2009,64.70824175824175
+Africa,Algeria,,Algiers,2010,64.26821917808216
+Africa,Algeria,,Algiers,2011,64.96082191780816
+Africa,Algeria,,Algiers,2012,64.29043715846997
+Africa,Algeria,,Algiers,2013,63.70465753424658
+Africa,Algeria,,Algiers,2014,65.64697802197797
+Africa,Algeria,,Algiers,2015,64.9436813186813
+Africa,Algeria,,Algiers,2016,65.31187845303864
+Africa,Algeria,,Algiers,2017,64.99589041095896
+Africa,Algeria,,Algiers,2018,64.41944444444447
+Africa,Algeria,,Algiers,2019,64.9927576601671
+Africa,Algeria,,Algiers,2020,58.034328358208924
+Africa,Algeria,,Algiers,1995,64.41046831955923
+Africa,Algeria,,Algiers,1996,63.53021978021981
+Africa,Burundi,,Bujumbura,1995,79.32604166666667
+Africa,Burundi,,Bujumbura,1996,79.20628571428571
+Africa,Burundi,,Bujumbura,1997,78.43391304347826
+Africa,Burundi,,Bujumbura,1998,82.4
+Africa,Burundi,,Bujumbura,1999,77.4
+Africa,Burundi,,Bujumbura,2003,81.3
+Africa,Burundi,,Bujumbura,2004,76.61333333333333
+Africa,Burundi,,Bujumbura,2005,74.05098039215686
+Africa,Burundi,,Bujumbura,2006,59.992792792792756
+Africa,Burundi,,Bujumbura,2007,54.52765957446802
+Africa,Benin,,Cotonou,1995,81.67873563218394
+Africa,Benin,,Cotonou,1996,81.4353760445683
+Africa,Benin,,Cotonou,1997,80.90614525139664
+Africa,Benin,,Cotonou,1998,82.29745454545446
+Africa,Benin,,Cotonou,1999,81.27150997150994
+Africa,Benin,,Cotonou,2000,81.9016233766234
+Africa,Benin,,Cotonou,2001,81.5440771349862
+Africa,Benin,,Cotonou,2002,81.38690807799448
+Africa,Benin,,Cotonou,2003,81.84472934472929
+Africa,Benin,,Cotonou,2004,81.28360655737704
+Africa,Benin,,Cotonou,2005,81.57123287671239
+Africa,Benin,,Cotonou,2006,82.08698224852066
+Africa,Benin,,Cotonou,2007,81.22727272727269
+Africa,Benin,,Cotonou,2008,81.19857549857558
+Africa,Benin,,Cotonou,2009,81.53104395604393
+Africa,Benin,,Cotonou,2010,82.55835616438355
+Africa,Benin,,Cotonou,2011,81.47445054945058
+Africa,Benin,,Cotonou,2012,81.21366120218576
+Africa,Benin,,Cotonou,2013,81.60384615384619
+Africa,Benin,,Cotonou,2014,81.62576177285317
+Africa,Benin,,Cotonou,2015,81.56098901098893
+Africa,Benin,,Cotonou,2016,82.17817679558006
+Africa,Benin,,Cotonou,2017,82.15342465753416
+Africa,Benin,,Cotonou,2018,82.20698324022342
+Africa,Benin,,Cotonou,2019,82.41197771587741
+Africa,Benin,,Cotonou,2020,83.81119402985077
+Africa,Central African Republic,,Bangui,1995,78.36134751773048
+Africa,Central African Republic,,Bangui,1996,77.77566539923953
+Africa,Central African Republic,,Bangui,1997,78.83278688524587
+Africa,Central African Republic,,Bangui,1998,79.21158940397356
+Africa,Central African Republic,,Bangui,1999,78.55723076923078
+Africa,Central African Republic,,Bangui,2000,78.33728323699424
+Africa,Central African Republic,,Bangui,2001,77.9724233983287
+Africa,Central African Republic,,Bangui,2002,78.13183098591551
+Africa,Central African Republic,,Bangui,2003,78.28607954545458
+Africa,Central African Republic,,Bangui,2004,78.31787709497206
+Africa,Central African Republic,,Bangui,2005,78.54183381088826
+Africa,Central African Republic,,Bangui,2006,78.52067988668551
+Africa,Central African Republic,,Bangui,2007,79.12039660056661
+Africa,Central African Republic,,Bangui,2008,78.67603305785131
+Africa,Central African Republic,,Bangui,2009,79.18760806916427
+Africa,Central African Republic,,Bangui,2010,79.90146627565984
+Africa,Central African Republic,,Bangui,2011,79.23917808219181
+Africa,Central African Republic,,Bangui,2012,79.10054644808746
+Africa,Central African Republic,,Bangui,2013,78.76510989010995
+Africa,Central African Republic,,Bangui,2014,78.76620111731849
+Africa,Central African Republic,,Bangui,2015,79.08022598870053
+Africa,Central African Republic,,Bangui,2016,79.28867403314912
+Africa,Central African Republic,,Bangui,2017,79.36164383561645
+Africa,Central African Republic,,Bangui,2018,78.48305555555558
+Africa,Central African Republic,,Bangui,2019,79.47794561933532
+Africa,Central African Republic,,Bangui,2020,81.41343283582091
+Africa,Congo,,Brazzaville,1995,78.28616714697411
+Africa,Congo,,Brazzaville,1996,77.11885714285718
+Africa,Congo,,Brazzaville,1997,78.52470588235295
+Africa,Congo,,Brazzaville,1998,79.27089201877936
+Africa,Congo,,Brazzaville,1999,78.34495677233431
+Africa,Congo,,Brazzaville,2000,76.91198830409351
+Africa,Congo,,Brazzaville,2001,77.45955678670363
+Africa,Congo,,Brazzaville,2002,78.35112359550568
+Africa,Congo,,Brazzaville,2003,78.3947945205479
+Africa,Congo,,Brazzaville,2004,78.3321428571429
+Africa,Congo,,Brazzaville,2005,78.37753424657538
+Africa,Congo,,Brazzaville,2006,77.96164383561644
+Africa,Congo,,Brazzaville,2007,77.77884615384616
+Africa,Congo,,Brazzaville,2008,77.57589041095888
+Africa,Congo,,Brazzaville,2009,77.9129120879121
+Africa,Congo,,Brazzaville,2010,78.84972375690614
+Africa,Congo,,Brazzaville,2011,77.87917808219177
+Africa,Congo,,Brazzaville,2012,77.69808743169396
+Africa,Congo,,Brazzaville,2013,77.90684931506851
+Africa,Congo,,Brazzaville,2014,78.54293628808864
+Africa,Congo,,Brazzaville,2015,78.16703296703304
+Africa,Congo,,Brazzaville,2016,78.70303867403318
+Africa,Congo,,Brazzaville,2017,78.29917808219174
+Africa,Congo,,Brazzaville,2018,78.52576177285322
+Africa,Congo,,Brazzaville,2019,78.59611111111107
+Africa,Congo,,Brazzaville,2020,81.10601503759396
+Africa,Egypt,,Cairo,1995,70.77150684931506
+Africa,Egypt,,Cairo,1996,71.32459016393443
+Africa,Egypt,,Cairo,1997,70.76657534246577
+Africa,Egypt,,Cairo,1998,72.63994413407823
+Africa,Egypt,,Cairo,1999,72.28489010989009
+Africa,Egypt,,Cairo,2000,71.23698630136992
+Africa,Egypt,,Cairo,2001,72.73726027397261
+Africa,Egypt,,Cairo,2002,72.51052631578945
+Africa,Egypt,,Cairo,2003,72.34945054945052
+Africa,Egypt,,Cairo,2004,72.27021857923499
+Africa,Egypt,,Cairo,2005,72.03780821917809
+Africa,Egypt,,Cairo,2006,72.10767123287673
+Africa,Egypt,,Cairo,2007,72.79945054945054
+Africa,Egypt,,Cairo,2008,73.39283746556474
+Africa,Egypt,,Cairo,2009,74.12170329670326
+Africa,Egypt,,Cairo,2010,75.51150684931515
+Africa,Egypt,,Cairo,2011,71.86027397260276
+Africa,Egypt,,Cairo,2012,72.6803278688525
+Africa,Egypt,,Cairo,2013,72.58520547945211
+Africa,Egypt,,Cairo,2014,73.15769230769233
+Africa,Egypt,,Cairo,2015,72.71813186813186
+Africa,Egypt,,Cairo,2016,74.88194444444447
+Africa,Egypt,,Cairo,2017,74.0241095890411
+Africa,Egypt,,Cairo,2018,75.71527777777774
+Africa,Egypt,,Cairo,2019,73.8339832869081
+Africa,Egypt,,Cairo,2020,63.63880597014926
+Africa,Ethiopia,,Addis Ababa,1995,62.29250000000004
+Africa,Ethiopia,,Addis Ababa,1996,61.65892351274784
+Africa,Ethiopia,,Addis Ababa,1997,62.87546583850936
+Africa,Ethiopia,,Addis Ababa,1998,62.40795454545458
+Africa,Ethiopia,,Addis Ababa,1999,62.633333333333304
+Africa,Ethiopia,,Addis Ababa,2000,62.53694029850745
+Africa,Ethiopia,,Addis Ababa,2001,63.91201923076922
+Africa,Ethiopia,,Addis Ababa,2002,66.15535714285716
+Africa,Ethiopia,,Addis Ababa,2003,64.15
+Africa,Ethiopia,,Addis Ababa,2004,63.443999999999996
+Africa,Ethiopia,,Addis Ababa,2005,64.17785016286646
+Africa,Ethiopia,,Addis Ababa,2006,63.8872262773723
+Africa,Ethiopia,,Addis Ababa,2007,62.57322580645157
+Africa,Ethiopia,,Addis Ababa,2008,63.14383561643829
+Africa,Ethiopia,,Addis Ababa,2009,62.735384615384625
+Africa,Ethiopia,,Addis Ababa,2010,61.438492063492085
+Africa,Ethiopia,,Addis Ababa,2011,62.79150141643065
+Africa,Ethiopia,,Addis Ababa,2012,62.487921348314565
+Africa,Ethiopia,,Addis Ababa,2013,62.98361111111111
+Africa,Ethiopia,,Addis Ababa,2014,63.63343023255809
+Africa,Ethiopia,,Addis Ababa,2015,64.09552238805969
+Africa,Ethiopia,,Addis Ababa,2016,63.10250000000003
+Africa,Ethiopia,,Addis Ababa,2017,62.45277777777774
+Africa,Ethiopia,,Addis Ababa,2018,62.1211604095563
+Africa,Ethiopia,,Addis Ababa,2019,63.119020172910716
+Africa,Ethiopia,,Addis Ababa,2020,65.17819548872181
+Africa,Gabon,,Libreville,1995,79.57030716723548
+Africa,Gabon,,Libreville,1996,78.65803921568627
+Africa,Gabon,,Libreville,1997,80.5279411764706
+Africa,Gabon,,Libreville,1998,80.53563218390804
+Africa,Gabon,,Libreville,1999,79.79820895522391
+Africa,Gabon,,Libreville,2000,79.25542857142851
+Africa,Gabon,,Libreville,2001,79.29393939393941
+Africa,Gabon,,Libreville,2002,79.73222222222219
+Africa,Gabon,,Libreville,2003,79.86470588235294
+Africa,Gabon,,Libreville,2004,79.83543543543547
+Africa,Gabon,,Libreville,2005,79.62853185595567
+Africa,Gabon,,Libreville,2006,79.66821917808224
+Africa,Gabon,,Libreville,2007,80.24297520661159
+Africa,Gabon,,Libreville,2008,79.9245856353591
+Africa,Gabon,,Libreville,2009,79.92417582417583
+Africa,Gabon,,Libreville,2010,80.13753424657536
+Africa,Gabon,,Libreville,2011,79.34520547945203
+Africa,Gabon,,Libreville,2012,78.33251366120213
+Africa,Gabon,,Libreville,2013,79.62493150684925
+Africa,Gabon,,Libreville,2014,79.78107344632771
+Africa,Gabon,,Libreville,2015,79.97472527472523
+Africa,Gabon,,Libreville,2016,80.97707182320443
+Africa,Gabon,,Libreville,2017,80.36630136986297
+Africa,Gabon,,Libreville,2018,80.22714681440448
+Africa,Gabon,,Libreville,2019,80.53816155988864
+Africa,Gabon,,Libreville,2020,82.79253731343283
+Africa,Gambia,,Banjul,1995,77.93872832369935
+Africa,Gambia,,Banjul,1996,77.98146853146852
+Africa,Gambia,,Banjul,1997,79.75600000000004
+Africa,Gambia,,Banjul,1998,79.80953947368425
+Africa,Gambia,,Banjul,1999,78.51615598885795
+Africa,Gambia,,Banjul,2000,78.89413793103445
+Africa,Gambia,,Banjul,2001,79.82531250000001
+Africa,Gambia,,Banjul,2002,79.05185185185178
+Africa,Gambia,,Banjul,2003,79.66646341463412
+Africa,Gambia,,Banjul,2004,79.43263473053896
+Africa,Gambia,,Banjul,2005,80.11679999999996
+Africa,Gambia,,Banjul,2006,78.96409090909096
+Africa,Gambia,,Banjul,2007,79.55634674922601
+Africa,Gambia,,Banjul,2010,79.91243093922658
+Africa,Gambia,,Banjul,2011,78.74191780821917
+Africa,Gambia,,Banjul,2012,78.99808743169402
+Africa,Gambia,,Banjul,2013,78.90739726027397
+Africa,Gambia,,Banjul,2014,78.79614325068876
+Africa,Gambia,,Banjul,2015,78.38461538461537
+Africa,Gambia,,Banjul,2016,78.84889502762428
+Africa,Gambia,,Banjul,2017,79.30816326530605
+Africa,Gambia,,Banjul,2018,77.83960674157301
+Africa,Gambia,,Banjul,2019,78.7670391061452
+Africa,Gambia,,Banjul,2020,79.41716417910446
+Africa,Guinea,,Conakry,1995,81.6284518828452
+Africa,Guinea,,Conakry,1996,80.84631268436577
+Africa,Guinea,,Conakry,1997,82.54428571428575
+Africa,Guinea,,Conakry,1998,83.62727272727271
+Africa,Guinea,,Conakry,1999,81.59954954954958
+Africa,Guinea,,Conakry,2000,80.94067796610173
+Africa,Guinea,,Conakry,2001,81.39413580246915
+Africa,Guinea,,Conakry,2002,81.74135802469132
+Africa,Guinea,,Conakry,2003,81.50515759312322
+Africa,Guinea,,Conakry,2004,81.92786885245899
+Africa,Guinea,,Conakry,2005,82.04581005586594
+Africa,Guinea,,Conakry,2006,81.87301136363635
+Africa,Guinea,,Conakry,2007,81.69730639730635
+Africa,Guinea,,Conakry,2008,82.23975155279504
+Africa,Guinea,,Conakry,2009,81.5960784313726
+Africa,Guinea,,Conakry,2010,82.81451612903227
+Africa,Guinea,,Conakry,2011,82.57864406779656
+Africa,Guinea,,Conakry,2012,81.03928571428574
+Africa,Guinea,,Conakry,2013,80.89638888888894
+Africa,Guinea,,Conakry,2014,80.70000000000006
+Africa,Guinea,,Conakry,2015,80.7117824773414
+Africa,Guinea,,Conakry,2016,81.05847953216373
+Africa,Guinea,,Conakry,2017,81.43438395415474
+Africa,Guinea,,Conakry,2018,81.02199413489735
+Africa,Guinea,,Conakry,2019,81.6666666666667
+Africa,Guinea,,Conakry,2020,83.88560606060608
+Africa,Guinea-Bissau,,Bissau,1995,83.66228571428573
+Africa,Guinea-Bissau,,Bissau,1996,83.15953757225435
+Africa,Guinea-Bissau,,Bissau,1997,83.4097014925373
+Africa,Guinea-Bissau,,Bissau,1998,84.30000000000001
+Africa,Guinea-Bissau,,Bissau,2006,82.57622950819675
+Africa,Guinea-Bissau,,Bissau,2007,83.98640776699028
+Africa,Guinea-Bissau,,Bissau,2008,83.85130434782609
+Africa,Guinea-Bissau,,Bissau,2009,82.59458689458691
+Africa,Guinea-Bissau,,Bissau,2010,82.72676056338037
+Africa,Guinea-Bissau,,Bissau,2011,81.82333333333334
+Africa,Guinea-Bissau,,Bissau,2012,81.51774647887326
+Africa,Guinea-Bissau,,Bissau,2013,81.96034482758621
+Africa,Guinea-Bissau,,Bissau,2014,81.79942693409738
+Africa,Guinea-Bissau,,Bissau,2015,81.56502890173412
+Africa,Guinea-Bissau,,Bissau,2016,81.91163434903052
+Africa,Guinea-Bissau,,Bissau,2017,81.90383561643836
+Africa,Guinea-Bissau,,Bissau,2018,81.03722222222221
+Africa,Guinea-Bissau,,Bissau,2019,81.99241573033707
+Africa,Guinea-Bissau,,Bissau,2020,84.21526717557254
+Africa,Ivory Coast,,Abidjan,1995,80.57747252747251
+Africa,Ivory Coast,,Abidjan,1996,80.51377410468318
+Africa,Ivory Coast,,Abidjan,1997,80.28463687150841
+Africa,Ivory Coast,,Abidjan,1998,81.1135734072022
+Africa,Ivory Coast,,Abidjan,1999,80.57300613496935
+Africa,Ivory Coast,,Abidjan,2000,79.88882521489965
+Africa,Ivory Coast,,Abidjan,2001,79.95305555555554
+Africa,Ivory Coast,,Abidjan,2002,80.4266211604095
+Africa,Ivory Coast,,Abidjan,2003,80.28504983388709
+Africa,Ivory Coast,,Abidjan,2004,80.57306590257886
+Africa,Ivory Coast,,Abidjan,2005,80.56465753424658
+Africa,Ivory Coast,,Abidjan,2006,78.7019230769231
+Africa,Ivory Coast,,Abidjan,2007,77.25906593406592
+Africa,Ivory Coast,,Abidjan,2008,79.64903581267215
+Africa,Ivory Coast,,Abidjan,2009,78.64505494505495
+Africa,Ivory Coast,,Abidjan,2010,80.56575342465752
+Africa,Ivory Coast,,Abidjan,2011,78.86923076923073
+Africa,Ivory Coast,,Abidjan,2012,79.85409836065574
+Africa,Ivory Coast,,Abidjan,2013,80.29315068493146
+Africa,Ivory Coast,,Abidjan,2014,80.30439560439555
+Africa,Ivory Coast,,Abidjan,2015,80.62060439560442
+Africa,Ivory Coast,,Abidjan,2016,81.30853994490349
+Africa,Ivory Coast,,Abidjan,2017,81.25479452054795
+Africa,Ivory Coast,,Abidjan,2018,81.39168975069252
+Africa,Ivory Coast,,Abidjan,2019,81.51749999999998
+Africa,Ivory Coast,,Abidjan,2020,83.60746268656712
+Africa,Kenya,,Nairobi,1995,68.81245791245792
+Africa,Kenya,,Nairobi,1996,68.03693693693685
+Africa,Kenya,,Nairobi,1997,66.86888888888893
+Africa,Kenya,,Nairobi,1998,65.998406374502
+Africa,Kenya,,Nairobi,1999,67.93066666666665
+Africa,Kenya,,Nairobi,2000,65.96
+Africa,Kenya,,Nairobi,2001,65.20121212121208
+Africa,Kenya,,Nairobi,2002,65.81350210970463
+Africa,Kenya,,Nairobi,2003,66.67523809523802
+Africa,Kenya,,Nairobi,2004,67.55497076023399
+Africa,Kenya,,Nairobi,2005,68.3455089820359
+Africa,Kenya,,Nairobi,2006,69.31626016260164
+Africa,Kenya,,Nairobi,2010,66.17032967032966
+Africa,Kenya,,Nairobi,2011,66.74318181818181
+Africa,Kenya,,Nairobi,2012,67.5796703296703
+Africa,Kenya,,Nairobi,2013,67.1445454545454
+Africa,Kenya,,Nairobi,2014,67.23183279742764
+Africa,Kenya,,Nairobi,2015,67.86656804733727
+Africa,Kenya,,Nairobi,2016,67.95595238095234
+Africa,Kenya,,Nairobi,2017,68.650144092219
+Africa,Kenya,,Nairobi,2018,66.8605042016807
+Africa,Kenya,,Nairobi,2019,68.34341736694678
+Africa,Kenya,,Nairobi,2020,68.97443609022558
+Africa,Morocco,,Rabat,1995,64.79369863013699
+Africa,Morocco,,Rabat,1996,63.50983606557379
+Africa,Morocco,,Rabat,1997,64.58876712328765
+Africa,Morocco,,Rabat,1998,63.822005571030665
+Africa,Morocco,,Rabat,1999,62.812912087912125
+Africa,Morocco,,Rabat,2000,63.35245901639344
+Africa,Morocco,,Rabat,2001,63.956164383561706
+Africa,Morocco,,Rabat,2002,63.30609418282555
+Africa,Morocco,,Rabat,2003,63.8153846153846
+Africa,Morocco,,Rabat,2004,63.39672131147545
+Africa,Morocco,,Rabat,2005,62.972602739726085
+Africa,Morocco,,Rabat,2006,64.0693150684932
+Africa,Morocco,,Rabat,2007,62.96280991735538
+Africa,Morocco,,Rabat,2008,62.97162534435264
+Africa,Morocco,,Rabat,2009,61.86373626373628
+Africa,Morocco,,Rabat,2010,64.51381215469614
+Africa,Morocco,,Rabat,2011,63.72383561643836
+Africa,Morocco,,Rabat,2012,62.62868852459014
+Africa,Morocco,,Rabat,2013,62.916483516483524
+Africa,Morocco,,Rabat,2014,63.53489010989009
+Africa,Morocco,,Rabat,2015,63.70576923076919
+Africa,Morocco,,Rabat,2016,64.19862258953175
+Africa,Morocco,,Rabat,2017,64.20931506849317
+Africa,Morocco,,Rabat,2018,62.52292817679554
+Africa,Morocco,,Rabat,2019,62.38440111420613
+Africa,Morocco,,Rabat,2020,57.94253731343289
+Africa,Madagascar,,Antananarivo,1995,66.2354570637119
+Africa,Madagascar,,Antananarivo,1996,65.7337912087912
+Africa,Madagascar,,Antananarivo,1997,66.86541786743516
+Africa,Madagascar,,Antananarivo,1998,65.32076023391814
+Africa,Madagascar,,Antananarivo,1999,65.13735632183909
+Africa,Madagascar,,Antananarivo,2000,65.1139941690962
+Africa,Madagascar,,Antananarivo,2001,66.20657534246575
+Africa,Madagascar,,Antananarivo,2002,65.93019390581725
+Africa,Madagascar,,Antananarivo,2003,65.8631868131868
+Africa,Madagascar,,Antananarivo,2004,65.35382513661202
+Africa,Madagascar,,Antananarivo,2005,65.53671232876721
+Africa,Madagascar,,Antananarivo,2006,65.42794520547946
+Africa,Madagascar,,Antananarivo,2007,65.55055248618787
+Africa,Madagascar,,Antananarivo,2008,65.18246575342464
+Africa,Madagascar,,Antananarivo,2009,65.87664835164834
+Africa,Madagascar,,Antananarivo,2010,66.6101369863014
+Africa,Madagascar,,Antananarivo,2011,66.65999999999994
+Africa,Madagascar,,Antananarivo,2012,54.404098360655574
+Africa,Madagascar,,Antananarivo,2013,64.36465753424662
+Africa,Madagascar,,Antananarivo,2014,66.28873626373625
+Africa,Madagascar,,Antananarivo,2015,66.21868131868125
+Africa,Madagascar,,Antananarivo,2016,65.65911602209938
+Africa,Madagascar,,Antananarivo,2017,66.2049315068493
+Africa,Madagascar,,Antananarivo,2018,65.99116022099446
+Africa,Madagascar,,Antananarivo,2019,67.19860724233985
+Africa,Madagascar,,Antananarivo,2020,69.439552238806
+Africa,Mauritania,,Nouakchott,1995,77.87949438202244
+Africa,Mauritania,,Nouakchott,1996,78.13899371069182
+Africa,Mauritania,,Nouakchott,1997,79.42616279069763
+Africa,Mauritania,,Nouakchott,1998,78.95686274509802
+Africa,Mauritania,,Nouakchott,1999,76.91855072463765
+Africa,Mauritania,,Nouakchott,2000,77.58250000000001
+Africa,Mauritania,,Nouakchott,2001,78.69606741573031
+Africa,Mauritania,,Nouakchott,2002,77.76327683615823
+Africa,Mauritania,,Nouakchott,2003,77.51033519553071
+Africa,Mauritania,,Nouakchott,2004,77.61685082872927
+Africa,Mauritania,,Nouakchott,2005,78.54401114206128
+Africa,Mauritania,,Nouakchott,2006,78.27016574585642
+Africa,Mauritania,,Nouakchott,2007,77.82782369146005
+Africa,Mauritania,,Nouakchott,2008,78.6838888888888
+Africa,Mauritania,,Nouakchott,2009,77.1901098901099
+Africa,Mauritania,,Nouakchott,2010,78.93315068493155
+Africa,Mauritania,,Nouakchott,2011,77.21315068493152
+Africa,Mauritania,,Nouakchott,2012,77.89508196721309
+Africa,Mauritania,,Nouakchott,2013,78.57698630136989
+Africa,Mauritania,,Nouakchott,2014,77.62362637362642
+Africa,Mauritania,,Nouakchott,2015,78.80604395604392
+Africa,Mauritania,,Nouakchott,2016,78.40666666666671
+Africa,Mauritania,,Nouakchott,2017,78.293567251462
+Africa,Mauritania,,Nouakchott,2018,70.25
+Africa,Malawi,,Lilongwe,1995,68.8954732510288
+Africa,Malawi,,Lilongwe,1996,69.91932773109241
+Africa,Malawi,,Lilongwe,1997,68.17662835249041
+Africa,Malawi,,Lilongwe,1998,71.4009950248756
+Africa,Malawi,,Lilongwe,1999,70.32866666666665
+Africa,Malawi,,Lilongwe,2000,66.4573529411765
+Africa,Malawi,,Lilongwe,2001,68.01199999999999
+Africa,Malawi,,Lilongwe,2002,72.18031496062984
+Africa,Malawi,,Lilongwe,2003,70.97200000000001
+Africa,Malawi,,Lilongwe,2006,69.9
+Africa,Malawi,,Lilongwe,2010,72.20881226053643
+Africa,Malawi,,Lilongwe,2011,71.28198757763981
+Africa,Malawi,,Lilongwe,2012,71.68640776699027
+Africa,Malawi,,Lilongwe,2013,69.78899999999997
+Africa,Mozambique,,Maputo,1995,74.4183844011142
+Africa,Mozambique,,Maputo,1996,74.1400621118013
+Africa,Mozambique,,Maputo,1997,73.9665644171779
+Africa,Mozambique,,Maputo,1998,75.17703488372094
+Africa,Mozambique,,Maputo,1999,74.85158501440928
+Africa,Mozambique,,Maputo,2000,74.18338762214971
+Africa,Mozambique,,Maputo,2001,74.75042492917852
+Africa,Mozambique,,Maputo,2002,74.92216066481993
+Africa,Mozambique,,Maputo,2003,75.1899135446686
+Africa,Mozambique,,Maputo,2004,74.71213872832371
+Africa,Mozambique,,Maputo,2005,74.53081395348836
+Africa,Mozambique,,Maputo,2006,73.98478873239445
+Africa,Mozambique,,Maputo,2007,75.10756302521015
+Africa,Mozambique,,Maputo,2008,74.75604395604394
+Africa,Mozambique,,Maputo,2009,74.50279329608938
+Africa,Mozambique,,Maputo,2010,75.11276595744683
+Africa,Mozambique,,Maputo,2011,78.6480769230769
+Africa,Mozambique,,Maputo,2012,73.46220238095245
+Africa,Mozambique,,Maputo,2013,74.00786516853934
+Africa,Mozambique,,Maputo,2014,74.61836158192088
+Africa,Mozambique,,Maputo,2015,75.14132231404966
+Africa,Mozambique,,Maputo,2016,74.81104972375692
+Africa,Mozambique,,Maputo,2017,74.42617079889807
+Africa,Mozambique,,Maputo,2018,74.77146892655364
+Africa,Mozambique,,Maputo,2019,75.27103064066853
+Africa,Mozambique,,Maputo,2020,77.71865671641794
+Africa,Namibia,,Windhoek,1995,69.15821727019495
+Africa,Namibia,,Windhoek,1996,68.39041095890414
+Africa,Namibia,,Windhoek,1997,67.58407821229052
+Africa,Namibia,,Windhoek,1998,71.33732590529253
+Africa,Namibia,,Windhoek,1999,68.75110497237571
+Africa,Namibia,,Windhoek,2000,68.03626062322942
+Africa,Namibia,,Windhoek,2001,71.00393700787403
+Africa,Namibia,,Windhoek,2002,73.01190476190477
+Africa,Namibia,,Windhoek,2003,73.87516778523488
+Africa,Namibia,,Windhoek,2004,70.07147335423195
+Africa,Namibia,,Windhoek,2005,70.92760563380283
+Africa,Namibia,,Windhoek,2006,64.76786703601107
+Africa,Namibia,,Windhoek,2007,68.64156976744187
+Africa,Namibia,,Windhoek,2008,67.19916666666668
+Africa,Namibia,,Windhoek,2009,67.96600566572236
+Africa,Namibia,,Windhoek,2010,69.52760563380278
+Africa,Namibia,,Windhoek,2011,65.62607361963188
+Africa,Namibia,,Windhoek,2012,68.75883977900554
+Africa,Namibia,,Windhoek,2013,70.54293628808861
+Africa,Namibia,,Windhoek,2014,67.56422535211266
+Africa,Namibia,,Windhoek,2015,69.67943661971829
+Africa,Namibia,,Windhoek,2016,70.88753541076488
+Africa,Namibia,,Windhoek,2017,69.0702777777778
+Africa,Namibia,,Windhoek,2018,70.32656250000004
+Africa,Namibia,,Windhoek,2019,72.07977207977207
+Africa,Namibia,,Windhoek,2020,72.19850746268656
+Africa,Nigeria,,Niamey,1995,85.40166666666663
+Africa,Nigeria,,Niamey,1996,85.77534626038779
+Africa,Nigeria,,Niamey,1997,85.85581395348838
+Africa,Nigeria,,Niamey,1998,85.34302670623146
+Africa,Nigeria,,Niamey,1999,83.22067901234563
+Africa,Nigeria,,Niamey,2000,84.4618843683083
+Africa,Nigeria,,Niamey,2001,83.15096153846157
+Africa,Nigeria,,Niamey,2002,83.64972375690604
+Africa,Nigeria,,Niamey,2003,84.34647302904573
+Africa,Nigeria,,Niamey,2004,84.17490909090914
+Africa,Nigeria,,Niamey,2005,84.80189655172414
+Africa,Nigeria,,Niamey,2006,84.57492012779555
+Africa,Nigeria,,Niamey,2007,83.94581993569138
+Africa,Nigeria,,Niamey,2008,82.782793867121
+Africa,Nigeria,,Niamey,2009,83.55972222222216
+Africa,Nigeria,,Niamey,2010,83.92572614107873
+Africa,Nigeria,,Niamey,2011,83.28724279835389
+Africa,Nigeria,,Niamey,2012,82.97239944521506
+Africa,Nigeria,,Niamey,2013,83.39642346208863
+Africa,Nigeria,,Niamey,2014,83.75834633385338
+Africa,Nigeria,,Niamey,2015,83.69395770392752
+Africa,Nigeria,,Niamey,2016,84.24171270718227
+Africa,Nigeria,,Niamey,2017,83.79054878048778
+Africa,Nigeria,,Niamey,2018,84.066713483146
+Africa,Nigeria,,Niamey,2019,84.09342657342658
+Africa,Nigeria,,Niamey,2020,85.74402985074617
+Africa,Senegal,,Dakar,1995,75.8230136986301
+Africa,Senegal,,Dakar,1996,75.73934426229506
+Africa,Senegal,,Dakar,1997,76.78021978021982
+Africa,Senegal,,Dakar,1998,77.05263157894731
+Africa,Senegal,,Dakar,1999,74.9716253443526
+Africa,Senegal,,Dakar,2000,75.59173553719016
+Africa,Senegal,,Dakar,2001,76.93041095890412
+Africa,Senegal,,Dakar,2002,75.93826815642463
+Africa,Senegal,,Dakar,2003,75.94383561643835
+Africa,Senegal,,Dakar,2004,76.17431693989074
+Africa,Senegal,,Dakar,2005,77.35369863013693
+Africa,Senegal,,Dakar,2006,76.30136986301369
+Africa,Senegal,,Dakar,2007,76.26895604395597
+Africa,Senegal,,Dakar,2008,77.14285714285714
+Africa,Senegal,,Dakar,2009,75.65521978021971
+Africa,Senegal,,Dakar,2010,77.87232876712325
+Africa,Senegal,,Dakar,2011,76.56438356164385
+Africa,Senegal,,Dakar,2012,76.36202185792351
+Africa,Senegal,,Dakar,2013,76.58082191780818
+Africa,Senegal,,Dakar,2014,76.05357142857137
+Africa,Senegal,,Dakar,2015,76.6027472527472
+Africa,Senegal,,Dakar,2016,76.80856353591155
+Africa,Senegal,,Dakar,2017,77.29178082191781
+Africa,Senegal,,Dakar,2018,74.9913407821229
+Africa,Senegal,,Dakar,2019,76.44707520891365
+Africa,Senegal,,Dakar,2020,73.61268656716415
+Africa,Sierra Leone,,Freetown,1995,82.936
+Africa,Sierra Leone,,Freetown,1996,81.35058823529417
+Africa,Sierra Leone,,Freetown,1997,82.41333333333333
+Africa,Sierra Leone,,Freetown,2002,81.88181818181818
+Africa,Sierra Leone,,Freetown,2003,81.21272189349118
+Africa,Sierra Leone,,Freetown,2004,81.85826086956527
+Africa,Sierra Leone,,Freetown,2005,82.05566343042071
+Africa,Sierra Leone,,Freetown,2006,81.92056074766356
+Africa,Sierra Leone,,Freetown,2007,81.52429577464784
+Africa,Sierra Leone,,Freetown,2008,81.9597315436241
+Africa,Sierra Leone,,Freetown,2009,80.99904458598724
+Africa,Sierra Leone,,Freetown,2010,82.50833333333338
+Africa,Sierra Leone,,Freetown,2011,81.27777777777774
+Africa,South Africa,,Capetown,1995,61.338904109589
+Africa,South Africa,,Capetown,1996,60.580601092896195
+Africa,South Africa,,Capetown,1997,61.75150684931501
+Africa,South Africa,,Capetown,1998,61.858448753462625
+Africa,South Africa,,Capetown,1999,63.13159340659342
+Africa,South Africa,,Capetown,2000,62.618032786885216
+Africa,South Africa,,Capetown,2001,62.14465753424663
+Africa,South Africa,,Capetown,2002,61.86371191135735
+Africa,South Africa,,Capetown,2003,62.158791208791165
+Africa,South Africa,,Capetown,2004,62.672131147541
+Africa,South Africa,,Capetown,2005,62.09616438356167
+Africa,South Africa,,Capetown,2006,62.43095890410961
+Africa,South Africa,,Capetown,2007,62.56115702479333
+Africa,South Africa,,Capetown,2008,62.5684065934066
+Africa,South Africa,,Capetown,2009,63.24368131868126
+Africa,South Africa,,Capetown,2010,62.76328767123285
+Africa,South Africa,,Capetown,2011,62.468767123287634
+Africa,South Africa,,Capetown,2012,62.616393442622886
+Africa,South Africa,,Capetown,2013,62.70191780821919
+Africa,South Africa,,Capetown,2014,63.298076923076884
+Africa,South Africa,,Capetown,2015,62.93278236914599
+Africa,South Africa,,Capetown,2016,63.36685082872926
+Africa,South Africa,,Capetown,2017,62.64630136986301
+Africa,South Africa,,Capetown,2018,62.820833333333354
+Africa,South Africa,,Capetown,2019,63.06378830083567
+Africa,South Africa,,Capetown,2020,67.01940298507462
+Africa,Togo,,Lome,1995,81.33354037267081
+Africa,Togo,,Lome,1996,81.51892857142859
+Africa,Togo,,Lome,1997,80.90114068441065
+Africa,Togo,,Lome,1998,82.04984520123837
+Africa,Togo,,Lome,1999,81.26792452830198
+Africa,Togo,,Lome,2000,81.16239554317545
+Africa,Togo,,Lome,2001,81.00137362637362
+Africa,Togo,,Lome,2002,81.32861842105257
+Africa,Togo,,Lome,2003,81.35702005730664
+Africa,Togo,,Lome,2004,81.0096153846154
+Africa,Togo,,Lome,2005,81.25178082191782
+Africa,Togo,,Lome,2006,81.77253731343286
+Africa,Togo,,Lome,2007,80.92994505494508
+Africa,Togo,,Lome,2008,81.23730886850153
+Africa,Togo,,Lome,2009,81.30247252747259
+Africa,Togo,,Lome,2010,81.98547945205475
+Africa,Togo,,Lome,2011,81.10391061452509
+Africa,Togo,,Lome,2012,81.01693989071042
+Africa,Togo,,Lome,2013,81.5090410958904
+Africa,Togo,,Lome,2014,81.42417582417586
+Africa,Togo,,Lome,2015,81.6879120879121
+Africa,Togo,,Lome,2016,82.17348066298345
+Africa,Togo,,Lome,2017,81.98681318681317
+Africa,Togo,,Lome,2018,81.88515406162466
+Africa,Togo,,Lome,2019,82.27724719101126
+Africa,Togo,,Lome,2020,84.13656716417907
+Africa,Tunisia,,Tunis,1995,66.70465753424659
+Africa,Tunisia,,Tunis,1996,65.71639344262292
+Africa,Tunisia,,Tunis,1997,67.09150684931514
+Africa,Tunisia,,Tunis,1998,66.59999999999998
+Africa,Tunisia,,Tunis,1999,67.71346153846152
+Africa,Tunisia,,Tunis,2000,67.11967213114758
+Africa,Tunisia,,Tunis,2001,67.51260273972602
+Africa,Tunisia,,Tunis,2002,66.86952908587257
+Africa,Tunisia,,Tunis,2003,67.79504132231406
+Africa,Tunisia,,Tunis,2004,66.46721311475405
+Africa,Tunisia,,Tunis,2005,66.2350684931507
+Africa,Tunisia,,Tunis,2006,67.49260273972604
+Africa,Tunisia,,Tunis,2007,67.17170329670334
+Africa,Tunisia,,Tunis,2008,67.34972527472523
+Africa,Tunisia,,Tunis,2009,67.28434065934064
+Africa,Tunisia,,Tunis,2010,67.15178082191777
+Africa,Tunisia,,Tunis,2011,67.13698630136986
+Africa,Tunisia,,Tunis,2012,68.20247252747252
+Africa,Tunisia,,Tunis,2013,67.30219178082193
+Africa,Tunisia,,Tunis,2014,68.27500000000002
+Africa,Tunisia,,Tunis,2015,67.41785714285714
+Africa,Tunisia,,Tunis,2016,67.67762430939229
+Africa,Tunisia,,Tunis,2017,67.02301369863012
+Africa,Tunisia,,Tunis,2018,67.28365650969532
+Africa,Tunisia,,Tunis,2019,67.40584958217273
+Africa,Tunisia,,Tunis,2020,59.53208955223882
+Africa,Tanzania,,Dar Es Salaam,1995,78.24149855907783
+Africa,Tanzania,,Dar Es Salaam,1996,77.84457142857141
+Africa,Tanzania,,Dar Es Salaam,1997,78.38387096774193
+Africa,Tanzania,,Dar Es Salaam,1998,79.07587301587306
+Africa,Tanzania,,Dar Es Salaam,1999,77.78996655518401
+Africa,Tanzania,,Dar Es Salaam,2000,78.5991701244813
+Africa,Tanzania,,Dar Es Salaam,2001,78.00116731517511
+Africa,Tanzania,,Dar Es Salaam,2002,78.1459016393442
+Africa,Tanzania,,Dar Es Salaam,2003,79.39164179104479
+Africa,Tanzania,,Dar Es Salaam,2004,78.4260479041916
+Africa,Tanzania,,Dar Es Salaam,2005,79.54092219020174
+Africa,Tanzania,,Dar Es Salaam,2006,79.13511235955056
+Africa,Tanzania,,Dar Es Salaam,2007,79.43571428571427
+Africa,Tanzania,,Dar Es Salaam,2008,78.7709770114943
+Africa,Tanzania,,Dar Es Salaam,2009,79.52541899441341
+Africa,Tanzania,,Dar Es Salaam,2010,80.4705882352941
+Africa,Tanzania,,Dar Es Salaam,2011,79.37444444444446
+Africa,Tanzania,,Dar Es Salaam,2012,79.32445054945059
+Africa,Tanzania,,Dar Es Salaam,2013,79.61652892561983
+Africa,Tanzania,,Dar Es Salaam,2014,79.61388888888892
+Africa,Tanzania,,Dar Es Salaam,2015,80.33805555555554
+Africa,Tanzania,,Dar Es Salaam,2016,80.22861111111106
+Africa,Tanzania,,Dar Es Salaam,2017,79.81534246575342
+Africa,Tanzania,,Dar Es Salaam,2018,79.53770949720673
+Africa,Tanzania,,Dar Es Salaam,2019,80.14888888888888
+Africa,Tanzania,,Dar Es Salaam,2020,81.64552238805969
+Africa,Uganda,,Kampala,1995,71.90872483221473
+Africa,Uganda,,Kampala,1996,71.290977443609
+Africa,Uganda,,Kampala,1997,72.64893617021274
+Africa,Uganda,,Kampala,1998,73.7968253968254
+Africa,Uganda,,Kampala,1999,72.1089473684211
+Africa,Uganda,,Kampala,2000,71.87118055555558
+Africa,Uganda,,Kampala,2001,71.73971830985911
+Africa,Uganda,,Kampala,2002,72.53025477707013
+Africa,Uganda,,Kampala,2003,72.55620437956203
+Africa,Uganda,,Kampala,2004,72.72782608695651
+Africa,Uganda,,Kampala,2005,72.37355072463765
+Africa,Uganda,,Kampala,2006,72.36952908587257
+Africa,Uganda,,Kampala,2007,72.3527472527472
+Africa,Uganda,,Kampala,2008,72.18926553672321
+Africa,Uganda,,Kampala,2009,72.77638483965019
+Africa,Uganda,,Kampala,2010,72.98163265306123
+Africa,Uganda,,Kampala,2011,72.32787356321838
+Africa,Uganda,,Kampala,2012,72.67859327217121
+Africa,Uganda,,Kampala,2013,72.91932203389828
+Africa,Uganda,,Kampala,2014,72.62035398230086
+Africa,Uganda,,Kampala,2015,73.21745152354573
+Africa,Uganda,,Kampala,2016,73.80688705234158
+Africa,Uganda,,Kampala,2017,72.87808219178083
+Africa,Uganda,,Kampala,2018,72.17583333333334
+Africa,Uganda,,Kampala,2019,73.04131054131052
+Africa,Uganda,,Kampala,2020,74.06030534351144
+Africa,Zambia,,Lusaka,1995,72.91914285714284
+Africa,Zambia,,Lusaka,1996,72.19870129870132
+Africa,Zambia,,Lusaka,1997,72.88607594936707
+Africa,Zambia,,Lusaka,1998,74.5569288389513
+Africa,Zambia,,Lusaka,1999,71.80132013201327
+Africa,Zambia,,Lusaka,2000,72.78242424242423
+Africa,Zambia,,Lusaka,2001,72.72017291066282
+Africa,Zambia,,Lusaka,2002,71.04305949008499
+Africa,Zambia,,Lusaka,2003,69.17877906976746
+Africa,Zambia,,Lusaka,2004,69.14649859943981
+Africa,Zambia,,Lusaka,2005,70.59750000000003
+Africa,Zambia,,Lusaka,2006,67.90219178082191
+Africa,Zambia,,Lusaka,2007,67.87122905027933
+Africa,Zambia,,Lusaka,2008,67.22387640449439
+Africa,Zambia,,Lusaka,2009,66.43516483516484
+Africa,Zambia,,Lusaka,2010,66.27178082191777
+Africa,Zambia,,Lusaka,2011,69.38885714285713
+Africa,Zambia,,Lusaka,2012,69.74765840220387
+Africa,Zambia,,Lusaka,2013,69.93416370106762
+Africa,Zambia,,Lusaka,2014,72.53999999999999
+Asia,Bangladesh,,Dhaka,1995,79.35017301038064
+Asia,Bangladesh,,Dhaka,1996,78.76584507042256
+Asia,Bangladesh,,Dhaka,1997,77.15481927710844
+Asia,Bangladesh,,Dhaka,1998,79.28705882352948
+Asia,Bangladesh,,Dhaka,1999,77.08787878787875
+Asia,Bangladesh,,Dhaka,2000,79.0985507246377
+Asia,Bangladesh,,Dhaka,2001,78.95656934306568
+Asia,Bangladesh,,Dhaka,2002,78.62374429223748
+Asia,Bangladesh,,Dhaka,2003,78.82487562189054
+Asia,Bangladesh,,Dhaka,2004,78.91494845360823
+Asia,Bangladesh,,Dhaka,2005,77.85701754385963
+Asia,Bangladesh,,Dhaka,2006,79.3555944055944
+Asia,Bangladesh,,Dhaka,2007,78.11386138613861
+Asia,Bangladesh,,Dhaka,2008,75.64156626506025
+Asia,Bangladesh,,Dhaka,2009,79.02384341637014
+Asia,Bangladesh,,Dhaka,2010,80.83544776119399
+Asia,China,,Beijing,1995,59.772493150684916
+Asia,China,,Beijing,1996,59.08896174863387
+Asia,China,,Beijing,1997,60.55569760978318
+Asia,China,,Beijing,1998,61.80055432372503
+Asia,China,,Beijing,1999,60.75032967032969
+Asia,China,,Beijing,2000,60.16539092400235
+Asia,China,,Beijing,2001,60.30690410958908
+Asia,China,,Beijing,2002,60.71225055432367
+Asia,China,,Beijing,2003,60.6517827756445
+Asia,China,,Beijing,2004,60.931803278688555
+Asia,China,,Beijing,2005,60.22076712328775
+Asia,China,,Beijing,2006,61.17567123287675
+Asia,China,,Beijing,2007,61.71794166208038
+Asia,China,,Beijing,2008,60.315824175824126
+Asia,China,,Beijing,2009,60.56426608026386
+Asia,China,,Beijing,2010,59.66734246575344
+Asia,China,,Beijing,2011,59.932986301369965
+Asia,China,,Beijing,2012,59.583989071038275
+Asia,China,,Beijing,2013,60.763013698630054
+Asia,China,,Beijing,2014,61.4255085211654
+Asia,China,,Beijing,2015,61.68868131868132
+Asia,China,,Beijing,2016,61.59270315091207
+Asia,China,,Beijing,2017,62.01704109589035
+Asia,China,,Beijing,2018,61.73190899001109
+Asia,China,,Beijing,2019,61.992033426183895
+Asia,China,,Beijing,2020,52.202391629297395
+Asia,Hong Kong,,Hong Kong,1995,74.12
+Asia,Hong Kong,,Hong Kong,1996,74.97103825136611
+Asia,Hong Kong,,Hong Kong,1997,75.2531506849315
+Asia,Hong Kong,,Hong Kong,1998,76.2457063711912
+Asia,Hong Kong,,Hong Kong,1999,75.53846153846156
+Asia,Hong Kong,,Hong Kong,2000,75.23497267759564
+Asia,Hong Kong,,Hong Kong,2001,75.57452054794521
+Asia,Hong Kong,,Hong Kong,2002,75.8675900277008
+Asia,Hong Kong,,Hong Kong,2003,75.74657534246582
+Asia,Hong Kong,,Hong Kong,2004,75.33142076502732
+Asia,Hong Kong,,Hong Kong,2005,75.07917808219182
+Asia,Hong Kong,,Hong Kong,2006,75.89013698630137
+Asia,Hong Kong,,Hong Kong,2007,76.16565934065933
+Asia,Hong Kong,,Hong Kong,2008,74.80054945054944
+Asia,Hong Kong,,Hong Kong,2009,75.92829670329672
+Asia,Hong Kong,,Hong Kong,2010,75.44547945205478
+Asia,Hong Kong,,Hong Kong,2011,74.71041095890412
+Asia,Hong Kong,,Hong Kong,2012,75.60000000000002
+Asia,Hong Kong,,Hong Kong,2013,75.45397260273973
+Asia,Hong Kong,,Hong Kong,2014,76.12527472527474
+Asia,Hong Kong,,Hong Kong,2015,77.21675824175826
+Asia,Hong Kong,,Hong Kong,2016,76.18425414364641
+Asia,Hong Kong,,Hong Kong,2017,76.6339726027397
+Asia,Hong Kong,,Hong Kong,2018,76.1750692520776
+Asia,Hong Kong,,Hong Kong,2019,77.31197771587746
+Asia,Hong Kong,,Hong Kong,2020,70.60671641791042
+Asia,India,,Bombay (Mumbai),1995,79.97914659325535
+Asia,India,,Bombay (Mumbai),1996,79.84135802469135
+Asia,India,,Bombay (Mumbai),1997,79.58924657534256
+Asia,India,,Bombay (Mumbai),1998,80.54767522553783
+Asia,India,,Bombay (Mumbai),1999,80.43844566712512
+Asia,India,,Bombay (Mumbai),2000,80.20862422997939
+Asia,India,,Bombay (Mumbai),2001,79.83392734749842
+Asia,India,,Bombay (Mumbai),2002,80.67814018043032
+Asia,India,,Bombay (Mumbai),2003,80.14256339958875
+Asia,India,,Bombay (Mumbai),2004,80.20416666666657
+Asia,India,,Bombay (Mumbai),2005,79.9172602739726
+Asia,India,,Bombay (Mumbai),2006,80.50561643835623
+Asia,India,,Bombay (Mumbai),2007,80.14139599170686
+Asia,India,,Bombay (Mumbai),2008,79.9241426611797
+Asia,India,,Bombay (Mumbai),2009,81.3775257731958
+Asia,India,,Bombay (Mumbai),2010,81.05226648351639
+Asia,India,,Bombay (Mumbai),2011,80.26982817869406
+Asia,India,,Bombay (Mumbai),2012,80.66755464480866
+Asia,India,,Bombay (Mumbai),2013,80.1994516792324
+Asia,India,,Bombay (Mumbai),2014,80.7396978021978
+Asia,India,,Bombay (Mumbai),2015,81.43935439560431
+Asia,India,,Bombay (Mumbai),2016,82.19559532002745
+Asia,India,,Bombay (Mumbai),2017,81.72997256515761
+Asia,India,,Bombay (Mumbai),2018,81.57531120331964
+Asia,India,,Bombay (Mumbai),2019,81.3625087108015
+Asia,India,,Bombay (Mumbai),2020,77.56467289719627
+Asia,Indonesia,,Jakarta,1995,82.31442953020134
+Asia,Indonesia,,Jakarta,1996,81.89090909090915
+Asia,Indonesia,,Jakarta,1997,82.58518518518524
+Asia,Indonesia,,Jakarta,1998,83.10120000000003
+Asia,Indonesia,,Jakarta,1999,82.47602040816328
+Asia,Indonesia,,Jakarta,2000,83.02769230769232
+Asia,Indonesia,,Jakarta,2001,82.73125
+Asia,Indonesia,,Jakarta,2002,85.46666666666668
+Asia,Indonesia,,Jakarta,2003,84.44999999999997
+Asia,Indonesia,,Jakarta,2004,84.78446601941752
+Asia,Indonesia,,Jakarta,2005,84.07959183673465
+Asia,Indonesia,,Jakarta,2006,84.5217054263566
+Asia,Indonesia,,Jakarta,2007,83.25930232558139
+Asia,Indonesia,,Jakarta,2008,83.14104046242778
+Asia,Indonesia,,Jakarta,2009,83.57614942528731
+Asia,Indonesia,,Jakarta,2010,83.28232044198887
+Asia,Indonesia,,Jakarta,2011,83.56263736263742
+Asia,Indonesia,,Jakarta,2012,83.66639118457307
+Asia,Indonesia,,Jakarta,2013,83.18815426997239
+Asia,Indonesia,,Jakarta,2014,83.46804407713488
+Asia,Indonesia,,Jakarta,2015,83.35977961432512
+Asia,Indonesia,,Jakarta,2016,83.5814404432133
+Asia,Indonesia,,Jakarta,2017,83.4857142857143
+Asia,Indonesia,,Jakarta,2018,83.57019498607244
+Asia,Indonesia,,Jakarta,2019,84.01782729805012
+Asia,Indonesia,,Jakarta,2020,83.18345864661653
+Asia,Japan,,Osaka,1995,55.523652968036615
+Asia,Japan,,Osaka,1996,54.4428961748633
+Asia,Japan,,Osaka,1997,55.9392694063927
+Asia,Japan,,Osaka,1998,56.52320441988953
+Asia,Japan,,Osaka,1999,56.58626373626371
+Asia,Japan,,Osaka,2000,55.88114754098355
+Asia,Japan,,Osaka,2001,54.89315068493149
+Asia,Japan,,Osaka,2002,55.79362880886426
+Asia,Japan,,Osaka,2003,55.19954337899547
+Asia,Japan,,Osaka,2004,57.167395264116564
+Asia,Japan,,Osaka,2005,55.49168949771691
+Asia,Japan,,Osaka,2006,56.2327853881278
+Asia,Japan,,Osaka,2007,57.349816849816875
+Asia,Japan,,Osaka,2008,56.6826166514181
+Asia,Japan,,Osaka,2009,56.90265567765566
+Asia,Japan,,Osaka,2010,57.44100456621
+Asia,Japan,,Osaka,2011,56.59652968036533
+Asia,Japan,,Osaka,2012,56.15127504553733
+Asia,Japan,,Osaka,2013,57.083287671232874
+Asia,Japan,,Osaka,2014,56.59542124542116
+Asia,Japan,,Osaka,2015,57.8114468864469
+Asia,Japan,,Osaka,2016,57.60617511520742
+Asia,Japan,,Osaka,2017,56.643105022831094
+Asia,Japan,,Osaka,2018,57.95868761552674
+Asia,Japan,,Osaka,2019,57.82878365831017
+Asia,Japan,,Osaka,2020,46.46094527363186
+Asia,Kazakhstan,,Almaty,1995,48.61095890410961
+Asia,Kazakhstan,,Almaty,1996,46.725683060109276
+Asia,Kazakhstan,,Almaty,1997,50.07945205479448
+Asia,Kazakhstan,,Almaty,1998,48.82936288088639
+Asia,Kazakhstan,,Almaty,1999,49.84478021978023
+Asia,Kazakhstan,,Almaty,2000,50.0172131147541
+Asia,Kazakhstan,,Almaty,2001,49.96164383561642
+Asia,Kazakhstan,,Almaty,2002,50.21385041551239
+Asia,Kazakhstan,,Almaty,2003,48.06547945205484
+Asia,Kazakhstan,,Almaty,2004,50.118852459016445
+Asia,Kazakhstan,,Almaty,2005,49.28794520547944
+Asia,Kazakhstan,,Almaty,2006,50.30739726027397
+Asia,Kazakhstan,,Almaty,2007,49.71322314049586
+Asia,Kazakhstan,,Almaty,2008,50.02609890109889
+Asia,Kazakhstan,,Almaty,2009,49.071153846153884
+Asia,Kazakhstan,,Almaty,2010,49.124657534246595
+Asia,Kazakhstan,,Almaty,2011,48.47972602739725
+Asia,Kazakhstan,,Almaty,2012,47.86994535519126
+Asia,Kazakhstan,,Almaty,2013,51.31808219178086
+Asia,Kazakhstan,,Almaty,2014,49.930303030303065
+Asia,Kazakhstan,,Almaty,2015,53.32252747252745
+Asia,Kazakhstan,,Almaty,2016,52.665927977839296
+Asia,Kazakhstan,,Almaty,2017,52.13232876712327
+Asia,Kazakhstan,,Almaty,2018,50.9306406685237
+Asia,Kazakhstan,,Almaty,2019,53.12061281337047
+Asia,Kazakhstan,,Almaty,2020,42.75187969924813
+Asia,Kyrgyzstan,,Bishkek,1997,28.993548387096777
+Asia,Kyrgyzstan,,Bishkek,1998,53.53356401384083
+Asia,Kyrgyzstan,,Bishkek,1999,52.750833333333375
+Asia,Kyrgyzstan,,Bishkek,2000,54.25683060109289
+Asia,Kyrgyzstan,,Bishkek,2001,53.37506849315075
+Asia,Kyrgyzstan,,Bishkek,2002,53.82686980609423
+Asia,Kyrgyzstan,,Bishkek,2003,53.25934065934063
+Asia,Kyrgyzstan,,Bishkek,2004,54.21612021857921
+Asia,Kyrgyzstan,,Bishkek,2005,53.78958904109593
+Asia,Kyrgyzstan,,Bishkek,2006,54.153698630137
+Asia,Kyrgyzstan,,Bishkek,2007,53.929281767955814
+Asia,Kyrgyzstan,,Bishkek,2008,53.82246575342463
+Asia,Kyrgyzstan,,Bishkek,2009,53.491184573002826
+Asia,Kyrgyzstan,,Bishkek,2010,54.137260273972586
+Asia,Kyrgyzstan,,Bishkek,2011,52.423287671232856
+Asia,Kyrgyzstan,,Bishkek,2012,52.36994535519127
+Asia,Kyrgyzstan,,Bishkek,2013,54.89643835616442
+Asia,Kyrgyzstan,,Bishkek,2014,51.88980716253444
+Asia,Kyrgyzstan,,Bishkek,2015,54.76620879120875
+Asia,Kyrgyzstan,,Bishkek,2016,54.83351800554017
+Asia,Kyrgyzstan,,Bishkek,2017,53.82767123287671
+Asia,Kyrgyzstan,,Bishkek,2018,52.832033426183884
+Asia,Kyrgyzstan,,Bishkek,2019,55.291364902507
+Asia,Kyrgyzstan,,Bishkek,2020,44.90075187969924
+Asia,Laos,,Vientiane,1995,82.02554945054943
+Asia,Laos,,Vientiane,1996,80.82383561643834
+Asia,Laos,,Vientiane,1997,81.53816155988868
+Asia,Laos,,Vientiane,1998,83.12612359550563
+Asia,Laos,,Vientiane,1999,80.71795580110489
+Asia,Laos,,Vientiane,2000,80.7754098360655
+Asia,Laos,,Vientiane,2001,81.36563380281694
+Asia,Laos,,Vientiane,2002,80.90777777777774
+Asia,Laos,,Vientiane,2003,80.73956043956044
+Asia,Laos,,Vientiane,2004,80.20819672131145
+Asia,Laos,,Vientiane,2005,80.8813698630137
+Asia,Laos,,Vientiane,2006,80.73643835616444
+Asia,Laos,,Vientiane,2007,80.52390109890108
+Asia,Laos,,Vientiane,2008,78.98598901098893
+Asia,Laos,,Vientiane,2009,80.87362637362634
+Asia,Laos,,Vientiane,2010,81.95397260273981
+Asia,Laos,,Vientiane,2011,79.9073972602739
+Asia,Laos,,Vientiane,2012,82.05027322404366
+Asia,Laos,,Vientiane,2013,81.41479452054793
+Asia,Laos,,Vientiane,2014,81.00494505494503
+Asia,Laos,,Vientiane,2015,81.60851648351652
+Asia,Laos,,Vientiane,2016,81.56022099447517
+Asia,Laos,,Vientiane,2017,80.4443835616438
+Asia,Laos,,Vientiane,2018,80.38033240997228
+Asia,Laos,,Vientiane,2019,81.71249999999992
+Asia,Laos,,Vientiane,2020,81.5694029850746
+Asia,Malaysia,,Kuala Lumpur,1995,81.55399449035814
+Asia,Malaysia,,Kuala Lumpur,1996,81.5560439560439
+Asia,Malaysia,,Kuala Lumpur,1997,81.97190082644632
+Asia,Malaysia,,Kuala Lumpur,1998,83.92086956521737
+Asia,Malaysia,,Kuala Lumpur,1999,81.24478021978018
+Asia,Malaysia,,Kuala Lumpur,2000,81.77707182320438
+Asia,Malaysia,,Kuala Lumpur,2001,81.98191780821918
+Asia,Malaysia,,Kuala Lumpur,2002,82.709972299169
+Asia,Malaysia,,Kuala Lumpur,2003,82.15315068493148
+Asia,Malaysia,,Kuala Lumpur,2004,82.09262295081963
+Asia,Malaysia,,Kuala Lumpur,2005,83.10027397260275
+Asia,Malaysia,,Kuala Lumpur,2006,81.65917808219181
+Asia,Malaysia,,Kuala Lumpur,2007,81.28214285714287
+Asia,Malaysia,,Kuala Lumpur,2008,80.91780821917803
+Asia,Malaysia,,Kuala Lumpur,2009,81.91098901098896
+Asia,Malaysia,,Kuala Lumpur,2010,83.42794520547947
+Asia,Malaysia,,Kuala Lumpur,2011,83.06739726027394
+Asia,Malaysia,,Kuala Lumpur,2012,82.97950819672128
+Asia,Malaysia,,Kuala Lumpur,2013,82.33534246575341
+Asia,Malaysia,,Kuala Lumpur,2014,82.43241758241751
+Asia,Malaysia,,Kuala Lumpur,2015,82.73928571428569
+Asia,Malaysia,,Kuala Lumpur,2016,83.4618784530387
+Asia,Malaysia,,Kuala Lumpur,2017,82.25808219178087
+Asia,Malaysia,,Kuala Lumpur,2018,82.01388888888889
+Asia,Malaysia,,Kuala Lumpur,2019,82.97242339832877
+Asia,Malaysia,,Kuala Lumpur,2020,83.80970149253731
+Asia,Mongolia,,Ulan-bator,1995,31.9356164383562
+Asia,Mongolia,,Ulan-bator,1996,30.543943661971806
+Asia,Mongolia,,Ulan-bator,1997,33.21215469613261
+Asia,Mongolia,,Ulan-bator,1998,32.966944444444444
+Asia,Mongolia,,Ulan-bator,1999,31.30879120879119
+Asia,Mongolia,,Ulan-bator,2000,30.028688524590155
+Asia,Mongolia,,Ulan-bator,2001,29.4131506849315
+Asia,Mongolia,,Ulan-bator,2002,29.699168975069252
+Asia,Mongolia,,Ulan-bator,2003,29.5912087912088
+Asia,Mongolia,,Ulan-bator,2004,31.490710382513658
+Asia,Mongolia,,Ulan-bator,2005,29.940547945205488
+Asia,Mongolia,,Ulan-bator,2006,30.992328767123286
+Asia,Mongolia,,Ulan-bator,2007,33.33763736263739
+Asia,Mongolia,,Ulan-bator,2008,31.739178082191813
+Asia,Mongolia,,Ulan-bator,2009,30.216758241758246
+Asia,Mongolia,,Ulan-bator,2010,28.467397260273962
+Asia,Mongolia,,Ulan-bator,2011,27.858904109589027
+Asia,Mongolia,,Ulan-bator,2012,26.251092896174864
+Asia,Mongolia,,Ulan-bator,2013,28.99890410958905
+Asia,Mongolia,,Ulan-bator,2014,30.47774725274727
+Asia,Mongolia,,Ulan-bator,2015,31.868131868131886
+Asia,Mongolia,,Ulan-bator,2016,29.361325966850828
+Asia,Mongolia,,Ulan-bator,2017,31.123561643835593
+Asia,Mongolia,,Ulan-bator,2018,31.03861111111111
+Asia,Mongolia,,Ulan-bator,2019,31.045277777777766
+Asia,Mongolia,,Ulan-bator,2020,17.42164179104478
+Asia,Myanmar (Burma),,Rangoon,1996,81.32203856749315
+Asia,Myanmar (Burma),,Rangoon,1997,81.7553008595989
+Asia,Myanmar (Burma),,Rangoon,1998,83.08489425981874
+Asia,Myanmar (Burma),,Rangoon,1999,81.23694915254237
+Asia,Myanmar (Burma),,Rangoon,2000,80.84550561797757
+Asia,Myanmar (Burma),,Rangoon,2001,81.20876712328769
+Asia,Myanmar (Burma),,Rangoon,2002,81.94777777777776
+Asia,Myanmar (Burma),,Rangoon,2003,81.72197802197796
+Asia,Myanmar (Burma),,Rangoon,2004,81.7221917808219
+Asia,Myanmar (Burma),,Rangoon,2005,82.3841095890411
+Asia,Myanmar (Burma),,Rangoon,2006,82.19831932773107
+Asia,Myanmar (Burma),,Rangoon,2007,81.6454545454545
+Asia,Myanmar (Burma),,Rangoon,2008,81.32774725274724
+Asia,Myanmar (Burma),,Rangoon,2009,82.22554945054942
+Asia,Myanmar (Burma),,Rangoon,2010,83.26383561643833
+Asia,Myanmar (Burma),,Rangoon,2011,81.57032967032964
+Asia,Myanmar (Burma),,Rangoon,2012,82.24125683060112
+Asia,Myanmar (Burma),,Rangoon,2013,81.60958904109589
+Asia,Myanmar (Burma),,Rangoon,2014,81.15424657534237
+Asia,Myanmar (Burma),,Rangoon,2015,81.81346153846151
+Asia,Myanmar (Burma),,Rangoon,2016,82.43884297520661
+Asia,Myanmar (Burma),,Rangoon,2017,82.44876712328762
+Asia,Myanmar (Burma),,Rangoon,2018,81.95027624309388
+Asia,Myanmar (Burma),,Rangoon,2019,82.14972222222227
+Asia,Myanmar (Burma),,Rangoon,2020,82.54552238805971
+Asia,Nepal,,Katmandu,1995,64.75518518518518
+Asia,Nepal,,Katmandu,1996,64.21891025641028
+Asia,Nepal,,Katmandu,1997,58.15454545454545
+Asia,Nepal,,Katmandu,1998,67.64069400630909
+Asia,Nepal,,Katmandu,1999,68.21140065146581
+Asia,Nepal,,Katmandu,2000,65.76699346405232
+Asia,Nepal,,Katmandu,2001,65.99582172701952
+Asia,Nepal,,Katmandu,2002,66.30518731988475
+Asia,Nepal,,Katmandu,2003,67.14931129476584
+Asia,Nepal,,Katmandu,2004,67.49720670391063
+Asia,Nepal,,Katmandu,2005,68.19119318181816
+Asia,Nepal,,Katmandu,2006,64.53515151515153
+Asia,Nepal,,Katmandu,2007,65.03571428571432
+Asia,Nepal,,Katmandu,2008,68.58753541076487
+Asia,Nepal,,Katmandu,2009,70.07463976945236
+Asia,Nepal,,Katmandu,2010,69.6182608695652
+Asia,Nepal,,Katmandu,2011,67.0556473829201
+Asia,Nepal,,Katmandu,2012,67.09359331476327
+Asia,Nepal,,Katmandu,2013,65.03165266106441
+Asia,Nepal,,Katmandu,2014,64.57939560439561
+Asia,Nepal,,Katmandu,2015,64.57087912087916
+Asia,Nepal,,Katmandu,2016,65.51160220994471
+Asia,Nepal,,Katmandu,2017,65.55726027397262
+Asia,Nepal,,Katmandu,2018,64.85207756232683
+Asia,Nepal,,Katmandu,2019,64.96055555555559
+Asia,Nepal,,Katmandu,2020,57.9686567164179
+Asia,North Korea,,Pyongyang,1995,51.12876712328768
+Asia,North Korea,,Pyongyang,1996,50.773224043715864
+Asia,North Korea,,Pyongyang,1997,51.569315068493125
+Asia,North Korea,,Pyongyang,1998,53.757983193277255
+Asia,North Korea,,Pyongyang,1999,52.54462809917356
+Asia,North Korea,,Pyongyang,2000,51.10969529085868
+Asia,North Korea,,Pyongyang,2001,51.050410958904145
+Asia,North Korea,,Pyongyang,2002,51.22
+Asia,North Korea,,Pyongyang,2003,52.000828729281736
+Asia,North Korea,,Pyongyang,2004,52.65280898876405
+Asia,North Korea,,Pyongyang,2005,49.97987804878048
+Asia,North Korea,,Pyongyang,2006,51.833746130030946
+Asia,North Korea,,Pyongyang,2007,55.87607973421928
+Asia,North Korea,,Pyongyang,2008,52.35961538461539
+Asia,North Korea,,Pyongyang,2009,52.05521126760564
+Asia,North Korea,,Pyongyang,2010,51.11703296703294
+Asia,North Korea,,Pyongyang,2011,51.22382271468144
+Asia,North Korea,,Pyongyang,2012,50.684426229508226
+Asia,North Korea,,Pyongyang,2013,51.49534246575345
+Asia,North Korea,,Pyongyang,2014,53.21763085399447
+Asia,North Korea,,Pyongyang,2015,53.10796703296702
+Asia,North Korea,,Pyongyang,2016,53.02742382271467
+Asia,North Korea,,Pyongyang,2017,52.25452054794521
+Asia,North Korea,,Pyongyang,2018,52.11810584958218
+Asia,North Korea,,Pyongyang,2019,53.29610027855157
+Asia,North Korea,,Pyongyang,2020,40.838345864661655
+Asia,Pakistan,,Islamabad,1995,74.79246575342472
+Asia,Pakistan,,Islamabad,1996,74.56268861454038
+Asia,Pakistan,,Islamabad,1997,74.13425797503467
+Asia,Pakistan,,Islamabad,1998,76.08030726256985
+Asia,Pakistan,,Islamabad,1999,76.92963503649638
+Asia,Pakistan,,Islamabad,2000,79.21173553719007
+Asia,Pakistan,,Islamabad,2001,76.50494505494517
+Asia,Pakistan,,Islamabad,2002,76.54392655367234
+Asia,Pakistan,,Islamabad,2003,75.68260273972602
+Asia,Pakistan,,Islamabad,2004,76.27267759562854
+Asia,Pakistan,,Islamabad,2005,75.08972602739725
+Asia,Pakistan,,Islamabad,2006,76.5163461538461
+Asia,Pakistan,,Islamabad,2007,76.20879120879133
+Asia,Pakistan,,Islamabad,2008,75.53237311385459
+Asia,Pakistan,,Islamabad,2009,76.53787878787877
+Asia,Pakistan,,Islamabad,2010,76.61904109589027
+Asia,Pakistan,,Islamabad,2011,75.77917808219175
+Asia,Pakistan,,Islamabad,2012,75.67937158469948
+Asia,Pakistan,,Islamabad,2013,76.01465753424667
+Asia,Pakistan,,Islamabad,2014,75.42170329670337
+Asia,Pakistan,,Islamabad,2015,76.00700549450549
+Asia,Pakistan,,Islamabad,2016,76.96074380165292
+Asia,Pakistan,,Islamabad,2017,76.4925925925925
+Asia,Pakistan,,Islamabad,2018,76.97700831024932
+Asia,Pakistan,,Islamabad,2019,74.60934579439247
+Asia,Pakistan,,Islamabad,2020,69.09578544061301
+Asia,Philippines,,Manila,1995,80.56739726027399
+Asia,Philippines,,Manila,1996,81.3609289617486
+Asia,Philippines,,Manila,1997,81.78547945205473
+Asia,Philippines,,Manila,1998,83.17944444444446
+Asia,Philippines,,Manila,1999,81.43911845730034
+Asia,Philippines,,Manila,2000,81.9043715846994
+Asia,Philippines,,Manila,2001,82.32148760330578
+Asia,Philippines,,Manila,2002,82.05305555555555
+Asia,Philippines,,Manila,2003,82.05386740331491
+Asia,Philippines,,Manila,2004,82.05765027322398
+Asia,Philippines,,Manila,2005,82.17479452054793
+Asia,Philippines,,Manila,2006,82.36082191780815
+Asia,Philippines,,Manila,2007,82.56758241758246
+Asia,Philippines,,Manila,2008,81.94848484848485
+Asia,Philippines,,Manila,2009,81.66538461538457
+Asia,Philippines,,Manila,2010,83.27972602739727
+Asia,Philippines,,Manila,2011,81.82931506849319
+Asia,Philippines,,Manila,2012,82.40983606557384
+Asia,Philippines,,Manila,2013,82.76098901098895
+Asia,Philippines,,Manila,2014,82.56969696969699
+Asia,Philippines,,Manila,2015,83.01483516483509
+Asia,Philippines,,Manila,2016,83.65828729281772
+Asia,Philippines,,Manila,2017,83.10246575342462
+Asia,Philippines,,Manila,2018,83.07611111111113
+Asia,Philippines,,Manila,2019,83.48133704735379
+Asia,Philippines,,Manila,2020,83.81567164179106
+Asia,Singapore,,Singapore,1995,81.75616438356167
+Asia,Singapore,,Singapore,1996,81.63715846994529
+Asia,Singapore,,Singapore,1997,82.96082191780825
+Asia,Singapore,,Singapore,1998,83.12022160664812
+Asia,Singapore,,Singapore,1999,81.6032967032967
+Asia,Singapore,,Singapore,2000,81.57404371584707
+Asia,Singapore,,Singapore,2001,81.70849315068493
+Asia,Singapore,,Singapore,2002,82.60554016620505
+Asia,Singapore,,Singapore,2003,82.0763736263736
+Asia,Singapore,,Singapore,2004,82.23989071038253
+Asia,Singapore,,Singapore,2005,82.51369863013694
+Asia,Singapore,,Singapore,2006,82.0432876712329
+Asia,Singapore,,Singapore,2007,81.65934065934064
+Asia,Singapore,,Singapore,2008,81.56136986301372
+Asia,Singapore,,Singapore,2009,82.37774725274723
+Asia,Singapore,,Singapore,2010,82.67616438356166
+Asia,Singapore,,Singapore,2011,81.75369863013697
+Asia,Singapore,,Singapore,2012,81.70792349726776
+Asia,Singapore,,Singapore,2013,81.92273972602752
+Asia,Singapore,,Singapore,2014,82.36153846153844
+Asia,Singapore,,Singapore,2015,82.97472527472529
+Asia,Singapore,,Singapore,2016,83.29530386740333
+Asia,Singapore,,Singapore,2017,81.98821917808219
+Asia,Singapore,,Singapore,2018,82.3354570637119
+Asia,Singapore,,Singapore,2019,83.32144846796658
+Asia,Singapore,,Singapore,2020,83.0589552238806
+Asia,South Korea,,Seoul,1995,51.75342465753425
+Asia,South Korea,,Seoul,1996,51.634153005464505
+Asia,South Korea,,Seoul,1997,52.60246575342461
+Asia,South Korea,,Seoul,1998,54.815193370165765
+Asia,South Korea,,Seoul,1999,53.78461538461544
+Asia,South Korea,,Seoul,2000,52.37568306010932
+Asia,South Korea,,Seoul,2001,52.44175824175824
+Asia,South Korea,,Seoul,2002,53.080609418282584
+Asia,South Korea,,Seoul,2003,53.14328767123286
+Asia,South Korea,,Seoul,2004,54.84043715846998
+Asia,South Korea,,Seoul,2005,52.293698630136966
+Asia,South Korea,,Seoul,2006,54.021917808219214
+Asia,South Korea,,Seoul,2007,54.07713498622586
+Asia,South Korea,,Seoul,2008,53.93791208791209
+Asia,South Korea,,Seoul,2009,53.74560439560439
+Asia,South Korea,,Seoul,2010,53.08575342465748
+Asia,South Korea,,Seoul,2011,52.625205479452084
+Asia,South Korea,,Seoul,2012,52.728142076502735
+Asia,South Korea,,Seoul,2013,53.1079452054794
+Asia,South Korea,,Seoul,2014,54.58983516483514
+Asia,South Korea,,Seoul,2015,55.18736263736262
+Asia,South Korea,,Seoul,2016,55.46519337016579
+Asia,South Korea,,Seoul,2017,54.13534246575351
+Asia,South Korea,,Seoul,2018,54.24444444444441
+Asia,South Korea,,Seoul,2019,55.094986072423396
+Asia,South Korea,,Seoul,2020,43.53805970149256
+Asia,Sri Lanka,,Colombo,1995,81.84747191011242
+Asia,Sri Lanka,,Colombo,1996,81.1836206896552
+Asia,Sri Lanka,,Colombo,1997,81.53136531365303
+Asia,Sri Lanka,,Colombo,1998,82.82164634146338
+Asia,Sri Lanka,,Colombo,1999,81.08655172413792
+Asia,Sri Lanka,,Colombo,2000,81.01999999999995
+Asia,Sri Lanka,,Colombo,2001,81.06988950276246
+Asia,Sri Lanka,,Colombo,2002,80.8658333333334
+Asia,Sri Lanka,,Colombo,2003,81.38547945205484
+Asia,Sri Lanka,,Colombo,2004,81.03633879781414
+Asia,Sri Lanka,,Colombo,2005,81.1827397260274
+Asia,Sri Lanka,,Colombo,2006,81.15287671232879
+Asia,Sri Lanka,,Colombo,2007,81.42445054945055
+Asia,Sri Lanka,,Colombo,2008,81.01404958677682
+Asia,Sri Lanka,,Colombo,2009,81.54093406593402
+Asia,Sri Lanka,,Colombo,2010,81.56219178082188
+Asia,Sri Lanka,,Colombo,2011,81.48438356164381
+Asia,Sri Lanka,,Colombo,2012,81.52307692307687
+Asia,Sri Lanka,,Colombo,2013,81.2720338983051
+Asia,Sri Lanka,,Colombo,2014,81.3501377410468
+Asia,Sri Lanka,,Colombo,2015,81.60219780219775
+Asia,Sri Lanka,,Colombo,2016,82.37817679558015
+Asia,Sri Lanka,,Colombo,2017,81.67479452054798
+Asia,Sri Lanka,,Colombo,2018,80.65487465181066
+Asia,Sri Lanka,,Colombo,2019,81.84401114206132
+Asia,Sri Lanka,,Colombo,2020,83.14925373134332
+Asia,Taiwan,,Taipei,1995,73.02356164383565
+Asia,Taiwan,,Taipei,1996,73.39945355191254
+Asia,Taiwan,,Taipei,1997,73.14767123287673
+Asia,Taiwan,,Taipei,1998,74.60583333333331
+Asia,Taiwan,,Taipei,1999,70.27594936708863
+Asia,Taiwan,,Taipei,2000,73.22299651567945
+Asia,Taiwan,,Taipei,2001,73.72701949860718
+Asia,Taiwan,,Taipei,2002,75.00332409972306
+Asia,Taiwan,,Taipei,2003,74.35824175824177
+Asia,Taiwan,,Taipei,2004,73.47021857923505
+Asia,Taiwan,,Taipei,2005,73.62301369863015
+Asia,Taiwan,,Taipei,2006,74.38821917808215
+Asia,Taiwan,,Taipei,2007,74.05494505494498
+Asia,Taiwan,,Taipei,2008,74.15808219178085
+Asia,Taiwan,,Taipei,2009,74.26895604395615
+Asia,Taiwan,,Taipei,2010,73.77342465753425
+Asia,Taiwan,,Taipei,2011,72.79397260273966
+Asia,Taiwan,,Taipei,2012,73.29535519125689
+Asia,Taiwan,,Taipei,2013,73.75479452054797
+Asia,Taiwan,,Taipei,2014,74.00027472527474
+Asia,Taiwan,,Taipei,2015,74.57939560439557
+Asia,Taiwan,,Taipei,2016,74.72292817679559
+Asia,Taiwan,,Taipei,2017,75.04301369863013
+Asia,Taiwan,,Taipei,2018,75.45749999999997
+Asia,Taiwan,,Taipei,2019,75.61587743732592
+Asia,Taiwan,,Taipei,2020,68.64328358208952
+Asia,Tajikistan,,Dusanbe,1995,52.47218543046355
+Asia,Tajikistan,,Dusanbe,1996,59.47058823529414
+Asia,Tajikistan,,Dusanbe,1997,67.0824242424243
+Asia,Tajikistan,,Dusanbe,1998,62.88433734939758
+Asia,Tajikistan,,Dusanbe,1999,67.71359649122809
+Asia,Tajikistan,,Dusanbe,2000,61.02484472049693
+Asia,Tajikistan,,Dusanbe,2001,61.32901960784315
+Asia,Tajikistan,,Dusanbe,2002,60.48864265927979
+Asia,Tajikistan,,Dusanbe,2003,59.30082191780823
+Asia,Tajikistan,,Dusanbe,2004,61.16092896174864
+Asia,Tajikistan,,Dusanbe,2005,59.85506849315075
+Asia,Tajikistan,,Dusanbe,2006,61.33506849315064
+Asia,Tajikistan,,Dusanbe,2007,60.42032967032957
+Asia,Tajikistan,,Dusanbe,2008,60.53791208791208
+Asia,Tajikistan,,Dusanbe,2009,60.068131868131815
+Asia,Tajikistan,,Dusanbe,2010,61.10493150684931
+Asia,Tajikistan,,Dusanbe,2011,60.701095890410954
+Asia,Tajikistan,,Dusanbe,2012,58.573224043715896
+Asia,Tajikistan,,Dusanbe,2013,61.01013698630141
+Asia,Tajikistan,,Dusanbe,2014,59.31483516483513
+Asia,Tajikistan,,Dusanbe,2015,61.2032967032967
+Asia,Tajikistan,,Dusanbe,2016,62.52176308539946
+Asia,Tajikistan,,Dusanbe,2017,61.80191780821921
+Asia,Tajikistan,,Dusanbe,2018,61.65509641873278
+Asia,Tajikistan,,Dusanbe,2019,61.366666666666745
+Asia,Tajikistan,,Dusanbe,2020,50.42537313432833
+Asia,Thailand,,Bangkok,1996,84.32213114754093
+Asia,Thailand,,Bangkok,1997,85.98931506849317
+Asia,Thailand,,Bangkok,1998,83.8398891966759
+Asia,Thailand,,Bangkok,1999,81.70769230769231
+Asia,Thailand,,Bangkok,2000,82.2975409836066
+Asia,Thailand,,Bangkok,2001,82.64876712328766
+Asia,Thailand,,Bangkok,2002,84.7290858725762
+Asia,Thailand,,Bangkok,2003,84.49232876712318
+Asia,Thailand,,Bangkok,2004,84.70273224043717
+Asia,Thailand,,Bangkok,2005,85.05506849315066
+Asia,Thailand,,Bangkok,2006,85.13972602739727
+Asia,Thailand,,Bangkok,2007,84.2365384615385
+Asia,Thailand,,Bangkok,2008,83.19164345403904
+Asia,Thailand,,Bangkok,2009,83.20659340659338
+Asia,Thailand,,Bangkok,2010,84.15232876712318
+Asia,Thailand,,Bangkok,2011,82.7841059602649
+Asia,Turkmenistan,,Ashabad,1995,63.47095890410957
+Asia,Turkmenistan,,Ashabad,1996,61.50328767123284
+Asia,Turkmenistan,,Ashabad,1997,63.03835616438358
+Asia,Turkmenistan,,Ashabad,1998,64.45612244897956
+Asia,Turkmenistan,,Ashabad,1999,64.40659340659337
+Asia,Turkmenistan,,Ashabad,2000,64.22377049180325
+Asia,Turkmenistan,,Ashabad,2001,64.28739726027396
+Asia,Turkmenistan,,Ashabad,2002,63.29196675900283
+Asia,Turkmenistan,,Ashabad,2003,62.26657534246574
+Asia,Turkmenistan,,Ashabad,2004,63.78114754098358
+Asia,Turkmenistan,,Ashabad,2005,64.3635616438356
+Asia,Turkmenistan,,Ashabad,2006,64.2076712328767
+Asia,Turkmenistan,,Ashabad,2007,63.2829670329671
+Asia,Turkmenistan,,Ashabad,2008,63.306868131868136
+Asia,Turkmenistan,,Ashabad,2009,63.333791208791176
+Asia,Turkmenistan,,Ashabad,2010,65.3802739726027
+Asia,Turkmenistan,,Ashabad,2011,62.836438356164415
+Asia,Turkmenistan,,Ashabad,2012,63.44508196721313
+Asia,Turkmenistan,,Ashabad,2013,65.19150684931505
+Asia,Turkmenistan,,Ashabad,2014,63.93324175824177
+Asia,Turkmenistan,,Ashabad,2015,65.05521978021976
+Asia,Turkmenistan,,Ashabad,2016,64.81243093922649
+Asia,Turkmenistan,,Ashabad,2017,64.49753424657533
+Asia,Turkmenistan,,Ashabad,2018,65.45000000000006
+Asia,Turkmenistan,,Ashabad,2019,65.19387186629525
+Asia,Turkmenistan,,Ashabad,2020,52.586567164179094
+Asia,Uzbekistan,,Tashkent,1995,59.08301369863013
+Asia,Uzbekistan,,Tashkent,1996,57.18196721311473
+Asia,Uzbekistan,,Tashkent,1997,60.764244186046525
+Asia,Uzbekistan,,Tashkent,1998,59.67852564102568
+Asia,Uzbekistan,,Tashkent,1999,60.313186813186796
+Asia,Uzbekistan,,Tashkent,2000,60.78633879781424
+Asia,Uzbekistan,,Tashkent,2001,61.3172602739726
+Asia,Uzbekistan,,Tashkent,2002,60.86177285318562
+Asia,Uzbekistan,,Tashkent,2003,60.16767123287672
+Asia,Uzbekistan,,Tashkent,2004,61.92950819672129
+Asia,Uzbekistan,,Tashkent,2005,61.095342465753426
+Asia,Uzbekistan,,Tashkent,2006,61.55726027397264
+Asia,Uzbekistan,,Tashkent,2007,61.20302197802203
+Asia,Uzbekistan,,Tashkent,2008,60.656318681318766
+Asia,Uzbekistan,,Tashkent,2009,61.02912087912088
+Asia,Uzbekistan,,Tashkent,2010,62.28465753424662
+Asia,Uzbekistan,,Tashkent,2011,60.4649315068493
+Asia,Uzbekistan,,Tashkent,2012,58.93825136612021
+Asia,Uzbekistan,,Tashkent,2013,61.28410958904114
+Asia,Uzbekistan,,Tashkent,2014,58.871153846153874
+Asia,Uzbekistan,,Tashkent,2015,61.3222527472528
+Asia,Uzbekistan,,Tashkent,2016,62.147790055248656
+Asia,Uzbekistan,,Tashkent,2017,60.7260273972603
+Asia,Uzbekistan,,Tashkent,2018,60.834349030470904
+Asia,Uzbekistan,,Tashkent,2019,62.00167130919218
+Asia,Uzbekistan,,Tashkent,2020,51.388059701492544
+Asia,Vietnam,,Hanoi,1995,74.38904109589043
+Asia,Vietnam,,Hanoi,1996,74.32431693989066
+Asia,Vietnam,,Hanoi,1997,75.9180821917809
+Asia,Vietnam,,Hanoi,1998,77.10361111111109
+Asia,Vietnam,,Hanoi,1999,75.91456043956045
+Asia,Vietnam,,Hanoi,2000,74.37814207650271
+Asia,Vietnam,,Hanoi,2001,74.33890410958904
+Asia,Vietnam,,Hanoi,2002,75.08365650969525
+Asia,Vietnam,,Hanoi,2003,75.97945205479446
+Asia,Vietnam,,Hanoi,2004,73.64262295081969
+Asia,Vietnam,,Hanoi,2005,74.3054794520548
+Asia,Vietnam,,Hanoi,2006,75.84904109589034
+Asia,Vietnam,,Hanoi,2007,75.87280219780216
+Asia,Vietnam,,Hanoi,2008,74.22664835164835
+Asia,Vietnam,,Hanoi,2009,76.35879120879116
+Asia,Vietnam,,Hanoi,2010,76.20794520547946
+Asia,Vietnam,,Hanoi,2011,73.58739726027397
+Asia,Vietnam,,Hanoi,2012,75.25628415300542
+Asia,Vietnam,,Hanoi,2013,75.3049723756906
+Asia,Vietnam,,Hanoi,2014,75.55412087912093
+Asia,Vietnam,,Hanoi,2015,77.16177285318567
+Asia,Vietnam,,Hanoi,2016,76.68429752066122
+Asia,Vietnam,,Hanoi,2017,76.18383561643842
+Asia,Vietnam,,Hanoi,2018,76.32797783933519
+Asia,Vietnam,,Hanoi,2019,77.23036211699157
+Asia,Vietnam,,Hanoi,2020,70.75074626865674
+Australia/South Pacific,Australia,,Brisbane,1995,61.501753424657714
+Australia/South Pacific,Australia,,Brisbane,1996,61.25579868708968
+Australia/South Pacific,Australia,,Brisbane,1997,62.151780821917775
+Australia/South Pacific,Australia,,Brisbane,1998,62.20084592145014
+Australia/South Pacific,Australia,,Brisbane,1999,62.472362637362764
+Australia/South Pacific,Australia,,Brisbane,2000,62.250218579235025
+Australia/South Pacific,Australia,,Brisbane,2001,62.22906593406602
+Australia/South Pacific,Australia,,Brisbane,2002,62.690333333333285
+Australia/South Pacific,Australia,,Brisbane,2003,62.38268063982342
+Australia/South Pacific,Australia,,Brisbane,2004,62.51846994535528
+Australia/South Pacific,Australia,,Brisbane,2005,62.71293150684935
+Australia/South Pacific,Australia,,Brisbane,2006,62.67490410958906
+Australia/South Pacific,Australia,,Brisbane,2007,63.26450549450546
+Australia/South Pacific,Australia,,Brisbane,2008,62.13676389653273
+Australia/South Pacific,Australia,,Brisbane,2009,63.403571428571404
+Australia/South Pacific,Australia,,Brisbane,2010,62.71435616438361
+Australia/South Pacific,Australia,,Brisbane,2011,62.53884931506849
+Australia/South Pacific,Australia,,Brisbane,2012,62.255683060109334
+Australia/South Pacific,Australia,,Brisbane,2013,63.38265642151492
+Australia/South Pacific,Australia,,Brisbane,2014,63.48395604395606
+Australia/South Pacific,Australia,,Brisbane,2015,63.06362637362637
+Australia/South Pacific,Australia,,Brisbane,2016,63.40822295805738
+Australia/South Pacific,Australia,,Brisbane,2017,63.45564692982458
+Australia/South Pacific,Australia,,Brisbane,2018,63.26409972299166
+Australia/South Pacific,Australia,,Brisbane,2019,63.87577951002231
+Australia/South Pacific,Australia,,Brisbane,2020,68.7164179104477
+Australia/South Pacific,New Zealand,,Auckland,1995,59.68406593406594
+Australia/South Pacific,New Zealand,,Auckland,1996,59.46448087431691
+Australia/South Pacific,New Zealand,,Auckland,1997,58.703287671232886
+Australia/South Pacific,New Zealand,,Auckland,1998,61.25429362880883
+Australia/South Pacific,New Zealand,,Auckland,1999,60.20851648351657
+Australia/South Pacific,New Zealand,,Auckland,2000,59.89123287671236
+Australia/South Pacific,New Zealand,,Auckland,2001,59.79035812672183
+Australia/South Pacific,New Zealand,,Auckland,2002,59.51538461538459
+Australia/South Pacific,New Zealand,,Auckland,2003,59.29775910364143
+Australia/South Pacific,New Zealand,,Auckland,2004,58.54672131147537
+Australia/South Pacific,New Zealand,,Auckland,2005,60.49178082191782
+Australia/South Pacific,New Zealand,,Auckland,2006,59.02547945205483
+Australia/South Pacific,New Zealand,,Auckland,2007,59.72829670329669
+Australia/South Pacific,New Zealand,,Auckland,2008,59.88434065934067
+Australia/South Pacific,New Zealand,,Auckland,2009,58.86291208791209
+Australia/South Pacific,New Zealand,,Auckland,2010,60.24999999999994
+Australia/South Pacific,New Zealand,,Auckland,2011,60.109041095890426
+Australia/South Pacific,New Zealand,,Auckland,2012,59.112777777777765
+Australia/South Pacific,New Zealand,,Auckland,2013,60.44109589041094
+Australia/South Pacific,New Zealand,,Auckland,2014,59.67307692307691
+Australia/South Pacific,New Zealand,,Auckland,2015,59.75824175824174
+Australia/South Pacific,New Zealand,,Auckland,2016,60.883701657458566
+Australia/South Pacific,New Zealand,,Auckland,2017,60.52219178082192
+Australia/South Pacific,New Zealand,,Auckland,2018,60.579501385041546
+Australia/South Pacific,New Zealand,,Auckland,2019,60.56267409470755
+Australia/South Pacific,New Zealand,,Auckland,2020,65.10373134328361
+Europe,Albania,,Tirana,1997,71.93478260869566
+Europe,Albania,,Tirana,1998,61.612499999999976
+Europe,Albania,,Tirana,1999,63.116961130742055
+Europe,Albania,,Tirana,2000,63.17694524495682
+Europe,Albania,,Tirana,2001,61.23560000000005
+Europe,Albania,,Tirana,2002,63.301265822784835
+Europe,Albania,,Tirana,2003,63.6548476454294
+Europe,Albania,,Tirana,2004,61.523835616438305
+Europe,Albania,,Tirana,2005,60.81129476584021
+Europe,Albania,,Tirana,2006,59.87486187845302
+Europe,Albania,,Tirana,2007,61.329395604395586
+Europe,Albania,,Tirana,2008,60.66318681318682
+Europe,Albania,,Tirana,2009,61.156232686980566
+Europe,Albania,,Tirana,2010,60.56876712328763
+Europe,Albania,,Tirana,2011,59.91863013698633
+Europe,Albania,,Tirana,2012,60.3197260273972
+Europe,Albania,,Tirana,2013,60.413150684931466
+Europe,Albania,,Tirana,2014,60.65302197802197
+Europe,Albania,,Tirana,2015,60.96428571428581
+Europe,Albania,,Tirana,2016,60.73259668508292
+Europe,Albania,,Tirana,2017,60.38465753424662
+Europe,Albania,,Tirana,2018,62.09611111111115
+Europe,Albania,,Tirana,2019,61.668055555555505
+Europe,Albania,,Tirana,2020,51.1597014925373
+Europe,Austria,,Vienna,1995,50.25123287671234
+Europe,Austria,,Vienna,1996,47.676775956284125
+Europe,Austria,,Vienna,1997,49.68273972602742
+Europe,Austria,,Vienna,1998,51.33795013850416
+Europe,Austria,,Vienna,1999,50.955219780219814
+Europe,Austria,,Vienna,2000,52.75956284153006
+Europe,Austria,,Vienna,2001,50.82301369863017
+Europe,Austria,,Vienna,2002,51.8689750692521
+Europe,Austria,,Vienna,2003,51.49506849315072
+Europe,Austria,,Vienna,2004,50.603005464480894
+Europe,Austria,,Vienna,2005,50.302191780821964
+Europe,Austria,,Vienna,2006,51.23534246575341
+Europe,Austria,,Vienna,2007,53.00906593406593
+Europe,Austria,,Vienna,2008,52.59123287671234
+Europe,Austria,,Vienna,2009,51.77390109890109
+Europe,Austria,,Vienna,2010,49.25068493150686
+Europe,Austria,,Vienna,2011,51.27945205479456
+Europe,Austria,,Vienna,2012,51.911475409836065
+Europe,Austria,,Vienna,2013,51.42630136986303
+Europe,Austria,,Vienna,2014,53.35302197802191
+Europe,Austria,,Vienna,2015,53.472802197802224
+Europe,Austria,,Vienna,2016,52.10826446280993
+Europe,Austria,,Vienna,2017,52.35150684931506
+Europe,Austria,,Vienna,2018,53.7889502762431
+Europe,Austria,,Vienna,2019,53.91222222222227
+Europe,Austria,,Vienna,2020,44.924626865671655
+Europe,Belarus,,Minsk,1995,44.31260273972603
+Europe,Belarus,,Minsk,1996,41.64972677595629
+Europe,Belarus,,Minsk,1997,42.97095890410956
+Europe,Belarus,,Minsk,1998,44.442296918767504
+Europe,Belarus,,Minsk,1999,46.92802197802201
+Europe,Belarus,,Minsk,2000,46.96120218579237
+Europe,Belarus,,Minsk,2001,45.367123287671234
+Europe,Belarus,,Minsk,2002,46.53379501385043
+Europe,Belarus,,Minsk,2003,44.60410958904108
+Europe,Belarus,,Minsk,2004,44.71994535519125
+Europe,Belarus,,Minsk,2005,45.14493150684931
+Europe,Belarus,,Minsk,2006,45.16767123287672
+Europe,Belarus,,Minsk,2007,46.75509641873281
+Europe,Belarus,,Minsk,2008,46.972802197802196
+Europe,Belarus,,Minsk,2009,45.01675824175824
+Europe,Belarus,,Minsk,2010,44.88657534246575
+Europe,Belarus,,Minsk,2011,46.51178082191784
+Europe,Belarus,,Minsk,2012,45.111748633879756
+Europe,Belarus,,Minsk,2013,46.319999999999965
+Europe,Belarus,,Minsk,2014,46.82060439560437
+Europe,Belarus,,Minsk,2015,48.24945054945055
+Europe,Belarus,,Minsk,2016,46.41215469613259
+Europe,Belarus,,Minsk,2017,46.09578313253013
+Europe,Belarus,,Minsk,2018,44.421305841924344
+Europe,Belarus,,Minsk,2019,44.48718861209966
+Europe,Belarus,,Minsk,2020,38.00756302521007
+Europe,Belgium,,Brussels,1995,51.701095890410976
+Europe,Belgium,,Brussels,1996,48.19180327868852
+Europe,Belgium,,Brussels,1997,51.13260273972603
+Europe,Belgium,,Brussels,1998,51.29833795013852
+Europe,Belgium,,Brussels,1999,52.125824175824214
+Europe,Belgium,,Brussels,2000,52.31502732240441
+Europe,Belgium,,Brussels,2001,51.58739726027402
+Europe,Belgium,,Brussels,2002,52.33351800554014
+Europe,Belgium,,Brussels,2003,52.32383561643834
+Europe,Belgium,,Brussels,2004,51.62978142076503
+Europe,Belgium,,Brussels,2005,52.140273972602735
+Europe,Belgium,,Brussels,2006,52.05589041095888
+Europe,Belgium,,Brussels,2007,52.14505494505498
+Europe,Belgium,,Brussels,2008,51.06994535519125
+Europe,Belgium,,Brussels,2009,51.26126373626372
+Europe,Belgium,,Brussels,2010,48.835616438356155
+Europe,Belgium,,Brussels,2011,52.475616438356184
+Europe,Belgium,,Brussels,2012,50.75737704918034
+Europe,Belgium,,Brussels,2013,49.85534246575341
+Europe,Belgium,,Brussels,2014,53.12609890109893
+Europe,Belgium,,Brussels,2015,51.92609890109894
+Europe,Belgium,,Brussels,2016,51.561049723756874
+Europe,Belgium,,Brussels,2017,52.132328767123305
+Europe,Belgium,,Brussels,2018,53.05734072022163
+Europe,Belgium,,Brussels,2019,52.503899721448484
+Europe,Belgium,,Brussels,2020,46.91567164179104
+Europe,Bulgaria,,Sofia,1995,49.4301369863014
+Europe,Bulgaria,,Sofia,1997,48.779999999999994
+Europe,Bulgaria,,Sofia,1998,50.73711911357339
+Europe,Bulgaria,,Sofia,1999,51.01043956043958
+Europe,Bulgaria,,Sofia,2000,51.72759562841535
+Europe,Bulgaria,,Sofia,2001,50.724109589041085
+Europe,Bulgaria,,Sofia,2002,50.43407202216065
+Europe,Bulgaria,,Sofia,2003,50.17205479452053
+Europe,Bulgaria,,Sofia,2004,50.53961748633877
+Europe,Bulgaria,,Sofia,2005,49.13972602739721
+Europe,Bulgaria,,Sofia,2006,50.41808219178082
+Europe,Bulgaria,,Sofia,2007,53.543956043955994
+Europe,Bulgaria,,Sofia,2008,53.39561643835616
+Europe,Bulgaria,,Sofia,2009,52.65494505494509
+Europe,Bulgaria,,Sofia,2010,52.861095890410965
+Europe,Bulgaria,,Sofia,2011,51.455616438356145
+Europe,Bulgaria,,Sofia,2012,53.203551912568265
+Europe,Bulgaria,,Sofia,2013,53.48493150684929
+Europe,Bulgaria,,Sofia,2014,53.13598901098903
+Europe,Bulgaria,,Sofia,2015,53.37005494505496
+Europe,Bulgaria,,Sofia,2016,53.37292817679557
+Europe,Bulgaria,,Sofia,2017,52.65397260273972
+Europe,Bulgaria,,Sofia,2018,53.04238227146817
+Europe,Bulgaria,,Sofia,2019,53.23621169916434
+Europe,Bulgaria,,Sofia,2020,42.10820895522389
+Europe,Croatia,,Zagreb,1996,52.178978978978954
+Europe,Croatia,,Zagreb,1997,51.821388888888904
+Europe,Croatia,,Zagreb,1998,52.35028089887642
+Europe,Croatia,,Zagreb,1999,53.65730027548205
+Europe,Croatia,,Zagreb,2000,55.85412087912089
+Europe,Croatia,,Zagreb,2001,54.16164383561641
+Europe,Croatia,,Zagreb,2002,54.754722222222206
+Europe,Croatia,,Zagreb,2003,54.45945205479454
+Europe,Croatia,,Zagreb,2004,53.04726775956282
+Europe,Croatia,,Zagreb,2005,52.23835616438351
+Europe,Croatia,,Zagreb,2006,54.22054794520546
+Europe,Croatia,,Zagreb,2007,55.78291316526609
+Europe,Croatia,,Zagreb,2008,55.22060439560433
+Europe,Croatia,,Zagreb,2009,55.246978021978045
+Europe,Croatia,,Zagreb,2010,53.21671232876718
+Europe,Croatia,,Zagreb,2011,54.72739726027395
+Europe,Croatia,,Zagreb,2012,55.56366120218577
+Europe,Croatia,,Zagreb,2013,54.370136986301326
+Europe,Croatia,,Zagreb,2014,56.22087912087915
+Europe,Croatia,,Zagreb,2015,55.70494505494507
+Europe,Croatia,,Zagreb,2016,54.832132963988926
+Europe,Croatia,,Zagreb,2017,55.572054794520554
+Europe,Croatia,,Zagreb,2018,56.49275766016704
+Europe,Croatia,,Zagreb,2019,56.55710306406687
+Europe,Croatia,,Zagreb,2020,47.549624060150386
+Europe,Cyprus,,Nicosia,1995,64.99393939393937
+Europe,Cyprus,,Nicosia,1996,69.69531772575253
+Europe,Cyprus,,Nicosia,1997,63.424637681159474
+Europe,Cyprus,,Nicosia,1998,71.31666666666666
+Europe,Cyprus,,Nicosia,1999,65.79868421052635
+Europe,Cyprus,,Nicosia,2000,72.80611510791371
+Europe,Cyprus,,Nicosia,2001,67.96958904109584
+Europe,Cyprus,,Nicosia,2002,67.40430107526882
+Europe,Cyprus,,Nicosia,2003,58.12142857142856
+Europe,Cyprus,,Nicosia,2004,72.9527659574468
+Europe,Cyprus,,Nicosia,2005,66.42958904109585
+Europe,Cyprus,,Nicosia,2006,66.32821917808215
+Europe,Cyprus,,Nicosia,2007,67.18156424581005
+Europe,Cyprus,,Nicosia,2008,68.05534246575347
+Europe,Cyprus,,Nicosia,2009,69.02695312499998
+Europe,Cyprus,,Nicosia,2010,90.1
+Europe,Czech Republic,,Prague,1995,46.76657534246575
+Europe,Czech Republic,,Prague,1996,43.504371584699435
+Europe,Czech Republic,,Prague,1997,46.236986301369825
+Europe,Czech Republic,,Prague,1998,47.77977839335178
+Europe,Czech Republic,,Prague,1999,47.93131868131868
+Europe,Czech Republic,,Prague,2000,49.08196721311477
+Europe,Czech Republic,,Prague,2001,46.970136986301355
+Europe,Czech Republic,,Prague,2002,48.23988919667589
+Europe,Czech Republic,,Prague,2003,48.11260273972602
+Europe,Czech Republic,,Prague,2004,47.369945355191284
+Europe,Czech Republic,,Prague,2005,47.35424657534247
+Europe,Czech Republic,,Prague,2006,48.335616438356155
+Europe,Czech Republic,,Prague,2007,49.809615384615405
+Europe,Czech Republic,,Prague,2008,48.86483516483514
+Europe,Czech Republic,,Prague,2009,48.45412087912088
+Europe,Czech Republic,,Prague,2010,45.986301369862986
+Europe,Czech Republic,,Prague,2011,48.665753424657524
+Europe,Czech Republic,,Prague,2012,48.32240437158474
+Europe,Czech Republic,,Prague,2013,46.99369863013692
+Europe,Czech Republic,,Prague,2014,49.92664835164828
+Europe,Czech Republic,,Prague,2015,50.36291208791209
+Europe,Czech Republic,,Prague,2016,49.05690607734806
+Europe,Czech Republic,,Prague,2017,48.76465753424658
+Europe,Czech Republic,,Prague,2018,51.00747922437672
+Europe,Czech Republic,,Prague,2019,50.39136490250695
+Europe,Czech Republic,,Prague,2020,42.094029850746274
+Europe,Denmark,,Copenhagen,1995,46.24136986301372
+Europe,Denmark,,Copenhagen,1996,43.45327868852458
+Europe,Denmark,,Copenhagen,1997,47.078630136986305
+Europe,Denmark,,Copenhagen,1998,46.674515235457044
+Europe,Denmark,,Copenhagen,1999,47.67637362637366
+Europe,Denmark,,Copenhagen,2000,48.314754098360645
+Europe,Denmark,,Copenhagen,2001,46.6764383561644
+Europe,Denmark,,Copenhagen,2002,47.97340720221606
+Europe,Denmark,,Copenhagen,2003,47.11150684931507
+Europe,Denmark,,Copenhagen,2004,47.066939890710415
+Europe,Denmark,,Copenhagen,2005,47.11561643835618
+Europe,Denmark,,Copenhagen,2006,48.22684931506845
+Europe,Denmark,,Copenhagen,2007,48.59313186813185
+Europe,Denmark,,Copenhagen,2008,48.409289617486294
+Europe,Denmark,,Copenhagen,2009,47.51373626373631
+Europe,Denmark,,Copenhagen,2010,44.386575342465754
+Europe,Denmark,,Copenhagen,2011,47.742739726027395
+Europe,Denmark,,Copenhagen,2012,46.79535519125686
+Europe,Denmark,,Copenhagen,2013,46.90164383561643
+Europe,Denmark,,Copenhagen,2014,49.88159340659342
+Europe,Denmark,,Copenhagen,2015,48.374725274725286
+Europe,Denmark,,Copenhagen,2016,48.08784530386742
+Europe,Denmark,,Copenhagen,2017,47.95479452054794
+Europe,Denmark,,Copenhagen,2018,49.46011080332411
+Europe,Denmark,,Copenhagen,2019,49.30278551532029
+Europe,Denmark,,Copenhagen,2020,42.32761194029851
+Europe,Finland,,Helsinki,1995,42.24219178082193
+Europe,Finland,,Helsinki,1996,40.04672131147543
+Europe,Finland,,Helsinki,1997,42.07534246575342
+Europe,Finland,,Helsinki,1998,41.25069252077564
+Europe,Finland,,Helsinki,1999,43.278571428571446
+Europe,Finland,,Helsinki,2000,44.53606557377052
+Europe,Finland,,Helsinki,2001,42.01205479452054
+Europe,Finland,,Helsinki,2002,42.33047091412742
+Europe,Finland,,Helsinki,2003,41.38876712328768
+Europe,Finland,,Helsinki,2004,41.710655737704904
+Europe,Finland,,Helsinki,2005,42.68356164383561
+Europe,Finland,,Helsinki,2006,43.189589041095886
+Europe,Finland,,Helsinki,2007,43.578021978022
+Europe,Finland,,Helsinki,2008,44.62295081967211
+Europe,Finland,,Helsinki,2009,42.04560439560439
+Europe,Finland,,Helsinki,2010,40.110410958904076
+Europe,Finland,,Helsinki,2011,44.211780821917806
+Europe,Finland,,Helsinki,2012,41.507650273224066
+Europe,Finland,,Helsinki,2013,43.63972602739723
+Europe,Finland,,Helsinki,2014,44.10384615384615
+Europe,Finland,,Helsinki,2015,44.920329670329686
+Europe,Finland,,Helsinki,2016,42.904143646408876
+Europe,Finland,,Helsinki,2017,42.81698630136985
+Europe,Finland,,Helsinki,2018,44.0141274238227
+Europe,Finland,,Helsinki,2019,43.87715877437328
+Europe,Finland,,Helsinki,2020,36.508955223880605
+Europe,France,,Paris,1995,56.4077134986226
+Europe,France,,Paris,1996,54.32352941176474
+Europe,France,,Paris,1997,56.87465753424661
+Europe,France,,Paris,1998,55.473743016759784
+Europe,France,,Paris,1999,56.097390109890114
+Europe,France,,Paris,2000,55.76420765027321
+Europe,France,,Paris,2001,55.212602739726044
+Europe,France,,Paris,2002,55.76371191135732
+Europe,France,,Paris,2003,56.390821917808324
+Europe,France,,Paris,2004,54.931830601092884
+Europe,France,,Paris,2005,55.06406035665302
+Europe,France,,Paris,2006,55.90506849315067
+Europe,France,,Paris,2007,55.128434065934044
+Europe,France,,Paris,2008,54.54897119341572
+Europe,France,,Paris,2009,55.23695054945054
+Europe,France,,Paris,2010,53.39917808219173
+Europe,France,,Paris,2011,56.67671232876717
+Europe,France,,Paris,2012,54.80778688524594
+Europe,France,,Paris,2013,54.21893004115227
+Europe,France,,Paris,2014,55.48310439560433
+Europe,France,,Paris,2015,55.67857142857141
+Europe,France,,Paris,2016,55.00275862068967
+Europe,France,,Paris,2017,55.612602739726
+Europe,France,,Paris,2018,55.979548660084625
+Europe,France,,Paris,2019,56.22402777777784
+Europe,France,,Paris,2020,50.816417910447754
+Europe,Germany,,Bonn,1995,50.723846153846154
+Europe,Germany,,Bonn,1996,47.20932835820898
+Europe,Germany,,Bonn,1997,49.173047858942056
+Europe,Germany,,Bonn,1998,50.48752997601918
+Europe,Germany,,Bonn,1999,51.001478953356084
+Europe,Germany,,Bonn,2000,52.09814600231746
+Europe,Germany,,Bonn,2001,49.56413708690329
+Europe,Germany,,Bonn,2002,51.21849148418492
+Europe,Germany,,Bonn,2003,48.6065333333334
+Europe,Germany,,Frankfurt,2004,50.52431761786596
+Europe,Germany,,Frankfurt,2005,50.20402930402932
+Europe,Germany,,Frankfurt,2006,49.170921985815674
+Europe,Germany,,Hamburg,2007,50.91717990275523
+Europe,Germany,,Hamburg,2008,50.786604361370784
+Europe,Germany,,Hamburg,2009,50.254250386398795
+Europe,Germany,,Hamburg,2010,47.79140708915149
+Europe,Germany,,Hamburg,2011,50.84508333333339
+Europe,Germany,,Munich,2012,48.57158469945353
+Europe,Germany,,Munich,2013,47.51753424657532
+Europe,Germany,,Munich,2014,50.112912087912115
+Europe,Germany,,Munich,2015,49.91978021978023
+Europe,Germany,,Munich,2016,49.105248618784515
+Europe,Germany,,Munich,2017,48.79342465753423
+Europe,Germany,,Munich,2018,51.46115942028986
+Europe,Germany,,Munich,2019,50.59479015918959
+Europe,Germany,,Munich,2020,43.01343283582088
+Europe,Georgia,,Tbilisi,1995,57.05972602739726
+Europe,Georgia,,Tbilisi,1996,55.59344262295079
+Europe,Georgia,,Tbilisi,1997,55.50547945205479
+Europe,Georgia,,Tbilisi,1998,58.17285318559559
+Europe,Georgia,,Tbilisi,1999,57.195054945054935
+Europe,Georgia,,Tbilisi,2000,57.17896174863391
+Europe,Georgia,,Tbilisi,2001,57.10138121546962
+Europe,Georgia,,Tbilisi,2002,56.28559556786707
+Europe,Georgia,,Tbilisi,2003,55.84465753424652
+Europe,Georgia,,Tbilisi,2004,56.671311475409816
+Europe,Georgia,,Tbilisi,2005,57.15726495726497
+Europe,Georgia,,Tbilisi,2006,43.23669724770645
+Europe,Greece,,Athens,1995,64.94657534246574
+Europe,Greece,,Athens,1996,64.54125683060111
+Europe,Greece,,Athens,1997,63.93534246575343
+Europe,Greece,,Athens,1998,65.5019337016574
+Europe,Greece,,Athens,1999,66.71675824175824
+Europe,Greece,,Athens,2000,65.80218579234972
+Europe,Greece,,Athens,2001,66.14054794520544
+Europe,Greece,,Athens,2002,65.1952908587258
+Europe,Greece,,Athens,2003,64.91863013698631
+Europe,Greece,,Athens,2004,64.65491803278688
+Europe,Greece,,Athens,2005,64.27342465753425
+Europe,Greece,,Athens,2006,64.17134986225898
+Europe,Greece,,Athens,2007,65.7659279778393
+Europe,Greece,,Athens,2008,65.89917582417583
+Europe,Greece,,Athens,2009,65.74738292011014
+Europe,Greece,,Athens,2010,67.12876712328763
+Europe,Greece,,Athens,2011,66.22191780821923
+Europe,Greece,,Athens,2012,60.161006289308204
+Europe,Hungary,,Budapest,1995,50.27287671232873
+Europe,Hungary,,Budapest,1996,48.61939890710383
+Europe,Hungary,,Budapest,1997,50.38602739726026
+Europe,Hungary,,Budapest,1998,51.535911602209936
+Europe,Hungary,,Budapest,1999,50.6486263736264
+Europe,Hungary,,Budapest,2000,53.127049180327866
+Europe,Hungary,,Budapest,2001,51.44027397260275
+Europe,Hungary,,Budapest,2002,52.795844875346226
+Europe,Hungary,,Budapest,2003,51.736263736263744
+Europe,Hungary,,Budapest,2004,48.69672131147543
+Europe,Hungary,,Budapest,2005,48.35178082191782
+Europe,Hungary,,Budapest,2006,50.0315068493151
+Europe,Hungary,,Budapest,2007,53.28626373626369
+Europe,Hungary,,Budapest,2008,52.63999999999999
+Europe,Hungary,,Budapest,2009,52.499175824175815
+Europe,Hungary,,Budapest,2010,50.0997260273972
+Europe,Hungary,,Budapest,2011,51.536164383561626
+Europe,Hungary,,Budapest,2012,52.56174863387979
+Europe,Hungary,,Budapest,2013,52.29726027397263
+Europe,Hungary,,Budapest,2014,53.69148351648354
+Europe,Hungary,,Budapest,2015,53.602197802197814
+Europe,Hungary,,Budapest,2016,52.21491712707178
+Europe,Hungary,,Budapest,2017,52.22164383561643
+Europe,Hungary,,Budapest,2018,54.0376731301939
+Europe,Hungary,,Budapest,2019,54.03509749303622
+Europe,Hungary,,Budapest,2020,43.4082089552239
+Europe,Iceland,,Reykjavik,1995,38.906027397260274
+Europe,Iceland,,Reykjavik,1996,41.16393442622952
+Europe,Iceland,,Reykjavik,1997,41.36821917808218
+Europe,Iceland,,Reykjavik,1998,40.365927977839306
+Europe,Iceland,,Reykjavik,1999,39.95219780219779
+Europe,Iceland,,Reykjavik,2000,40.175683060109314
+Europe,Iceland,,Reykjavik,2001,41.5482191780822
+Europe,Iceland,,Reykjavik,2002,41.924930747922446
+Europe,Iceland,,Reykjavik,2003,43.20164383561646
+Europe,Iceland,,Reykjavik,2004,42.29071038251366
+Europe,Iceland,,Reykjavik,2005,41.375890410958924
+Europe,Iceland,,Reykjavik,2006,41.97780821917809
+Europe,Iceland,,Reykjavik,2007,42.17857142857142
+Europe,Iceland,,Reykjavik,2008,41.81912568306013
+Europe,Iceland,,Reykjavik,2009,42.25357142857143
+Europe,Iceland,,Reykjavik,2010,42.85342465753421
+Europe,Iceland,,Reykjavik,2011,41.90876712328765
+Europe,Iceland,,Reykjavik,2012,42.23306010928963
+Europe,Iceland,,Reykjavik,2013,41.06246575342467
+Europe,Iceland,,Reykjavik,2014,42.93186813186814
+Europe,Iceland,,Reykjavik,2015,40.31126373626377
+Europe,Iceland,,Reykjavik,2016,42.94254143646408
+Europe,Iceland,,Reykjavik,2017,41.94986301369864
+Europe,Iceland,,Reykjavik,2018,41.34611111111112
+Europe,Iceland,,Reykjavik,2019,42.4050139275766
+Europe,Iceland,,Reykjavik,2020,35.07388059701493
+Europe,Ireland,,Dublin,1995,49.97041095890412
+Europe,Ireland,,Dublin,1996,48.2084699453552
+Europe,Ireland,,Dublin,1997,50.08958904109592
+Europe,Ireland,,Dublin,1998,49.869252077562294
+Europe,Ireland,,Dublin,1999,49.81895604395603
+Europe,Ireland,,Dublin,2000,48.94180327868844
+Europe,Ireland,,Dublin,2001,48.88657534246575
+Europe,Ireland,,Dublin,2002,49.957340720221616
+Europe,Ireland,,Dublin,2003,49.970684931506845
+Europe,Ireland,,Dublin,2004,49.88196721311479
+Europe,Ireland,,Dublin,2005,50.24684931506849
+Europe,Ireland,,Dublin,2006,50.48904109589042
+Europe,Ireland,,Dublin,2007,50.45757575757575
+Europe,Ireland,,Dublin,2008,49.178082191780845
+Europe,Ireland,,Dublin,2009,49.320054945054906
+Europe,Ireland,,Dublin,2010,47.27205479452054
+Europe,Ireland,,Dublin,2011,50.11863013698632
+Europe,Ireland,,Dublin,2012,49.004644808743144
+Europe,Ireland,,Dublin,2013,49.204109589041146
+Europe,Ireland,,Dublin,2014,50.248351648351644
+Europe,Ireland,,Dublin,2015,49.22115384615384
+Europe,Ireland,,Dublin,2016,49.794475138121555
+Europe,Ireland,,Dublin,2017,50.20904109589038
+Europe,Ireland,,Dublin,2018,49.91712707182318
+Europe,Ireland,,Dublin,2019,49.83259052924789
+Europe,Ireland,,Dublin,2020,44.664179104477604
+Europe,Italy,,Milan,1995,56.169093406593355
+Europe,Italy,,Milan,1996,55.83114754098373
+Europe,Italy,,Milan,1997,57.585479452054805
+Europe,Italy,,Milan,1998,57.41343490304712
+Europe,Italy,,Milan,1999,57.80810439560433
+Europe,Italy,,Milan,2000,58.03789329685364
+Europe,Italy,,Milan,2001,57.57534246575334
+Europe,Italy,,Milan,2002,57.34515235457065
+Europe,Italy,,Milan,2003,58.35890410958904
+Europe,Italy,,Milan,2004,56.81762295081969
+Europe,Italy,,Milan,2005,56.22958904109584
+Europe,Italy,,Milan,2006,57.23712328767131
+Europe,Italy,,Milan,2007,57.735851648351655
+Europe,Italy,,Milan,2008,57.79546703296707
+Europe,Italy,,Milan,2009,58.10892857142854
+Europe,Italy,,Milan,2010,56.775342465753376
+Europe,Italy,,Milan,2011,58.281232876712345
+Europe,Italy,,Milan,2012,58.06352459016392
+Europe,Italy,,Milan,2013,57.697260273972695
+Europe,Italy,,Milan,2014,59.100412087912126
+Europe,Italy,,Milan,2015,58.65892857142861
+Europe,Italy,,Milan,2016,58.948071625344305
+Europe,Italy,,Milan,2017,58.880958904109626
+Europe,Italy,,Milan,2018,60.009141274238246
+Europe,Italy,,Milan,2019,59.50389972144844
+Europe,Italy,,Milan,2020,50.23992537313435
+Europe,Latvia,,Riga,1995,45.01895604395606
+Europe,Latvia,,Riga,1996,41.988524590163955
+Europe,Latvia,,Riga,1997,45.501095890410944
+Europe,Latvia,,Riga,1998,42.43525641025639
+Europe,Latvia,,Riga,1999,46.96071428571431
+Europe,Latvia,,Riga,2000,47.63698630136987
+Europe,Latvia,,Riga,2001,45.970958904109594
+Europe,Latvia,,Riga,2002,46.70831024930746
+Europe,Latvia,,Riga,2003,45.67205479452051
+Europe,Latvia,,Riga,2004,45.17295081967211
+Europe,Latvia,,Riga,2005,45.1082191780822
+Europe,Latvia,,Riga,2006,45.66986301369866
+Europe,Latvia,,Riga,2007,46.0892857142857
+Europe,Latvia,,Riga,2008,46.52252747252742
+Europe,Latvia,,Riga,2009,44.640934065934076
+Europe,Latvia,,Riga,2010,42.66
+Europe,Latvia,,Riga,2011,45.48109589041091
+Europe,Latvia,,Riga,2012,43.52923497267759
+Europe,Latvia,,Riga,2013,45.147397260274
+Europe,Latvia,,Riga,2014,46.119780219780225
+Europe,Latvia,,Riga,2015,46.88324175824176
+Europe,Latvia,,Riga,2016,45.78209366391181
+Europe,Latvia,,Riga,2017,45.16054794520549
+Europe,Latvia,,Riga,2018,46.66657458563534
+Europe,Latvia,,Riga,2019,47.351253481894176
+Europe,Latvia,,Riga,2020,39.82686567164178
+Europe,Macedonia,,Skopje,1995,54.7816384180791
+Europe,Macedonia,,Skopje,1996,55.26942148760328
+Europe,Macedonia,,Skopje,1997,54.949041095890394
+Europe,Macedonia,,Skopje,1998,55.55706371191134
+Europe,Macedonia,,Skopje,1999,54.726648351648414
+Europe,Macedonia,,Skopje,2000,54.17185792349724
+Europe,Macedonia,,Skopje,2001,54.41178082191789
+Europe,Macedonia,,Skopje,2002,53.732132963988896
+Europe,Macedonia,,Skopje,2003,54.65851648351651
+Europe,Macedonia,,Skopje,2004,54.07978142076503
+Europe,Macedonia,,Skopje,2005,53.053698630136985
+Europe,Macedonia,,Skopje,2006,53.416164383561586
+Europe,Macedonia,,Skopje,2007,55.68763736263738
+Europe,Macedonia,,Skopje,2008,55.88379120879125
+Europe,Macedonia,,Skopje,2009,54.623076923076944
+Europe,Macedonia,,Skopje,2010,55.22301369863019
+Europe,Macedonia,,Skopje,2011,53.74986301369865
+Europe,Macedonia,,Skopje,2012,55.05081967213109
+Europe,Macedonia,,Skopje,2013,55.56575342465754
+Europe,Macedonia,,Skopje,2014,55.75219780219777
+Europe,Macedonia,,Skopje,2015,55.31181318681322
+Europe,Macedonia,,Skopje,2016,54.910497237569054
+Europe,Macedonia,,Skopje,2017,54.86904109589045
+Europe,Macedonia,,Skopje,2018,56.01385041551242
+Europe,Macedonia,,Skopje,2019,56.80863509749303
+Europe,Macedonia,,Skopje,2020,44.533582089552255
+Europe,The Netherlands,,Amsterdam,1995,50.892876712328764
+Europe,The Netherlands,,Amsterdam,1996,47.448907103825164
+Europe,The Netherlands,,Amsterdam,1997,50.488219178082176
+Europe,The Netherlands,,Amsterdam,1998,51.12243767313019
+Europe,The Netherlands,,Amsterdam,1999,52.057692307692356
+Europe,The Netherlands,,Amsterdam,2000,51.838524590164006
+Europe,The Netherlands,,Amsterdam,2001,51.153424657534295
+Europe,The Netherlands,,Amsterdam,2002,51.602216066482
+Europe,The Netherlands,,Amsterdam,2003,51.27095890410957
+Europe,The Netherlands,,Amsterdam,2004,51.27896174863387
+Europe,The Netherlands,,Amsterdam,2005,51.748493150684936
+Europe,The Netherlands,,Amsterdam,2006,52.442191780821915
+Europe,The Netherlands,,Amsterdam,2007,52.599450549450545
+Europe,The Netherlands,,Amsterdam,2008,51.48794520547948
+Europe,The Netherlands,,Amsterdam,2009,51.309065934065906
+Europe,The Netherlands,,Amsterdam,2010,48.611232876712336
+Europe,The Netherlands,,Amsterdam,2011,51.88219178082195
+Europe,The Netherlands,,Amsterdam,2012,50.72841530054642
+Europe,The Netherlands,,Amsterdam,2013,49.93232876712329
+Europe,The Netherlands,,Amsterdam,2014,53.32994505494503
+Europe,The Netherlands,,Amsterdam,2015,51.86703296703299
+Europe,The Netherlands,,Amsterdam,2016,51.808011049723746
+Europe,The Netherlands,,Amsterdam,2017,52.110410958904126
+Europe,The Netherlands,,Amsterdam,2018,52.8475
+Europe,The Netherlands,,Amsterdam,2019,52.47186629526457
+Europe,The Netherlands,,Amsterdam,2020,46.828358208955244
+Europe,Norway,,Oslo,1995,39.963287671232884
+Europe,Norway,,Oslo,1996,38.246994535519136
+Europe,Norway,,Oslo,1997,42.53835616438354
+Europe,Norway,,Oslo,1998,41.29196675900274
+Europe,Norway,,Oslo,1999,41.968406593406606
+Europe,Norway,,Oslo,2000,43.63415300546447
+Europe,Norway,,Oslo,2001,40.435616438356156
+Europe,Norway,,Oslo,2002,41.253185595567864
+Europe,Norway,,Oslo,2003,41.80301369863012
+Europe,Norway,,Oslo,2004,42.11994535519124
+Europe,Norway,,Oslo,2005,42.87999999999999
+Europe,Norway,,Oslo,2006,43.17397260273973
+Europe,Norway,,Oslo,2007,42.51515151515151
+Europe,Norway,,Oslo,2008,43.632443820224715
+Europe,Norway,,Oslo,2009,41.21483516483513
+Europe,Norway,,Oslo,2010,37.09999999999997
+Europe,Norway,,Oslo,2011,42.47315068493148
+Europe,Norway,,Oslo,2012,40.830601092896174
+Europe,Norway,,Oslo,2013,41.175890410958914
+Europe,Norway,,Oslo,2014,44.24368131868128
+Europe,Norway,,Oslo,2015,43.11483516483515
+Europe,Norway,,Oslo,2016,42.5013812154696
+Europe,Norway,,Oslo,2017,41.874520547945195
+Europe,Norway,,Oslo,2018,42.899723756906106
+Europe,Norway,,Oslo,2019,42.12952646239556
+Europe,Norway,,Oslo,2020,37.045522388059716
+Europe,Poland,,Warsaw,1995,46.90794520547944
+Europe,Poland,,Warsaw,1996,44.39234972677595
+Europe,Poland,,Warsaw,1997,46.25452054794521
+Europe,Poland,,Warsaw,1998,47.00055401662052
+Europe,Poland,,Warsaw,1999,48.453571428571436
+Europe,Poland,,Warsaw,2000,49.37295081967212
+Europe,Poland,,Warsaw,2001,47.099178082191784
+Europe,Poland,,Warsaw,2002,48.57036011080335
+Europe,Poland,,Warsaw,2003,47.0682191780822
+Europe,Poland,,Warsaw,2004,47.23825136612019
+Europe,Poland,,Warsaw,2005,47.60136986301368
+Europe,Poland,,Warsaw,2006,48.2827397260274
+Europe,Poland,,Warsaw,2007,49.52692307692308
+Europe,Poland,,Warsaw,2008,49.714010989010994
+Europe,Poland,,Warsaw,2009,47.840109890109865
+Europe,Poland,,Warsaw,2010,46.33561643835618
+Europe,Poland,,Warsaw,2011,48.36821917808219
+Europe,Poland,,Warsaw,2012,47.6601092896175
+Europe,Poland,,Warsaw,2013,48.01205479452053
+Europe,Poland,,Warsaw,2014,49.61263736263733
+Europe,Poland,,Warsaw,2015,50.99587912087909
+Europe,Poland,,Warsaw,2016,49.86546961325968
+Europe,Poland,,Warsaw,2017,49.20657534246575
+Europe,Poland,,Warsaw,2018,51.29750692520779
+Europe,Poland,,Warsaw,2019,51.84540389972146
+Europe,Poland,,Warsaw,2020,42.59776119402985
+Europe,Portugal,,Lisbon,1995,64.39123287671232
+Europe,Portugal,,Lisbon,1996,62.84672131147539
+Europe,Portugal,,Lisbon,1997,64.80027472527469
+Europe,Portugal,,Lisbon,1998,63.7467966573816
+Europe,Portugal,,Lisbon,1999,63.27024793388434
+Europe,Portugal,,Lisbon,2000,62.27650273224043
+Europe,Portugal,,Lisbon,2001,62.21917808219184
+Europe,Portugal,,Lisbon,2002,62.320775623268766
+Europe,Portugal,,Lisbon,2003,63.05835616438352
+Europe,Portugal,,Lisbon,2004,62.655616438356134
+Europe,Portugal,,Lisbon,2005,62.73653846153846
+Europe,Portugal,,Lisbon,2006,63.497527472527466
+Europe,Portugal,,Lisbon,2007,62.444198895027604
+Europe,Portugal,,Lisbon,2008,62.32383561643839
+Europe,Portugal,,Lisbon,2009,64.0804945054945
+Europe,Portugal,,Lisbon,2010,63.18027397260279
+Europe,Portugal,,Lisbon,2011,63.33324175824177
+Europe,Portugal,,Lisbon,2012,61.04904109589037
+Europe,Portugal,,Lisbon,2013,61.39118457300275
+Europe,Portugal,,Lisbon,2014,61.78104395604393
+Europe,Portugal,,Lisbon,2015,62.1198347107438
+Europe,Portugal,,Lisbon,2016,62.2334254143646
+Europe,Portugal,,Lisbon,2017,62.83068493150683
+Europe,Portugal,,Lisbon,2018,61.345983379501426
+Europe,Portugal,,Lisbon,2019,61.94011142061285
+Europe,Portugal,,Lisbon,2020,56.450375939849636
+Europe,Romania,,Bucharest,1995,51.0082191780822
+Europe,Romania,,Bucharest,1996,50.435792349726775
+Europe,Romania,,Bucharest,1997,50.346575342465776
+Europe,Romania,,Bucharest,1998,51.849447513812244
+Europe,Romania,,Bucharest,1999,53.31675824175825
+Europe,Romania,,Bucharest,2000,53.82759562841522
+Europe,Romania,,Bucharest,2001,52.98794520547949
+Europe,Romania,,Bucharest,2002,52.83822714681441
+Europe,Romania,,Bucharest,2003,51.93983516483516
+Europe,Romania,,Bucharest,2004,51.918032786885306
+Europe,Romania,,Bucharest,2005,51.490958904109604
+Europe,Romania,,Bucharest,2006,52.44986301369866
+Europe,Romania,,Bucharest,2007,54.72390109890109
+Europe,Romania,,Bucharest,2008,53.61593406593409
+Europe,Romania,,Bucharest,2009,53.77445054945052
+Europe,Romania,,Bucharest,2010,52.78547945205481
+Europe,Romania,,Bucharest,2011,52.03041095890415
+Europe,Romania,,Bucharest,2012,53.758469945355216
+Europe,Romania,,Bucharest,2013,53.59835616438359
+Europe,Romania,,Bucharest,2014,53.22829670329669
+Europe,Romania,,Bucharest,2015,54.5307692307692
+Europe,Romania,,Bucharest,2016,53.70248618784526
+Europe,Romania,,Bucharest,2017,53.39972602739727
+Europe,Romania,,Bucharest,2018,54.53287292817682
+Europe,Romania,,Bucharest,2019,55.58495821727023
+Europe,Romania,,Bucharest,2020,45.7410447761194
+Europe,Russia,,Moscow,1995,48.81243093922645
+Europe,Russia,,Moscow,1996,48.220273972602726
+Europe,Russia,,Moscow,1997,47.42315068493147
+Europe,Russia,,Moscow,1998,48.410941828254856
+Europe,Russia,,Moscow,1999,49.51043956043958
+Europe,Russia,,Moscow,2000,49.014480874316945
+Europe,Russia,,Moscow,2001,48.56410958904113
+Europe,Russia,,Moscow,2002,47.477839335180015
+Europe,Russia,,Moscow,2003,47.88225308641972
+Europe,Russia,,Moscow,2004,41.48934426229506
+Europe,Russia,,Moscow,2005,42.09369863013696
+Europe,Russia,,Moscow,2006,40.98301369863015
+Europe,Russia,,Moscow,2007,43.896428571428594
+Europe,Russia,,Moscow,2008,44.178296703296695
+Europe,Russia,,Moscow,2009,42.51868131868131
+Europe,Russia,,Moscow,2010,43.459452054794546
+Europe,Russia,,Moscow,2011,43.42219178082191
+Europe,Russia,,Moscow,2012,41.6275956284153
+Europe,Russia,,Moscow,2013,43.32602739726026
+Europe,Russia,,Moscow,2014,43.70934065934066
+Europe,Russia,,Moscow,2015,44.6458791208791
+Europe,Russia,,Moscow,2016,43.13646408839778
+Europe,Russia,,Moscow,2017,42.47068493150683
+Europe,Russia,,Moscow,2018,43.08861111111114
+Europe,Russia,,Moscow,2019,45.19665738161559
+Europe,Russia,,Moscow,2020,36.78283582089553
+Europe,Serbia-Montenegro,,Pristina,1995,49.67664835164834
+Europe,Serbia-Montenegro,,Pristina,1996,49.33989071038248
+Europe,Serbia-Montenegro,,Pristina,1997,49.026027397260286
+Europe,Serbia-Montenegro,,Pristina,1998,50.17479224376732
+Europe,Serbia-Montenegro,,Pristina,1999,43.57572815533979
+Europe,Serbia-Montenegro,,Pristina,2000,51.956010928961696
+Europe,Serbia-Montenegro,,Pristina,2001,52.32444444444445
+Europe,Serbia-Montenegro,,Pristina,2002,53.08700564971753
+Europe,Serbia-Montenegro,,Pristina,2003,53.04986301369863
+Europe,Serbia-Montenegro,,Pristina,2004,42.71499999999999
+Europe,Slovakia,,Bratislava,1995,50.63945205479453
+Europe,Slovakia,,Bratislava,1996,48.36475409836068
+Europe,Slovakia,,Bratislava,1997,50.100273972602714
+Europe,Slovakia,,Bratislava,1998,51.81305555555558
+Europe,Slovakia,,Bratislava,1999,51.49917582417583
+Europe,Slovakia,,Bratislava,2000,53.20191256830598
+Europe,Slovakia,,Bratislava,2001,51.12
+Europe,Slovakia,,Bratislava,2002,52.37839335180057
+Europe,Slovakia,,Bratislava,2003,52.26528925619837
+Europe,Slovakia,,Bratislava,2004,50.97459016393443
+Europe,Slovakia,,Bratislava,2005,50.69424657534244
+Europe,Slovakia,,Bratislava,2006,51.80767123287676
+Europe,Slovakia,,Bratislava,2007,53.4804945054945
+Europe,Slovakia,,Bratislava,2008,53.10383561643834
+Europe,Slovakia,,Bratislava,2009,52.22747252747253
+Europe,Slovakia,,Bratislava,2010,50.053424657534194
+Europe,Slovakia,,Bratislava,2011,51.98986301369862
+Europe,Slovakia,,Bratislava,2012,52.88387978142072
+Europe,Slovakia,,Bratislava,2013,52.181095890410944
+Europe,Slovakia,,Bratislava,2014,53.95247252747252
+Europe,Slovakia,,Bratislava,2015,53.651923076923126
+Europe,Slovakia,,Bratislava,2016,52.35662983425414
+Europe,Slovakia,,Bratislava,2017,52.71945205479454
+Europe,Slovakia,,Bratislava,2018,54.251800554016576
+Europe,Slovakia,,Bratislava,2019,54.254038997214494
+Europe,Slovakia,,Bratislava,2020,44.66940298507463
+Europe,Spain,,Barcelona,1995,60.512968036529706
+Europe,Spain,,Barcelona,1996,59.12140255009099
+Europe,Spain,,Barcelona,1997,60.8254794520548
+Europe,Spain,,Barcelona,1998,59.663157894736834
+Europe,Spain,,Barcelona,1999,59.36190476190475
+Europe,Spain,,Barcelona,2000,58.68360655737711
+Europe,Spain,,Barcelona,2001,58.61369863013699
+Europe,Spain,,Barcelona,2002,59.49556786703598
+Europe,Spain,,Barcelona,2003,61.50411334552112
+Europe,Spain,,Barcelona,2004,60.2032786885246
+Europe,Spain,,Barcelona,2005,60.363926940639246
+Europe,Spain,,Barcelona,2006,60.82091324200917
+Europe,Spain,,Barcelona,2007,58.47225274725284
+Europe,Spain,,Barcelona,2008,58.89945054945055
+Europe,Spain,,Barcelona,2009,60.22637362637365
+Europe,Spain,,Barcelona,2010,58.78000000000003
+Europe,Spain,,Barcelona,2011,60.99899543378992
+Europe,Spain,,Barcelona,2012,60.145081967212995
+Europe,Spain,,Barcelona,2013,59.63835616438356
+Europe,Spain,,Barcelona,2014,61.477838827838895
+Europe,Spain,,Barcelona,2015,61.07179487179492
+Europe,Spain,,Barcelona,2016,60.63360957642726
+Europe,Spain,,Barcelona,2017,60.72456621004558
+Europe,Spain,,Barcelona,2018,60.44106813996322
+Europe,Spain,,Barcelona,2019,60.58841519925855
+Europe,Spain,,Barcelona,2020,53.832338308457715
+Europe,Sweden,,Stockholm,1995,44.551232876712334
+Europe,Sweden,,Stockholm,1996,43.33333333333337
+Europe,Sweden,,Stockholm,1997,45.30821917808218
+Europe,Sweden,,Stockholm,1998,44.05750000000001
+Europe,Sweden,,Stockholm,1999,47.086813186813224
+Europe,Sweden,,Stockholm,2000,47.27868852459015
+Europe,Sweden,,Stockholm,2001,45.733424657534236
+Europe,Sweden,,Stockholm,2002,46.59138888888885
+Europe,Sweden,,Stockholm,2003,46.08044077134984
+Europe,Sweden,,Stockholm,2004,45.04726775956285
+Europe,Sweden,,Stockholm,2005,45.6309589041096
+Europe,Sweden,,Stockholm,2006,46.569041095890405
+Europe,Sweden,,Stockholm,2007,46.294230769230744
+Europe,Sweden,,Stockholm,2008,46.86821917808219
+Europe,Sweden,,Stockholm,2009,45.21923076923077
+Europe,Sweden,,Stockholm,2010,42.040547945205475
+Europe,Sweden,,Stockholm,2011,46.610958904109566
+Europe,Sweden,,Stockholm,2012,44.27431693989073
+Europe,Sweden,,Stockholm,2013,45.18109589041101
+Europe,Sweden,,Stockholm,2014,47.06181318681319
+Europe,Sweden,,Stockholm,2015,46.572527472527426
+Europe,Sweden,,Stockholm,2016,45.876519337016575
+Europe,Sweden,,Stockholm,2017,45.47041095890408
+Europe,Sweden,,Stockholm,2018,47.06786703601107
+Europe,Sweden,,Stockholm,2019,46.57298050139274
+Europe,Sweden,,Stockholm,2020,39.836567164179115
+Europe,Switzerland,,Bern,1995,49.82726440988105
+Europe,Switzerland,,Bern,1996,48.236803652968064
+Europe,Switzerland,,Bern,1997,50.25100548446074
+Europe,Switzerland,,Bern,1998,50.19037927844594
+Europe,Switzerland,,Bern,1999,50.039796860572565
+Europe,Switzerland,,Bern,2000,51.06207839562445
+Europe,Switzerland,,Bern,2001,50.23043875685562
+Europe,Switzerland,,Bern,2002,50.82025901942643
+Europe,Switzerland,,Bern,2003,51.46550458715595
+Europe,Switzerland,,Bern,2004,50.10968036529679
+Europe,Switzerland,,Bern,2005,49.69926873857399
+Europe,Switzerland,,Bern,2006,51.01607305936066
+Europe,Switzerland,,Bern,2007,51.217216117216154
+Europe,Switzerland,,Bern,2008,50.413126709206914
+Europe,Switzerland,,Bern,2009,51.170146520146474
+Europe,Switzerland,,Bern,2010,49.20876712328772
+Europe,Switzerland,,Bern,2011,51.24977168949769
+Europe,Switzerland,,Bern,2012,50.14380692167582
+Europe,Switzerland,,Bern,2013,48.9783561643836
+Europe,Switzerland,,Bern,2014,51.538186813186805
+Europe,Switzerland,,Bern,2015,51.39963369963368
+Europe,Switzerland,,Bern,2016,50.38287292817679
+Europe,Switzerland,,Bern,2017,50.77004566210045
+Europe,Switzerland,,Bern,2018,52.53607770582802
+Europe,Switzerland,,Bern,2019,51.518198700092874
+Europe,Switzerland,,Bern,2020,45.115422885572194
+Europe,Ukraine,,Kiev,1995,47.3405479452055
+Europe,Ukraine,,Kiev,1996,45.23169398907103
+Europe,Ukraine,,Kiev,1997,45.79861878453038
+Europe,Ukraine,,Kiev,1998,46.88944444444446
+Europe,Ukraine,,Kiev,1999,49.0142857142857
+Europe,Ukraine,,Kiev,2000,49.02814207650274
+Europe,Ukraine,,Kiev,2001,48.281917808219205
+Europe,Ukraine,,Kiev,2002,49.136011080332416
+Europe,Ukraine,,Kiev,2003,47.0627397260274
+Europe,Ukraine,,Kiev,2004,47.61366120218584
+Europe,Ukraine,,Kiev,2005,47.48739726027394
+Europe,Ukraine,,Kiev,2006,47.00602739726023
+Europe,Ukraine,,Kiev,2007,49.666391184572966
+Europe,Ukraine,,Kiev,2008,49.20986301369861
+Europe,Ukraine,,Kiev,2009,48.86098901098902
+Europe,Ukraine,,Kiev,2010,48.90136986301373
+Europe,Ukraine,,Kiev,2011,48.416986301369846
+Europe,Ukraine,,Kiev,2012,47.65846994535513
+Europe,Ukraine,,Kiev,2013,48.518356164383576
+Europe,Ukraine,,Kiev,2014,48.31978021978021
+Europe,Ukraine,,Kiev,2015,50.315934065934066
+Europe,Ukraine,,Kiev,2016,48.60441988950273
+Europe,Ukraine,,Kiev,2017,49.11342465753428
+Europe,Ukraine,,Kiev,2018,48.9221606648199
+Europe,Ukraine,,Kiev,2019,50.44930747922436
+Europe,Ukraine,,Kiev,2020,41.29328358208954
+Europe,United Kingdom,,Belfast,1995,53.400960219478804
+Europe,United Kingdom,,Belfast,1996,51.794117647058776
+Europe,United Kingdom,,Belfast,1997,52.67379972565156
+Europe,United Kingdom,,Belfast,1998,51.77590027700828
+Europe,United Kingdom,,Belfast,1999,52.10674931129478
+Europe,United Kingdom,,Belfast,2000,51.43821917808219
+Europe,United Kingdom,,Belfast,2001,51.062277091906694
+Europe,United Kingdom,,Belfast,2002,51.85783633841886
+Europe,United Kingdom,,Belfast,2003,51.83475274725277
+Europe,United Kingdom,,Belfast,2004,51.445827633378926
+Europe,United Kingdom,,Belfast,2005,51.370233196159106
+Europe,United Kingdom,,Belfast,2006,51.457750342935505
+Europe,United Kingdom,,Belfast,2007,51.766437414030285
+Europe,United Kingdom,,Belfast,2008,50.730589849108355
+Europe,United Kingdom,,Belfast,2009,51.05061898211829
+Europe,United Kingdom,,Belfast,2010,50.20013755158191
+Europe,United Kingdom,,Belfast,2011,52.55006858710563
+Europe,United Kingdom,,Belfast,2012,51.172038567493026
+Europe,United Kingdom,,Belfast,2013,51.19698216735256
+Europe,United Kingdom,,Belfast,2014,53.3493810178817
+Europe,United Kingdom,,Belfast,2015,52.09986244841821
+Europe,United Kingdom,,Belfast,2016,52.223236514522796
+Europe,United Kingdom,,Belfast,2017,52.611917808219154
+Europe,United Kingdom,,Belfast,2018,52.18404993065187
+Europe,United Kingdom,,Belfast,2019,52.001114206128044
+Europe,United Kingdom,,Belfast,2020,46.64888059701493
+Europe,Yugoslavia,,Belgrade,1995,53.05397260273973
+Europe,Yugoslavia,,Belgrade,1996,51.794808743169455
+Europe,Yugoslavia,,Belgrade,1997,52.22438356164382
+Europe,Yugoslavia,,Belgrade,1998,53.92797783933521
+Europe,Yugoslavia,,Belgrade,1999,53.837087912087874
+Europe,Yugoslavia,,Belgrade,2000,56.60382513661201
+Europe,Yugoslavia,,Belgrade,2001,53.87890410958907
+Europe,Yugoslavia,,Belgrade,2002,55.25041551246532
+Europe,Yugoslavia,,Belgrade,2003,53.61095890410959
+Europe,Yugoslavia,,Belgrade,2004,53.44234972677595
+Europe,Yugoslavia,,Belgrade,2005,52.04739726027392
+Europe,Yugoslavia,,Belgrade,2006,53.32657534246577
+Europe,Yugoslavia,,Belgrade,2007,55.48571428571427
+Europe,Yugoslavia,,Belgrade,2008,56.017857142857125
+Europe,Yugoslavia,,Belgrade,2009,55.50576923076922
+Europe,Yugoslavia,,Belgrade,2010,54.35616438356168
+Europe,Yugoslavia,,Belgrade,2011,54.25342465753424
+Europe,Yugoslavia,,Belgrade,2012,55.72185792349729
+Europe,Yugoslavia,,Belgrade,2013,55.414246575342474
+Europe,Yugoslavia,,Belgrade,2014,56.080769230769256
+Europe,Yugoslavia,,Belgrade,2015,56.1019230769231
+Europe,Yugoslavia,,Belgrade,2016,55.02403314917125
+Europe,Yugoslavia,,Belgrade,2017,55.55123287671231
+Europe,Yugoslavia,,Belgrade,2018,56.84626038781165
+Europe,Yugoslavia,,Belgrade,2019,56.975208913649034
+Europe,Yugoslavia,,Belgrade,2020,46.36716417910448
+Middle East,Bahrain,,Manama,1995,79.28273972602744
+Middle East,Bahrain,,Manama,1996,80.18005464480875
+Middle East,Bahrain,,Manama,1997,78.79726027397257
+Middle East,Bahrain,,Manama,1998,82.2008310249308
+Middle East,Bahrain,,Manama,1999,82.29587912087904
+Middle East,Bahrain,,Manama,2000,80.60601092896171
+Middle East,Bahrain,,Manama,2001,81.3230136986302
+Middle East,Bahrain,,Manama,2002,80.86592797783935
+Middle East,Bahrain,,Manama,2003,80.97643835616437
+Middle East,Bahrain,,Manama,2004,80.7784153005464
+Middle East,Bahrain,,Manama,2005,80.20931506849313
+Middle East,Bahrain,,Manama,2006,81.00547945205477
+Middle East,Bahrain,,Manama,2007,80.98159340659339
+Middle East,Bahrain,,Manama,2008,80.4931318681319
+Middle East,Bahrain,,Manama,2009,81.40439560439556
+Middle East,Bahrain,,Manama,2010,82.92684931506848
+Middle East,Bahrain,,Manama,2011,80.92
+Middle East,Bahrain,,Manama,2012,81.68415300546445
+Middle East,Bahrain,,Manama,2013,81.20438356164384
+Middle East,Bahrain,,Manama,2014,82.07390109890108
+Middle East,Bahrain,,Manama,2015,82.61538461538458
+Middle East,Bahrain,,Manama,2016,82.12790055248622
+Middle East,Bahrain,,Manama,2017,82.63589041095887
+Middle East,Bahrain,,Manama,2018,83.29861495844874
+Middle East,Bahrain,,Manama,2019,82.96350974930368
+Middle East,Bahrain,,Manama,2020,72.23880597014929
+Middle East,Israel,,Tel Aviv,1995,68.61563786008229
+Middle East,Israel,,Tel Aviv,1996,72.3535460992908
+Middle East,Israel,,Tel Aviv,1997,68.47750000000002
+Middle East,Israel,,Tel Aviv,1998,71.09542682926825
+Middle East,Israel,,Tel Aviv,1999,70.81768292682926
+Middle East,Israel,,Tel Aviv,2000,69.8430136986301
+Middle East,Israel,,Tel Aviv,2001,69.8896755162242
+Middle East,Israel,,Tel Aviv,2002,70.57130681818184
+Middle East,Israel,,Tel Aviv,2003,69.74182825484762
+Middle East,Israel,,Tel Aviv,2004,69.29764011799409
+Middle East,Israel,,Tel Aviv,2005,71.19529780564262
+Middle East,Israel,,Tel Aviv,2006,71.21671732522796
+Middle East,Israel,,Tel Aviv,2007,70.32071713147414
+Middle East,Jordan,,Amman,1995,63.28986301369866
+Middle East,Jordan,,Amman,1996,64.39016393442628
+Middle East,Jordan,,Amman,1997,62.61287671232879
+Middle East,Jordan,,Amman,1998,65.4631578947368
+Middle East,Jordan,,Amman,1999,64.9392857142857
+Middle East,Jordan,,Amman,2000,63.86256830601093
+Middle East,Jordan,,Amman,2001,65.14986301369862
+Middle East,Jordan,,Amman,2002,63.94847645429368
+Middle East,Jordan,,Amman,2003,63.907692307692365
+Middle East,Jordan,,Amman,2004,64.25956284153001
+Middle East,Jordan,,Amman,2005,64.39123287671234
+Middle East,Jordan,,Amman,2006,64.27178082191782
+Middle East,Jordan,,Amman,2007,64.64065934065933
+Middle East,Jordan,,Amman,2008,65.2115068493151
+Middle East,Jordan,,Amman,2009,65.04340659340654
+Middle East,Jordan,,Amman,2010,68.17808219178085
+Middle East,Jordan,,Amman,2011,63.7961643835617
+Middle East,Jordan,,Amman,2012,65.63524590163934
+Middle East,Jordan,,Amman,2013,64.82479338842974
+Middle East,Jordan,,Amman,2014,65.45412087912088
+Middle East,Jordan,,Amman,2015,65.24697802197808
+Middle East,Jordan,,Amman,2016,65.98646408839774
+Middle East,Jordan,,Amman,2017,65.7386301369863
+Middle East,Jordan,,Amman,2018,66.62825484764542
+Middle East,Jordan,,Amman,2019,65.20473537604458
+Middle East,Jordan,,Amman,2020,54.119402985074615
+Middle East,Kuwait,,Kuwait,1995,79.04821917808218
+Middle East,Kuwait,,Kuwait,1996,80.3704918032787
+Middle East,Kuwait,,Kuwait,1997,79.12258953168046
+Middle East,Kuwait,,Kuwait,1998,81.05789473684214
+Middle East,Kuwait,,Kuwait,1999,81.26611570247928
+Middle East,Kuwait,,Kuwait,2000,80.28224043715845
+Middle East,Kuwait,,Kuwait,2001,80.78136986301375
+Middle East,Kuwait,,Kuwait,2002,80.45055555555558
+Middle East,Kuwait,,Kuwait,2003,80.8364383561644
+Middle East,Kuwait,,Kuwait,2004,80.3918032786885
+Middle East,Kuwait,,Kuwait,2005,80.01215469613265
+Middle East,Kuwait,,Kuwait,2006,80.73150684931511
+Middle East,Kuwait,,Kuwait,2007,80.47912087912086
+Middle East,Kuwait,,Kuwait,2008,80.29148351648352
+Middle East,Kuwait,,Kuwait,2009,80.40576923076925
+Middle East,Kuwait,,Kuwait,2010,82.32912087912086
+Middle East,Kuwait,,Kuwait,2011,79.76868131868129
+Middle East,Kuwait,,Kuwait,2012,80.84159779614325
+Middle East,Kuwait,,Kuwait,2013,80.20824175824177
+Middle East,Kuwait,,Kuwait,2014,81.05439560439564
+Middle East,Kuwait,,Kuwait,2015,81.6324099722992
+Middle East,Kuwait,,Kuwait,2016,81.03555555555556
+Middle East,Kuwait,,Kuwait,2017,81.6701657458563
+Middle East,Kuwait,,Kuwait,2018,82.6441666666666
+Middle East,Kuwait,,Kuwait,2019,81.59438202247192
+Middle East,Kuwait,,Kuwait,2020,69.07164179104478
+Middle East,Lebanon,,Beirut,1995,69.14821917808217
+Middle East,Lebanon,,Beirut,1996,69.34098360655736
+Middle East,Lebanon,,Beirut,1997,68.6424657534247
+Middle East,Lebanon,,Beirut,1998,70.43130193905816
+Middle East,Lebanon,,Beirut,1999,70.56181318681324
+Middle East,Lebanon,,Beirut,2000,69.42349726775956
+Middle East,Lebanon,,Beirut,2001,70.93205479452057
+Middle East,Lebanon,,Beirut,2002,70.27950138504156
+Middle East,Lebanon,,Beirut,2003,70.11972602739726
+Middle East,Lebanon,,Beirut,2004,69.7379781420765
+Middle East,Lebanon,,Beirut,2005,69.6526027397261
+Middle East,Lebanon,,Beirut,2006,69.20225988700565
+Middle East,Lebanon,,Beirut,2007,70.22417582417579
+Middle East,Lebanon,,Beirut,2008,70.4546703296703
+Middle East,Lebanon,,Beirut,2009,70.73626373626368
+Middle East,Lebanon,,Beirut,2010,72.6569863013698
+Middle East,Lebanon,,Beirut,2011,70.00301369863013
+Middle East,Lebanon,,Beirut,2012,70.87076502732238
+Middle East,Lebanon,,Beirut,2013,70.90547945205483
+Middle East,Lebanon,,Beirut,2014,71.217032967033
+Middle East,Lebanon,,Beirut,2015,70.97664835164834
+Middle East,Lebanon,,Beirut,2016,71.40773480662986
+Middle East,Lebanon,,Beirut,2017,70.94242424242421
+Middle East,Lebanon,,Beirut,2018,72.11464788732388
+Middle East,Lebanon,,Beirut,2019,71.12234636871511
+Middle East,Lebanon,,Beirut,2020,61.464179104477616
+Middle East,Oman,,Muscat,1995,90.75
+Middle East,Oman,,Muscat,2001,83.33724928366762
+Middle East,Oman,,Muscat,2002,83.5945558739255
+Middle East,Oman,,Muscat,2003,82.765
+Middle East,Oman,,Muscat,2004,83.69686609686607
+Middle East,Oman,,Muscat,2005,83.19279778393354
+Middle East,Oman,,Muscat,2006,83.08955223880602
+Middle East,Oman,,Muscat,2007,80.522
+Middle East,Oman,,Muscat,2008,82.67570621468928
+Middle East,Oman,,Muscat,2009,84.6511976047904
+Middle East,Oman,,Muscat,2010,84.53562874251493
+Middle East,Oman,,Muscat,2011,83.24822006472495
+Middle East,Oman,,Muscat,2012,79.78465608465609
+Middle East,Oman,,Muscat,2013,82.12762430939223
+Middle East,Oman,,Muscat,2014,82.54169491525421
+Middle East,Oman,,Muscat,2015,84.49077380952386
+Middle East,Oman,,Muscat,2016,82.9623456790123
+Middle East,Oman,,Muscat,2017,81.26693877551021
+Middle East,Oman,,Muscat,2018,83.57298850574709
+Middle East,Oman,,Muscat,2019,79.8266666666667
+Middle East,Qatar,,Doha,1995,80.6534246575342
+Middle East,Qatar,,Doha,1996,81.52747252747255
+Middle East,Qatar,,Doha,1997,80.69228650137734
+Middle East,Qatar,,Doha,1998,83.07783933518009
+Middle East,Qatar,,Doha,1999,83.42032967032964
+Middle East,Qatar,,Doha,2000,82.26885245901634
+Middle East,Qatar,,Doha,2001,82.98684931506853
+Middle East,Qatar,,Doha,2002,82.69307479224369
+Middle East,Qatar,,Doha,2003,82.76958904109587
+Middle East,Qatar,,Doha,2004,82.71475409836069
+Middle East,Qatar,,Doha,2005,82.35698630136989
+Middle East,Qatar,,Doha,2006,82.7961643835616
+Middle East,Qatar,,Doha,2007,82.91730769230773
+Middle East,Qatar,,Doha,2008,82.52912087912081
+Middle East,Qatar,,Doha,2009,83.25384615384624
+Middle East,Qatar,,Doha,2010,84.45260273972603
+Middle East,Qatar,,Doha,2011,83.32575342465758
+Middle East,Qatar,,Doha,2012,83.7991803278688
+Middle East,Qatar,,Doha,2013,83.26739726027397
+Middle East,Qatar,,Doha,2014,84.00769230769228
+Middle East,Qatar,,Doha,2015,84.31132596685077
+Middle East,Qatar,,Doha,2016,84.03093922651928
+Middle East,Qatar,,Doha,2017,84.36876712328761
+Middle East,Qatar,,Doha,2018,84.91916666666673
+Middle East,Qatar,,Doha,2019,84.40055710306403
+Middle East,Qatar,,Doha,2020,73.62014925373134
+Middle East,Saudi Arabia,,Dhahran,1995,78.53945205479458
+Middle East,Saudi Arabia,,Dhahran,1996,79.54972527472518
+Middle East,Saudi Arabia,,Dhahran,1997,78.41150684931499
+Middle East,Saudi Arabia,,Dhahran,1998,80.72229916897511
+Middle East,Saudi Arabia,,Dhahran,1999,80.98859890109897
+Middle East,Saudi Arabia,,Dhahran,2000,79.92759562841528
+Middle East,Saudi Arabia,,Dhahran,2001,80.27928669410154
+Middle East,Saudi Arabia,,Dhahran,2002,79.64903047091417
+Middle East,Saudi Arabia,,Dhahran,2003,79.96598079561039
+Middle East,Saudi Arabia,,Dhahran,2004,79.54030054644814
+Middle East,Saudi Arabia,,Dhahran,2005,79.6413698630137
+Middle East,Saudi Arabia,,Dhahran,2006,80.4412328767123
+Middle East,Saudi Arabia,,Dhahran,2007,80.75618131868134
+Middle East,Saudi Arabia,,Dhahran,2008,80.3431318681318
+Middle East,Saudi Arabia,,Dhahran,2009,81.02815934065936
+Middle East,Saudi Arabia,,Dhahran,2010,81.36917808219172
+Middle East,Saudi Arabia,,Dhahran,2011,79.64326923076932
+Middle East,Saudi Arabia,,Dhahran,2012,80.20662068965525
+Middle East,Saudi Arabia,,Dhahran,2013,79.79191780821922
+Middle East,Saudi Arabia,,Dhahran,2014,80.68038674033141
+Middle East,Saudi Arabia,,Dhahran,2015,82.52936962750722
+Middle East,Saudi Arabia,,Dhahran,2016,80.73825966850826
+Middle East,Saudi Arabia,,Dhahran,2017,81.42293956043957
+Middle East,Saudi Arabia,,Dhahran,2018,82.04847222222209
+Middle East,Saudi Arabia,,Dhahran,2019,81.6639275766017
+Middle East,Saudi Arabia,,Dhahran,2020,70.97752808988763
+Middle East,Syria,,Damascus,1995,62.18011049723755
+Middle East,Syria,,Damascus,1996,63.32650273224045
+Middle East,Syria,,Damascus,1997,61.67032967032964
+Middle East,Syria,,Damascus,1998,64.40886426592803
+Middle East,Syria,,Damascus,1999,63.92637362637366
+Middle East,Syria,,Damascus,2000,63.09836065573772
+Middle East,Syria,,Damascus,2001,64.82520547945198
+Middle East,Syria,,Damascus,2002,63.81495844875342
+Middle East,Syria,,Damascus,2003,63.87637362637365
+Middle East,Syria,,Damascus,2004,63.36557377049187
+Middle East,Syria,,Damascus,2005,63.0106849315069
+Middle East,Syria,,Damascus,2006,62.87424657534244
+Middle East,Syria,,Damascus,2007,63.712362637362666
+Middle East,Syria,,Damascus,2008,63.92109589041087
+Middle East,Syria,,Damascus,2009,63.664560439560454
+Middle East,Syria,,Damascus,2010,66.69726027397256
+Middle East,Syria,,Damascus,2011,62.442191780821915
+Middle East,Syria,,Damascus,2012,65.07658402203859
+Middle East,Syria,,Damascus,2013,64.05150684931503
+Middle East,Syria,,Damascus,2014,64.43131868131863
+Middle East,Syria,,Damascus,2015,64.28898071625346
+Middle East,Syria,,Damascus,2016,65.2465714285714
+Middle East,Syria,,Damascus,2017,64.33944444444441
+Middle East,Syria,,Damascus,2018,65.87569060773477
+Middle East,Syria,,Damascus,2019,64.1944289693593
+Middle East,Syria,,Damascus,2020,52.95378787878791
+Middle East,Turkey,,Ankara,1995,54.39369863013698
+Middle East,Turkey,,Ankara,1996,54.144945355191275
+Middle East,Turkey,,Ankara,1997,52.80972602739726
+Middle East,Turkey,,Ankara,1998,55.64349030470925
+Middle East,Turkey,,Ankara,1999,56.02101648351652
+Middle East,Turkey,,Ankara,2000,54.265573770491756
+Middle East,Turkey,,Ankara,2001,56.73534246575345
+Middle East,Turkey,,Ankara,2002,54.856786703601145
+Middle East,Turkey,,Ankara,2003,54.85939643347051
+Middle East,Turkey,,Ankara,2004,54.528961748633904
+Middle East,Turkey,,Ankara,2005,54.828630136986256
+Middle East,Turkey,,Ankara,2006,54.81821917808214
+Middle East,Turkey,,Ankara,2007,56.759065934065895
+Middle East,Turkey,,Ankara,2008,55.74519230769227
+Middle East,Turkey,,Ankara,2009,56.189285714285745
+Middle East,Turkey,,Ankara,2010,57.958082191780846
+Middle East,Turkey,,Ankara,2011,54.2583561643836
+Middle East,Turkey,,Ankara,2012,56.305737704917966
+Middle East,Turkey,,Ankara,2013,56.593424657534264
+Middle East,Turkey,,Ankara,2014,57.77953296703298
+Middle East,Turkey,,Ankara,2015,56.651923076923
+Middle East,Turkey,,Ankara,2016,56.947099447513786
+Middle East,Turkey,,Ankara,2017,56.28794520547943
+Middle East,Turkey,,Ankara,2018,58.76514522821584
+Middle East,Turkey,,Ankara,2019,57.54345403899723
+Middle East,Turkey,,Ankara,2020,45.80149253731345
+Middle East,United Arab Emirates,,Abu Dhabi,1995,80.79547945205469
+Middle East,United Arab Emirates,,Abu Dhabi,1996,81.84289617486338
+Middle East,United Arab Emirates,,Abu Dhabi,1997,80.81821917808226
+Middle East,United Arab Emirates,,Abu Dhabi,1998,83.73864265927983
+Middle East,United Arab Emirates,,Abu Dhabi,1999,83.34436813186812
+Middle East,United Arab Emirates,,Abu Dhabi,2000,82.32500000000002
+Middle East,United Arab Emirates,,Abu Dhabi,2001,82.51999999999998
+Middle East,United Arab Emirates,,Abu Dhabi,2002,82.97229916897506
+Middle East,United Arab Emirates,,Abu Dhabi,2003,83.39438356164374
+Middle East,United Arab Emirates,,Abu Dhabi,2004,83.15491803278697
+Middle East,United Arab Emirates,,Abu Dhabi,2005,82.85232876712321
+Middle East,United Arab Emirates,,Abu Dhabi,2006,82.67005494505491
+Middle East,United Arab Emirates,,Abu Dhabi,2007,83.10892857142859
+Middle East,United Arab Emirates,,Abu Dhabi,2008,82.3477366255144
+Middle East,United Arab Emirates,,Abu Dhabi,2009,83.23076923076925
+Middle East,United Arab Emirates,,Abu Dhabi,2010,84.53191780821925
+Middle East,United Arab Emirates,,Abu Dhabi,2011,83.87013698630153
+Middle East,United Arab Emirates,,Abu Dhabi,2012,83.97554644808748
+Middle East,United Arab Emirates,,Abu Dhabi,2013,83.38493150684934
+Middle East,United Arab Emirates,,Abu Dhabi,2014,83.58612637362631
+Middle East,United Arab Emirates,,Abu Dhabi,2015,85.23942307692315
+Middle East,United Arab Emirates,,Abu Dhabi,2016,84.44212707182326
+Middle East,United Arab Emirates,,Abu Dhabi,2017,85.43835616438355
+Middle East,United Arab Emirates,,Abu Dhabi,2018,85.35944444444435
+Middle East,United Arab Emirates,,Abu Dhabi,2019,84.75153203342626
+Middle East,United Arab Emirates,,Abu Dhabi,2020,76.09242424242422
+North America,Canada,,Calgary,1995,42.00221917808218
+North America,Canada,,Calgary,1996,40.17499999999993
+North America,Canada,,Calgary,1997,41.99452054794523
+North America,Canada,,Calgary,1998,45.261855955678605
+North America,Canada,,Calgary,1999,44.588131868132024
+North America,Canada,,Calgary,2000,42.15384615384609
+North America,Canada,,Calgary,2001,44.25761643835621
+North America,Canada,,Calgary,2002,42.3765096952909
+North America,Canada,,Calgary,2003,42.29967114277884
+North America,Canada,,Calgary,2004,42.199535519125625
+North America,Canada,,Calgary,2005,43.941002214839564
+North America,Canada,,Calgary,2006,44.78857534246572
+North America,Canada,,Calgary,2007,42.8502748763058
+North America,Canada,,Calgary,2008,42.252263260205495
+North America,Canada,,Calgary,2009,41.777933498213926
+North America,Canada,,Calgary,2010,44.39616368286457
+North America,Canada,,Calgary,2011,43.29231003967042
+North America,Canada,,Calgary,2012,44.41622445867636
+North America,Canada,,Calgary,2013,41.99391171993907
+North America,Canada,,Calgary,2014,35.89191820837388
+North America,Canada,,Edmonton,2015,38.51577017114916
+North America,Canada,,Quebec,2016,41.27994467496542
+North America,Canada,,Quebec,2017,39.957417582417605
+North America,Canada,,Quebec,2018,38.69375000000002
+North America,Canada,,Quebec,2019,37.54965421853389
+North America,Canada,,Quebec,2020,24.879400749063667
+North America,Mexico,,Guadalajara,1995,70.36217732884406
+North America,Mexico,,Guadalajara,1996,69.30169491525432
+North America,Mexico,,Guadalajara,1997,68.44496021220158
+North America,Mexico,,Guadalajara,1998,71.09475862068966
+North America,Mexico,,Guadalajara,1999,69.43645943097992
+North America,Mexico,,Guadalajara,2000,68.95987963891676
+North America,Mexico,,Guadalajara,2001,68.75888888888893
+North America,Mexico,,Guadalajara,2002,68.96233766233767
+North America,Mexico,,Guadalajara,2003,68.81958762886603
+North America,Mexico,,Guadalajara,2004,68.44817596566517
+North America,Mexico,,Guadalajara,2005,69.80034052213395
+North America,Mexico,,Guadalajara,2006,69.34028436018959
+North America,Mexico,,Guadalajara,2007,68.43822525597263
+North America,Mexico,,Guadalajara,2010,68.50057077625569
+North America,Mexico,,Guadalajara,2011,69.99265267175576
+North America,Mexico,,Guadalajara,2012,69.60643330179742
+North America,Mexico,,Guadalajara,2013,68.92471264367828
+North America,Mexico,,Guadalajara,2014,68.10789980732163
+North America,Mexico,,Guadalajara,2015,68.29090009891192
+North America,Mexico,,Guadalajara,2016,68.8178916827854
+North America,Mexico,,Guadalajara,2017,68.93145539906106
+North America,Mexico,,Guadalajara,2018,67.96993339676489
+North America,Mexico,,Guadalajara,2019,69.63805060918463
+North America,Mexico,,Guadalajara,2020,68.13881748071981
+North America,Mexico,,Mexico City,2008,68.721349862259
+North America,Mexico,,Mexico City,2009,70.03763736263731
+South/Central America & Carribean,Argentina,,Buenos Aires,1995,61.70136986301374
+South/Central America & Carribean,Argentina,,Buenos Aires,1996,62.71010928961749
+South/Central America & Carribean,Argentina,,Buenos Aires,1997,63.14383561643837
+South/Central America & Carribean,Argentina,,Buenos Aires,1998,61.761111111111134
+South/Central America & Carribean,Argentina,,Buenos Aires,1999,61.83571428571434
+South/Central America & Carribean,Argentina,,Buenos Aires,2000,62.39616438356166
+South/Central America & Carribean,Argentina,,Buenos Aires,2001,63.339835164835215
+South/Central America & Carribean,Argentina,,Buenos Aires,2002,63.0066666666667
+South/Central America & Carribean,Argentina,,Buenos Aires,2003,61.92424242424242
+South/Central America & Carribean,Argentina,,Buenos Aires,2004,62.62595628415302
+South/Central America & Carribean,Argentina,,Buenos Aires,2005,62.31150684931508
+South/Central America & Carribean,Argentina,,Buenos Aires,2006,62.68794520547938
+South/Central America & Carribean,Argentina,,Buenos Aires,2007,61.32142857142857
+South/Central America & Carribean,Argentina,,Buenos Aires,2008,63.35576923076922
+South/Central America & Carribean,Argentina,,Buenos Aires,2009,63.01483516483522
+South/Central America & Carribean,Argentina,,Buenos Aires,2010,63.006301369863024
+South/Central America & Carribean,Argentina,,Buenos Aires,2011,63.23534246575342
+South/Central America & Carribean,Argentina,,Buenos Aires,2012,63.725136612021885
+South/Central America & Carribean,Argentina,,Buenos Aires,2013,62.88054794520547
+South/Central America & Carribean,Argentina,,Buenos Aires,2014,63.61369863013696
+South/Central America & Carribean,Argentina,,Buenos Aires,2015,63.8255494505495
+South/Central America & Carribean,Argentina,,Buenos Aires,2016,62.19393939393938
+South/Central America & Carribean,Argentina,,Buenos Aires,2017,64.13780821917805
+South/Central America & Carribean,Argentina,,Buenos Aires,2018,63.4747222222223
+South/Central America & Carribean,Argentina,,Buenos Aires,2019,63.07130919220058
+South/Central America & Carribean,Argentina,,Buenos Aires,2020,69.98432835820897
+South/Central America & Carribean,Bahamas,,Nassau,1995,77.11098901098906
+South/Central America & Carribean,Bahamas,,Nassau,1996,76.02786885245894
+South/Central America & Carribean,Bahamas,,Nassau,1997,77.23691460055106
+South/Central America & Carribean,Bahamas,,Nassau,1998,78.08186968838534
+South/Central America & Carribean,Bahamas,,Nassau,1999,77.66166666666662
+South/Central America & Carribean,Bahamas,,Nassau,2000,77.37912087912088
+South/Central America & Carribean,Bahamas,,Nassau,2001,77.46785714285716
+South/Central America & Carribean,Bahamas,,Nassau,2002,78.96333333333334
+South/Central America & Carribean,Bahamas,,Nassau,2003,79.66703296703298
+South/Central America & Carribean,Bahamas,,Nassau,2004,78.26492753623194
+South/Central America & Carribean,Bahamas,,Nassau,2005,79.03865546218489
+South/Central America & Carribean,Bahamas,,Nassau,2006,78.77361111111108
+South/Central America & Carribean,Bahamas,,Nassau,2007,79.86350574712642
+South/Central America & Carribean,Bahamas,,Nassau,2008,79.53085399449036
+South/Central America & Carribean,Bahamas,,Nassau,2009,79.37225274725273
+South/Central America & Carribean,Bahamas,,Nassau,2010,78.25205479452055
+South/Central America & Carribean,Bahamas,,Nassau,2011,79.85095890410959
+South/Central America & Carribean,Bahamas,,Nassau,2012,78.61584699453556
+South/Central America & Carribean,Bahamas,,Nassau,2013,78.17452054794518
+South/Central America & Carribean,Bahamas,,Nassau,2014,78.6090659340659
+South/Central America & Carribean,Bahamas,,Nassau,2015,79.40412087912088
+South/Central America & Carribean,Bahamas,,Nassau,2016,79.34111111111109
+South/Central America & Carribean,Bahamas,,Nassau,2017,80.40767123287678
+South/Central America & Carribean,Bahamas,,Nassau,2018,79.06972222222218
+South/Central America & Carribean,Bahamas,,Nassau,2019,79.1381615598885
+South/Central America & Carribean,Bahamas,,Nassau,2020,75.5894736842105
+South/Central America & Carribean,Bermuda,,Hamilton,1995,71.28670360110807
+South/Central America & Carribean,Bermuda,,Hamilton,1996,71.1997267759563
+South/Central America & Carribean,Bermuda,,Hamilton,1997,71.25188284518835
+South/Central America & Carribean,Bermuda,,Hamilton,1998,72.71472222222224
+South/Central America & Carribean,Bermuda,,Hamilton,1999,72.6230769230769
+South/Central America & Carribean,Bermuda,,Hamilton,2000,71.60273972602744
+South/Central America & Carribean,Bermuda,,Hamilton,2001,71.10769230769235
+South/Central America & Carribean,Bermuda,,Hamilton,2002,72.1430555555556
+South/Central America & Carribean,Bermuda,,Hamilton,2003,72.5013812154696
+South/Central America & Carribean,Bermuda,,Hamilton,2004,71.33661202185796
+South/Central America & Carribean,Bermuda,,Hamilton,2005,71.23424657534245
+South/Central America & Carribean,Bermuda,,Hamilton,2006,71.3821428571429
+South/Central America & Carribean,Bermuda,,Hamilton,2007,70.8489010989011
+South/Central America & Carribean,Bermuda,,Hamilton,2008,71.68916666666668
+South/Central America & Carribean,Bermuda,,Hamilton,2009,72.0766483516484
+South/Central America & Carribean,Bermuda,,Hamilton,2010,69.89743589743593
+South/Central America & Carribean,Belize,,Belize City,1995,78.16607142857143
+South/Central America & Carribean,Belize,,Belize City,1996,80.29068493150686
+South/Central America & Carribean,Belize,,Belize City,1997,81.85883977900556
+South/Central America & Carribean,Belize,,Belize City,1998,81.95838150289016
+South/Central America & Carribean,Belize,,Belize City,1999,80.31587743732585
+South/Central America & Carribean,Belize,,Belize City,2000,80.4191780821918
+South/Central America & Carribean,Belize,,Belize City,2001,80.9535714285714
+South/Central America & Carribean,Belize,,Belize City,2002,81.36416666666669
+South/Central America & Carribean,Belize,,Belize City,2003,81.44819944598339
+South/Central America & Carribean,Belize,,Belize City,2004,81.36404494382029
+South/Central America & Carribean,Belize,,Belize City,2005,81.68860398860396
+South/Central America & Carribean,Belize,,Belize City,2006,81.1307692307692
+South/Central America & Carribean,Belize,,Belize City,2007,81.7659638554217
+South/Central America & Carribean,Belize,,Belize City,2008,81.2270114942529
+South/Central America & Carribean,Belize,,Belize City,2009,81.59192200557098
+South/Central America & Carribean,Belize,,Belize City,2010,80.92188365650962
+South/Central America & Carribean,Belize,,Belize City,2011,81.43232876712334
+South/Central America & Carribean,Belize,,Belize City,2012,81.09836065573772
+South/Central America & Carribean,Belize,,Belize City,2013,80.76136986301373
+South/Central America & Carribean,Belize,,Belize City,2014,80.82754820936641
+South/Central America & Carribean,Belize,,Belize City,2015,81.66758241758244
+South/Central America & Carribean,Belize,,Belize City,2016,81.31988950276244
+South/Central America & Carribean,Belize,,Belize City,2017,81.25999999999995
+South/Central America & Carribean,Belize,,Belize City,2018,81.01444444444446
+South/Central America & Carribean,Belize,,Belize City,2019,81.82116991643454
+South/Central America & Carribean,Belize,,Belize City,2020,80.89097744360902
+South/Central America & Carribean,Bolivia,,La Paz,1995,45.58684931506848
+South/Central America & Carribean,Bolivia,,La Paz,1996,44.212295081967206
+South/Central America & Carribean,Bolivia,,La Paz,1997,45.0454794520548
+South/Central America & Carribean,Bolivia,,La Paz,1998,46.945429362880894
+South/Central America & Carribean,Bolivia,,La Paz,1999,44.34065934065933
+South/Central America & Carribean,Bolivia,,La Paz,2000,44.28849315068492
+South/Central America & Carribean,Bolivia,,La Paz,2001,44.81043956043957
+South/Central America & Carribean,Bolivia,,La Paz,2002,45.74555555555557
+South/Central America & Carribean,Bolivia,,La Paz,2003,45.75414364640885
+South/Central America & Carribean,Bolivia,,La Paz,2004,45.88087431693987
+South/Central America & Carribean,Bolivia,,La Paz,2005,45.67205479452055
+South/Central America & Carribean,Bolivia,,La Paz,2006,44.65698630136985
+South/Central America & Carribean,Bolivia,,La Paz,2007,44.85467032967033
+South/Central America & Carribean,Bolivia,,La Paz,2008,44.25730027548206
+South/Central America & Carribean,Bolivia,,La Paz,2009,45.134340659340666
+South/Central America & Carribean,Bolivia,,La Paz,2010,46.15369863013698
+South/Central America & Carribean,Bolivia,,La Paz,2011,45.04684931506849
+South/Central America & Carribean,Bolivia,,La Paz,2012,45.306557377049174
+South/Central America & Carribean,Bolivia,,La Paz,2013,46.01377410468321
+South/Central America & Carribean,Bolivia,,La Paz,2014,46.26022099447516
+South/Central America & Carribean,Bolivia,,La Paz,2015,46.12060439560439
+South/Central America & Carribean,Bolivia,,La Paz,2016,46.909392265193304
+South/Central America & Carribean,Bolivia,,La Paz,2017,46.22876712328765
+South/Central America & Carribean,Bolivia,,La Paz,2018,45.42472222222222
+South/Central America & Carribean,Bolivia,,La Paz,2019,46.11916666666666
+South/Central America & Carribean,Bolivia,,La Paz,2020,48.049253731343285
+South/Central America & Carribean,Barbados,,Bridgetown,1995,81.26071428571431
+South/Central America & Carribean,Barbados,,Bridgetown,1996,80.94598337950136
+South/Central America & Carribean,Barbados,,Bridgetown,1997,80.77999999999999
+South/Central America & Carribean,Barbados,,Bridgetown,1998,81.53527777777771
+South/Central America & Carribean,Barbados,,Bridgetown,1999,80.54340659340666
+South/Central America & Carribean,Barbados,,Bridgetown,2000,80.22575342465755
+South/Central America & Carribean,Barbados,,Bridgetown,2001,80.69530386740331
+South/Central America & Carribean,Barbados,,Bridgetown,2002,81.2288888888889
+South/Central America & Carribean,Barbados,,Bridgetown,2003,81.30087463556852
+South/Central America & Carribean,Barbados,,Bridgetown,2004,81.33659217877099
+South/Central America & Carribean,Barbados,,Bridgetown,2005,82.06191780821915
+South/Central America & Carribean,Barbados,,Bridgetown,2006,81.66904109589044
+South/Central America & Carribean,Barbados,,Bridgetown,2007,81.07694444444442
+South/Central America & Carribean,Barbados,,Bridgetown,2008,80.28480662983426
+South/Central America & Carribean,Barbados,,Bridgetown,2009,81.12280219780222
+South/Central America & Carribean,Barbados,,Bridgetown,2010,82.04273972602735
+South/Central America & Carribean,Barbados,,Bridgetown,2011,81.38575342465757
+South/Central America & Carribean,Barbados,,Bridgetown,2012,80.63524590163935
+South/Central America & Carribean,Barbados,,Bridgetown,2013,80.76575342465755
+South/Central America & Carribean,Barbados,,Bridgetown,2014,80.65879120879121
+South/Central America & Carribean,Barbados,,Bridgetown,2015,81.43296703296701
+South/Central America & Carribean,Barbados,,Bridgetown,2016,81.57486187845302
+South/Central America & Carribean,Barbados,,Bridgetown,2017,80.69087136929463
+South/Central America & Carribean,Barbados,,Bridgetown,2018,79.15827338129498
+South/Central America & Carribean,Brazil,,Brasilia,1995,71.8170776255708
+South/Central America & Carribean,Brazil,,Brasilia,1996,71.34526411657545
+South/Central America & Carribean,Brazil,,Brasilia,1997,71.55490767735664
+South/Central America & Carribean,Brazil,,Brasilia,1998,72.70339855818744
+South/Central America & Carribean,Brazil,,Brasilia,1999,71.38425414364636
+South/Central America & Carribean,Brazil,,Brasilia,2000,72.17059360730592
+South/Central America & Carribean,Brazil,,Brasilia,2001,72.83223443223444
+South/Central America & Carribean,Brazil,,Brasilia,2002,73.03274418604644
+South/Central America & Carribean,Brazil,,Brasilia,2003,71.83783287419644
+South/Central America & Carribean,Brazil,,Brasilia,2004,71.49553734061931
+South/Central America & Carribean,Brazil,,Brasilia,2005,71.47041095890415
+South/Central America & Carribean,Brazil,,Brasilia,2006,70.95050228310517
+South/Central America & Carribean,Brazil,,Brasilia,2007,71.2539377289378
+South/Central America & Carribean,Brazil,,Brasilia,2008,70.36023875114795
+South/Central America & Carribean,Brazil,,Brasilia,2009,71.46840659340648
+South/Central America & Carribean,Brazil,,Brasilia,2010,72.39945205479457
+South/Central America & Carribean,Brazil,,Brasilia,2011,71.14
+South/Central America & Carribean,Brazil,,Brasilia,2012,72.17468123861563
+South/Central America & Carribean,Brazil,,Brasilia,2013,72.0696803652969
+South/Central America & Carribean,Brazil,,Brasilia,2014,73.30321395775934
+South/Central America & Carribean,Brazil,,Brasilia,2015,72.70842490842485
+South/Central America & Carribean,Brazil,,Brasilia,2016,72.26031307550653
+South/Central America & Carribean,Brazil,,Brasilia,2017,72.15726027397253
+South/Central America & Carribean,Brazil,,Brasilia,2018,71.64616096207227
+South/Central America & Carribean,Brazil,,Brasilia,2019,73.5555658627087
+South/Central America & Carribean,Brazil,,Brasilia,2020,73.557855361596
+South/Central America & Carribean,Colombia,,Bogota,1995,55.38598901098904
+South/Central America & Carribean,Colombia,,Bogota,1996,55.08333333333332
+South/Central America & Carribean,Colombia,,Bogota,1997,56.231506849315046
+South/Central America & Carribean,Colombia,,Bogota,1998,57.353025936599416
+South/Central America & Carribean,Colombia,,Bogota,1999,56.05505617977528
+South/Central America & Carribean,Colombia,,Bogota,2000,55.34027397260263
+South/Central America & Carribean,Colombia,,Bogota,2001,55.840384615384586
+South/Central America & Carribean,Colombia,,Bogota,2002,56.82138888888891
+South/Central America & Carribean,Colombia,,Bogota,2003,56.24944751381212
+South/Central America & Carribean,Colombia,,Bogota,2004,55.59808743169399
+South/Central America & Carribean,Colombia,,Bogota,2005,56.01068493150683
+South/Central America & Carribean,Colombia,,Bogota,2006,55.840109890109865
+South/Central America & Carribean,Colombia,,Bogota,2007,55.51432506887051
+South/Central America & Carribean,Colombia,,Bogota,2008,55.225280898876406
+South/Central America & Carribean,Colombia,,Bogota,2009,56.499175824175815
+South/Central America & Carribean,Colombia,,Bogota,2010,56.933698630137
+South/Central America & Carribean,Colombia,,Bogota,2011,56.803561643835636
+South/Central America & Carribean,Colombia,,Bogota,2012,56.354644808743174
+South/Central America & Carribean,Colombia,,Bogota,2013,56.84027397260276
+South/Central America & Carribean,Colombia,,Bogota,2014,56.86263736263733
+South/Central America & Carribean,Colombia,,Bogota,2015,57.47609890109893
+South/Central America & Carribean,Colombia,,Bogota,2016,57.82734806629836
+South/Central America & Carribean,Colombia,,Bogota,2017,57.110410958904076
+South/Central America & Carribean,Colombia,,Bogota,2018,56.97638888888887
+South/Central America & Carribean,Colombia,,Bogota,2019,57.662952646239546
+South/Central America & Carribean,Colombia,,Bogota,2020,58.07014925373134
+South/Central America & Carribean,Costa Rica,,San Jose,1995,72.9668852459016
+South/Central America & Carribean,Costa Rica,,San Jose,1996,73.04955223880602
+South/Central America & Carribean,Costa Rica,,San Jose,1997,73.2906336088154
+South/Central America & Carribean,Costa Rica,,San Jose,1998,73.75055555555552
+South/Central America & Carribean,Costa Rica,,San Jose,1999,71.4870879120879
+South/Central America & Carribean,Costa Rica,,San Jose,2000,72.230303030303
+South/Central America & Carribean,Costa Rica,,San Jose,2001,73.2898071625344
+South/Central America & Carribean,Costa Rica,,San Jose,2002,74.10473537604456
+South/Central America & Carribean,Costa Rica,,San Jose,2003,73.48980716253449
+South/Central America & Carribean,Costa Rica,,San Jose,2004,73.32197802197804
+South/Central America & Carribean,Costa Rica,,San Jose,2005,72.19835616438361
+South/Central America & Carribean,Costa Rica,,San Jose,2006,72.64246575342463
+South/Central America & Carribean,Costa Rica,,San Jose,2007,72.42197802197799
+South/Central America & Carribean,Costa Rica,,San Jose,2008,71.65702479338842
+South/Central America & Carribean,Costa Rica,,San Jose,2009,72.86153846153849
+South/Central America & Carribean,Costa Rica,,San Jose,2010,72.4408219178082
+South/Central America & Carribean,Costa Rica,,San Jose,2011,72.13479452054794
+South/Central America & Carribean,Costa Rica,,San Jose,2012,72.38060109289619
+South/Central America & Carribean,Costa Rica,,San Jose,2013,72.65041095890409
+South/Central America & Carribean,Costa Rica,,San Jose,2014,73.03241758241761
+South/Central America & Carribean,Costa Rica,,San Jose,2015,73.79615384615379
+South/Central America & Carribean,Costa Rica,,San Jose,2016,73.32837465564738
+South/Central America & Carribean,Costa Rica,,San Jose,2017,72.8832876712329
+South/Central America & Carribean,Costa Rica,,San Jose,2018,72.86888888888883
+South/Central America & Carribean,Costa Rica,,San Jose,2019,73.50501392757658
+South/Central America & Carribean,Costa Rica,,San Jose,2020,74.93955223880592
+South/Central America & Carribean,Cuba,,Havana,1995,75.82825484764548
+South/Central America & Carribean,Cuba,,Havana,1996,75.2952522255193
+South/Central America & Carribean,Cuba,,Havana,1997,77.2272997032641
+South/Central America & Carribean,Cuba,,Havana,1998,76.64134897360707
+South/Central America & Carribean,Cuba,,Havana,1999,75.71742857142856
+South/Central America & Carribean,Cuba,,Havana,2000,75.14871060171922
+South/Central America & Carribean,Cuba,,Havana,2001,75.26938202247192
+South/Central America & Carribean,Cuba,,Havana,2002,76.44222222222221
+South/Central America & Carribean,Cuba,,Havana,2003,76.27438016528926
+South/Central America & Carribean,Cuba,,Havana,2004,76.22361111111114
+South/Central America & Carribean,Cuba,,Havana,2005,75.96767123287678
+South/Central America & Carribean,Cuba,,Havana,2006,75.97205479452047
+South/Central America & Carribean,Cuba,,Havana,2007,76.08324175824178
+South/Central America & Carribean,Cuba,,Havana,2008,75.57443820224712
+South/Central America & Carribean,Cuba,,Havana,2009,75.55193370165748
+South/Central America & Carribean,Cuba,,Havana,2010,74.42739726027399
+South/Central America & Carribean,Cuba,,Havana,2011,75.34219178082188
+South/Central America & Carribean,Cuba,,Havana,2012,75.05109289617485
+South/Central America & Carribean,Cuba,,Havana,2013,75.91671232876712
+South/Central America & Carribean,Cuba,,Havana,2014,75.38021978021975
+South/Central America & Carribean,Cuba,,Havana,2015,76.7785714285714
+South/Central America & Carribean,Cuba,,Havana,2016,75.9580110497237
+South/Central America & Carribean,Cuba,,Havana,2017,75.82876712328765
+South/Central America & Carribean,Cuba,,Havana,2018,75.89749999999998
+South/Central America & Carribean,Cuba,,Havana,2019,76.75097493036212
+South/Central America & Carribean,Cuba,,Havana,2020,75.2390977443609
+South/Central America & Carribean,Dominican Republic,,Santo Domingo,1995,77.79473684210527
+South/Central America & Carribean,Dominican Republic,,Santo Domingo,1996,78.49255014326648
+South/Central America & Carribean,Dominican Republic,,Santo Domingo,1997,79.40552486187842
+South/Central America & Carribean,Dominican Republic,,Santo Domingo,1998,79.52
+South/Central America & Carribean,Dominican Republic,,Santo Domingo,1999,78.80911680911676
+South/Central America & Carribean,Dominican Republic,,Santo Domingo,2000,78.8378531073446
+South/Central America & Carribean,Dominican Republic,,Santo Domingo,2001,79.27802816901404
+South/Central America & Carribean,Dominican Republic,,Santo Domingo,2002,79.65181058495823
+South/Central America & Carribean,Dominican Republic,,Santo Domingo,2003,79.77827298050138
+South/Central America & Carribean,Dominican Republic,,Santo Domingo,2004,79.04501424501423
+South/Central America & Carribean,Dominican Republic,,Santo Domingo,2005,79.76999999999991
+South/Central America & Carribean,Dominican Republic,,Santo Domingo,2006,80.08575581395348
+South/Central America & Carribean,Dominican Republic,,Santo Domingo,2007,80.12828571428568
+South/Central America & Carribean,Dominican Republic,,Santo Domingo,2008,79.14482758620686
+South/Central America & Carribean,Dominican Republic,,Santo Domingo,2009,79.41464088397785
+South/Central America & Carribean,Dominican Republic,,Santo Domingo,2010,80.13123287671242
+South/Central America & Carribean,Dominican Republic,,Santo Domingo,2011,79.4706043956045
+South/Central America & Carribean,Dominican Republic,,Santo Domingo,2012,79.51191860465114
+South/Central America & Carribean,Dominican Republic,,Santo Domingo,2013,80.62672064777327
+South/Central America & Carribean,Dominican Republic,,Santo Domingo,2014,80.83926174496641
+South/Central America & Carribean,Dominican Republic,,Santo Domingo,2015,81.13371104815863
+South/Central America & Carribean,Dominican Republic,,Santo Domingo,2016,80.12422535211269
+South/Central America & Carribean,Dominican Republic,,Santo Domingo,2017,80.11019283746559
+South/Central America & Carribean,Dominican Republic,,Santo Domingo,2018,79.65521126760562
+South/Central America & Carribean,Dominican Republic,,Santo Domingo,2019,81.04406779661016
+South/Central America & Carribean,Dominican Republic,,Santo Domingo,2020,79.5512195121951
+South/Central America & Carribean,Equador,,Guayaquil,1995,67.56945244956773
+South/Central America & Carribean,Equador,,Guayaquil,1996,66.36671899529051
+South/Central America & Carribean,Equador,,Guayaquil,1997,69.07686676427535
+South/Central America & Carribean,Equador,,Guayaquil,1998,68.56961483594863
+South/Central America & Carribean,Equador,,Guayaquil,1999,65.77938596491221
+South/Central America & Carribean,Equador,,Guayaquil,2000,65.299860529986
+South/Central America & Carribean,Equador,,Guayaquil,2001,65.93240997229917
+South/Central America & Carribean,Equador,,Guayaquil,2002,67.05868347338944
+South/Central America & Carribean,Equador,,Guayaquil,2003,67.27875000000006
+South/Central America & Carribean,Equador,,Guayaquil,2004,68.61201780415436
+South/Central America & Carribean,Equador,,Guayaquil,2005,68.26739726027395
+South/Central America & Carribean,Equador,,Guayaquil,2006,68.02208333333328
+South/Central America & Carribean,Equador,,Guayaquil,2007,67.58873626373631
+South/Central America & Carribean,Equador,,Guayaquil,2008,67.05782967032962
+South/Central America & Carribean,Equador,,Guayaquil,2009,68.04697802197799
+South/Central America & Carribean,Equador,,Guayaquil,2010,67.95512465373952
+South/Central America & Carribean,Equador,,Guayaquil,2011,67.65054794520547
+South/Central America & Carribean,Equador,,Guayaquil,2012,67.90369863013699
+South/Central America & Carribean,Equador,,Guayaquil,2013,73.43732251521294
+South/Central America & Carribean,Equador,,Guayaquil,2014,76.28279816513758
+South/Central America & Carribean,Equador,,Guayaquil,2015,80.50082417582422
+South/Central America & Carribean,Equador,,Guayaquil,2016,79.76353591160219
+South/Central America & Carribean,Equador,,Guayaquil,2017,78.76328767123289
+South/Central America & Carribean,Equador,,Guayaquil,2018,77.98245125348193
+South/Central America & Carribean,Equador,,Guayaquil,2019,78.69633802816901
+South/Central America & Carribean,Equador,,Guayaquil,2020,82.27014925373133
+South/Central America & Carribean,Guatemala,,Guatemala City,1995,66.4782608695652
+South/Central America & Carribean,Guatemala,,Guatemala City,1996,66.5852830188679
+South/Central America & Carribean,Guatemala,,Guatemala City,1997,67.53561643835617
+South/Central America & Carribean,Guatemala,,Guatemala City,1998,67.8869565217391
+South/Central America & Carribean,Guatemala,,Guatemala City,1999,65.83186813186815
+South/Central America & Carribean,Guatemala,,Guatemala City,2000,65.8502747252747
+South/Central America & Carribean,Guatemala,,Guatemala City,2001,66.24578651685391
+South/Central America & Carribean,Guatemala,,Guatemala City,2002,67.14061624649852
+South/Central America & Carribean,Guatemala,,Guatemala City,2003,67.23109243697482
+South/Central America & Carribean,Guatemala,,Guatemala City,2004,66.74944444444445
+South/Central America & Carribean,Guatemala,,Guatemala City,2005,66.9134615384615
+South/Central America & Carribean,Guatemala,,Guatemala City,2006,66.56840659340651
+South/Central America & Carribean,Guatemala,,Guatemala City,2007,66.96346153846154
+South/Central America & Carribean,Guatemala,,Guatemala City,2008,66.23983286908079
+South/Central America & Carribean,Guatemala,,Guatemala City,2009,67.1551246537396
+South/Central America & Carribean,Guatemala,,Guatemala City,2010,66.59068493150683
+South/Central America & Carribean,Guatemala,,Guatemala City,2011,66.50109589041092
+South/Central America & Carribean,Guatemala,,Guatemala City,2012,66.37103825136612
+South/Central America & Carribean,Guatemala,,Guatemala City,2013,66.83205479452054
+South/Central America & Carribean,Guatemala,,Guatemala City,2014,66.80165289256202
+South/Central America & Carribean,Guatemala,,Guatemala City,2015,67.51767955801097
+South/Central America & Carribean,Guatemala,,Guatemala City,2016,67.48895027624305
+South/Central America & Carribean,Guatemala,,Guatemala City,2017,66.8315068493151
+South/Central America & Carribean,Guatemala,,Guatemala City,2018,66.89359331476327
+South/Central America & Carribean,Guatemala,,Guatemala City,2019,67.69805013927575
+South/Central America & Carribean,Guatemala,,Guatemala City,2020,68.16417910447763
+South/Central America & Carribean,Guyana,,Georgetown,1996,83.55625
+South/Central America & Carribean,Guyana,,Georgetown,1997,80.69999999999999
+South/Central America & Carribean,Guyana,,Georgetown,1998,81.9
+South/Central America & Carribean,Guyana,,Georgetown,1999,83.43552123552126
+South/Central America & Carribean,Guyana,,Georgetown,2000,82.63647058823531
+South/Central America & Carribean,Guyana,,Georgetown,2001,83.50275862068966
+South/Central America & Carribean,Guyana,,Georgetown,2002,83.32925925925927
+South/Central America & Carribean,Guyana,,Georgetown,2003,83.01422222222222
+South/Central America & Carribean,Guyana,,Georgetown,2004,84.0629921259843
+South/Central America & Carribean,Guyana,,Georgetown,2005,84.06929133858267
+South/Central America & Carribean,Guyana,,Georgetown,2006,83.22760416666668
+South/Central America & Carribean,Guyana,,Georgetown,2010,84.37142857142858
+South/Central America & Carribean,Guyana,,Georgetown,2011,83.06283783783788
+South/Central America & Carribean,Haiti,,Port au Prince,1995,86.29625468164797
+South/Central America & Carribean,Haiti,,Port au Prince,1996,86.09945945945948
+South/Central America & Carribean,Haiti,,Port au Prince,1997,87.43142857142858
+South/Central America & Carribean,Haiti,,Port au Prince,1999,84.38245614035088
+South/Central America & Carribean,Haiti,,Port au Prince,2000,84.01166666666671
+South/Central America & Carribean,Haiti,,Port au Prince,2001,85.43493150684932
+South/Central America & Carribean,Haiti,,Port au Prince,2002,85.93492647058815
+South/Central America & Carribean,Haiti,,Port au Prince,2003,87.50718562874252
+South/Central America & Carribean,Haiti,,Port au Prince,2004,86.29314285714283
+South/Central America & Carribean,Haiti,,Port au Prince,2005,85.68904109589045
+South/Central America & Carribean,Haiti,,Port au Prince,2006,84.87500000000004
+South/Central America & Carribean,Haiti,,Port au Prince,2007,85.93950617283951
+South/Central America & Carribean,Haiti,,Port au Prince,2008,86.41060606060606
+South/Central America & Carribean,Haiti,,Port au Prince,2009,86.61692307692307
+South/Central America & Carribean,Haiti,,Port au Prince,2010,85.05826330532207
+South/Central America & Carribean,Haiti,,Port au Prince,2011,84.7129834254143
+South/Central America & Carribean,Haiti,,Port au Prince,2012,84.57889610389613
+South/Central America & Carribean,Haiti,,Port au Prince,2013,85.37475409836068
+South/Central America & Carribean,Haiti,,Port au Prince,2014,85.10899999999998
+South/Central America & Carribean,Haiti,,Port au Prince,2015,86.47243401759535
+South/Central America & Carribean,Haiti,,Port au Prince,2016,85.15380281690142
+South/Central America & Carribean,Haiti,,Port au Prince,2017,84.9818681318681
+South/Central America & Carribean,Haiti,,Port au Prince,2018,85.16511627906978
+South/Central America & Carribean,Haiti,,Port au Prince,2019,83.37623188405796
+South/Central America & Carribean,Haiti,,Port au Prince,2020,81.77499999999999
+South/Central America & Carribean,Honduras,,Tegucigalpa,1995,72.64346590909088
+South/Central America & Carribean,Honduras,,Tegucigalpa,1996,70.49633802816899
+South/Central America & Carribean,Honduras,,Tegucigalpa,1997,72.06363636363636
+South/Central America & Carribean,Honduras,,Tegucigalpa,1998,72.91284916201123
+South/Central America & Carribean,Honduras,,Tegucigalpa,1999,71.0988505747126
+South/Central America & Carribean,Honduras,,Tegucigalpa,2000,71.12877094972072
+South/Central America & Carribean,Honduras,,Tegucigalpa,2001,72.12527777777771
+South/Central America & Carribean,Honduras,,Tegucigalpa,2002,72.22237960339939
+South/Central America & Carribean,Honduras,,Tegucigalpa,2003,71.7556473829201
+South/Central America & Carribean,Honduras,,Tegucigalpa,2004,71.9398280802292
+South/Central America & Carribean,Honduras,,Tegucigalpa,2005,72.35536723163841
+South/Central America & Carribean,Honduras,,Tegucigalpa,2006,71.72152974504247
+South/Central America & Carribean,Honduras,,Tegucigalpa,2007,71.66933701657454
+South/Central America & Carribean,Honduras,,Tegucigalpa,2008,70.99916434540394
+South/Central America & Carribean,Honduras,,Tegucigalpa,2009,71.35185185185179
+South/Central America & Carribean,Honduras,,Tegucigalpa,2010,70.84022038567494
+South/Central America & Carribean,Honduras,,Tegucigalpa,2011,71.04328767123289
+South/Central America & Carribean,Honduras,,Tegucigalpa,2012,71.0155737704918
+South/Central America & Carribean,Honduras,,Tegucigalpa,2013,71.63123287671232
+South/Central America & Carribean,Honduras,,Tegucigalpa,2014,72.01483516483512
+South/Central America & Carribean,Honduras,,Tegucigalpa,2015,73.10439560439558
+South/Central America & Carribean,Honduras,,Tegucigalpa,2016,72.7582872928177
+South/Central America & Carribean,Honduras,,Tegucigalpa,2017,71.36986301369873
+South/Central America & Carribean,Honduras,,Tegucigalpa,2018,69.82770083102496
+South/Central America & Carribean,Honduras,,Tegucigalpa,2019,70.68725761772852
+South/Central America & Carribean,Honduras,,Tegucigalpa,2020,74.09586776859507
+South/Central America & Carribean,Nicaragua,,Managua,1995,79.01463414634144
+South/Central America & Carribean,Nicaragua,,Managua,1996,79.85560000000001
+South/Central America & Carribean,Nicaragua,,Managua,1997,81.91041095890407
+South/Central America & Carribean,Nicaragua,,Managua,1998,83.04583333333335
+South/Central America & Carribean,Nicaragua,,Managua,1999,81.09148351648355
+South/Central America & Carribean,Nicaragua,,Managua,2000,81.42444444444443
+South/Central America & Carribean,Nicaragua,,Managua,2001,82.07225274725279
+South/Central America & Carribean,Nicaragua,,Managua,2002,82.14916666666667
+South/Central America & Carribean,Nicaragua,,Managua,2003,81.90607734806633
+South/Central America & Carribean,Nicaragua,,Managua,2004,81.52916666666664
+South/Central America & Carribean,Nicaragua,,Managua,2005,81.57961432506875
+South/Central America & Carribean,Nicaragua,,Managua,2006,81.80798898071632
+South/Central America & Carribean,Nicaragua,,Managua,2007,81.72362637362637
+South/Central America & Carribean,Nicaragua,,Managua,2008,81.1734636871508
+South/Central America & Carribean,Nicaragua,,Managua,2009,81.91703296703297
+South/Central America & Carribean,Nicaragua,,Managua,2010,81.41662049861499
+South/Central America & Carribean,Nicaragua,,Managua,2011,81.19203296703303
+South/Central America & Carribean,Nicaragua,,Managua,2012,81.23205479452054
+South/Central America & Carribean,Nicaragua,,Managua,2013,81.91863013698625
+South/Central America & Carribean,Nicaragua,,Managua,2014,82.54931129476589
+South/Central America & Carribean,Nicaragua,,Managua,2015,83.11717451523548
+South/Central America & Carribean,Nicaragua,,Managua,2016,82.69146005509637
+South/Central America & Carribean,Nicaragua,,Managua,2017,81.49041095890406
+South/Central America & Carribean,Nicaragua,,Managua,2018,81.28555555555548
+South/Central America & Carribean,Nicaragua,,Managua,2019,82.13593314763236
+South/Central America & Carribean,Nicaragua,,Managua,2020,82.916814159292
+South/Central America & Carribean,Panama,,Panama City,1995,79.78712328767129
+South/Central America & Carribean,Panama,,Panama City,1996,79.42185792349726
+South/Central America & Carribean,Panama,,Panama City,1997,81.85287671232875
+South/Central America & Carribean,Panama,,Panama City,1998,82.24099722991687
+South/Central America & Carribean,Panama,,Panama City,1999,80.8343406593406
+South/Central America & Carribean,Panama,,Panama City,2000,81.26038251366126
+South/Central America & Carribean,Panama,,Panama City,2001,80.35509641873278
+South/Central America & Carribean,Panama,,Panama City,2002,82.17750000000001
+South/Central America & Carribean,Panama,,Panama City,2003,82.10304709141275
+South/Central America & Carribean,Panama,,Panama City,2004,81.81476323119779
+South/Central America & Carribean,Panama,,Panama City,2005,80.90027472527468
+South/Central America & Carribean,Panama,,Panama City,2006,80.4387811634349
+South/Central America & Carribean,Panama,,Panama City,2007,80.90083333333337
+South/Central America & Carribean,Panama,,Panama City,2008,80.46955307262574
+South/Central America & Carribean,Panama,,Panama City,2009,81.21813186813188
+South/Central America & Carribean,Panama,,Panama City,2010,81.15977961432509
+South/Central America & Carribean,Panama,,Panama City,2011,80.13342465753426
+South/Central America & Carribean,Panama,,Panama City,2012,80.93251366120218
+South/Central America & Carribean,Panama,,Panama City,2013,81.34999999999995
+South/Central America & Carribean,Panama,,Panama City,2014,81.55564738292014
+South/Central America & Carribean,Panama,,Panama City,2015,82.42243767313019
+South/Central America & Carribean,Panama,,Panama City,2016,81.01194444444444
+South/Central America & Carribean,Panama,,Panama City,2017,80.27493112947657
+South/Central America & Carribean,Panama,,Panama City,2018,79.89554317548749
+South/Central America & Carribean,Panama,,Panama City,2019,80.60557103064069
+South/Central America & Carribean,Panama,,Panama City,2020,81.89402985074626
+South/Central America & Carribean,Peru,,Lima,1995,66.74410958904105
+South/Central America & Carribean,Peru,,Lima,1996,65.08060109289616
+South/Central America & Carribean,Peru,,Lima,1997,71.93095890410959
+South/Central America & Carribean,Peru,,Lima,1998,69.50221606648196
+South/Central America & Carribean,Peru,,Lima,1999,66.75054945054943
+South/Central America & Carribean,Peru,,Lima,2000,65.70191780821915
+South/Central America & Carribean,Peru,,Lima,2001,65.16914600550966
+South/Central America & Carribean,Peru,,Lima,2002,66.2236111111111
+South/Central America & Carribean,Peru,,Lima,2003,65.73121546961325
+South/Central America & Carribean,Peru,,Lima,2004,66.5786885245902
+South/Central America & Carribean,Peru,,Lima,2005,66.30794520547947
+South/Central America & Carribean,Peru,,Lima,2006,67.40219178082191
+South/Central America & Carribean,Peru,,Lima,2007,65.4332417582417
+South/Central America & Carribean,Peru,,Lima,2008,67.47774725274722
+South/Central America & Carribean,Peru,,Lima,2009,67.7458791208791
+South/Central America & Carribean,Peru,,Lima,2010,66.65917808219174
+South/Central America & Carribean,Peru,,Lima,2011,66.97726027397253
+South/Central America & Carribean,Peru,,Lima,2012,68.47295081967206
+South/Central America & Carribean,Peru,,Lima,2013,66.15643835616444
+South/Central America & Carribean,Peru,,Lima,2014,67.5351648351648
+South/Central America & Carribean,Peru,,Lima,2015,69.61708074534167
+South/Central America & Carribean,Suriname,,Paramaribo,1995,79.67610062893075
+South/Central America & Carribean,Suriname,,Paramaribo,1996,79.40278637770902
+South/Central America & Carribean,Suriname,,Paramaribo,1997,78.90559701492533
+South/Central America & Carribean,Suriname,,Paramaribo,1998,79.83292682926832
+South/Central America & Carribean,Suriname,,Paramaribo,1999,79.05375
+South/Central America & Carribean,Suriname,,Paramaribo,2000,79.7609375
+South/Central America & Carribean,Suriname,,Paramaribo,2001,79.53850931677017
+South/Central America & Carribean,Suriname,,Paramaribo,2002,79.87058823529406
+South/Central America & Carribean,Suriname,,Paramaribo,2003,81.90687499999999
+South/Central America & Carribean,Suriname,,Paramaribo,2004,81.23790849673203
+South/Central America & Carribean,Suriname,,Paramaribo,2005,80.12056338028171
+South/Central America & Carribean,Suriname,,Paramaribo,2006,79.65164835164838
+South/Central America & Carribean,Suriname,,Paramaribo,2007,79.50090634441085
+South/Central America & Carribean,Suriname,,Paramaribo,2008,79.47342657342661
+South/Central America & Carribean,Suriname,,Paramaribo,2009,79.58339768339769
+South/Central America & Carribean,Suriname,,Paramaribo,2010,80.55172413793103
+South/Central America & Carribean,Suriname,,Paramaribo,2011,79.97371428571434
+South/Central America & Carribean,Suriname,,Paramaribo,2012,79.42404371584702
+South/Central America & Carribean,Suriname,,Paramaribo,2013,79.11671232876714
+South/Central America & Carribean,Suriname,,Paramaribo,2014,79.4738292011019
+South/Central America & Carribean,Suriname,,Paramaribo,2015,79.54120879120877
+South/Central America & Carribean,Suriname,,Paramaribo,2016,80.08991097922852
+South/Central America & Carribean,Suriname,,Paramaribo,2017,79.578021978022
+South/Central America & Carribean,Suriname,,Paramaribo,2018,79.2220963172805
+South/Central America & Carribean,Suriname,,Paramaribo,2019,79.84428969359327
+South/Central America & Carribean,Suriname,,Paramaribo,2020,79.22985074626867
+South/Central America & Carribean,Uruguay,,Montvideo,1995,59.62794520547948
+South/Central America & Carribean,Uruguay,,Montvideo,1996,60.18879781420767
+South/Central America & Carribean,Uruguay,,Montvideo,1997,60.91999999999999
+South/Central America & Carribean,Uruguay,,Montvideo,1998,59.84265927977842
+South/Central America & Carribean,Uruguay,,Montvideo,1999,59.69175824175822
+South/Central America & Carribean,Uruguay,,Montvideo,2000,60.41397260273969
+South/Central America & Carribean,Uruguay,,Montvideo,2001,61.88131868131872
+South/Central America & Carribean,Uruguay,,Montvideo,2002,61.236388888888875
+South/Central America & Carribean,Uruguay,,Montvideo,2003,60.490883977900516
+South/Central America & Carribean,Uruguay,,Montvideo,2004,61.89098360655737
+South/Central America & Carribean,Uruguay,,Montvideo,2005,61.82986301369869
+South/Central America & Carribean,Uruguay,,Montvideo,2006,61.90493150684933
+South/Central America & Carribean,Uruguay,,Montvideo,2007,60.81895604395605
+South/Central America & Carribean,Uruguay,,Montvideo,2008,62.11294765840221
+South/Central America & Carribean,Uruguay,,Montvideo,2009,61.48104395604392
+South/Central America & Carribean,Uruguay,,Montvideo,2010,61.92410958904108
+South/Central America & Carribean,Uruguay,,Montvideo,2011,61.28273972602744
+South/Central America & Carribean,Uruguay,,Montvideo,2012,62.82704918032787
+South/Central America & Carribean,Uruguay,,Montvideo,2013,61.623287671232816
+South/Central America & Carribean,Uruguay,,Montvideo,2014,62.8793956043956
+South/Central America & Carribean,Uruguay,,Montvideo,2015,62.80164835164839
+South/Central America & Carribean,Uruguay,,Montvideo,2016,61.68870523415977
+South/Central America & Carribean,Uruguay,,Montvideo,2017,63.70794520547945
+South/Central America & Carribean,Uruguay,,Montvideo,2018,62.49111111111109
+South/Central America & Carribean,Uruguay,,Montvideo,2019,62.190250696378875
+South/Central America & Carribean,Uruguay,,Montvideo,2020,68.82611940298504
+South/Central America & Carribean,Venezuela,,Caracas,1995,78.47972602739723
+South/Central America & Carribean,Venezuela,,Caracas,1996,80.39043715846996
+South/Central America & Carribean,Venezuela,,Caracas,1997,80.17397260273965
+South/Central America & Carribean,Venezuela,,Caracas,1998,80.69085872576176
+South/Central America & Carribean,Venezuela,,Caracas,1999,79.07301136363638
+South/Central America & Carribean,Venezuela,,Caracas,2000,80.19173553719006
+South/Central America & Carribean,Venezuela,,Caracas,2001,82.28500000000004
+South/Central America & Carribean,Venezuela,,Caracas,2002,81.88666666666663
+South/Central America & Carribean,Venezuela,,Caracas,2003,82.11928374655645
+South/Central America & Carribean,Venezuela,,Caracas,2004,81.48087431693988
+South/Central America & Carribean,Venezuela,,Caracas,2005,82.28082191780815
+South/Central America & Carribean,Venezuela,,Caracas,2006,81.26236263736261
+South/Central America & Carribean,Venezuela,,Caracas,2007,81.73296703296701
+South/Central America & Carribean,Venezuela,,Caracas,2008,81.73901098901095
+South/Central America & Carribean,Venezuela,,Caracas,2009,82.82637362637351
+South/Central America & Carribean,Venezuela,,Caracas,2010,82.60961538461541
+South/Central America & Carribean,Venezuela,,Caracas,2011,80.43944444444439
+South/Central America & Carribean,Venezuela,,Caracas,2012,81.45327868852459
+South/Central America & Carribean,Venezuela,,Caracas,2013,80.91506849315064
+South/Central America & Carribean,Venezuela,,Caracas,2014,80.6401098901099
+South/Central America & Carribean,Venezuela,,Caracas,2015,81.46143250688715
+South/Central America & Carribean,Venezuela,,Caracas,2016,81.70705521472401
+South/Central America & Carribean,Venezuela,,Caracas,2017,82.84457478005871
+South/Central America & Carribean,Venezuela,,Caracas,2018,79.96971428571435
+South/Central America & Carribean,Venezuela,,Caracas,2019,79.8167146974063
+South/Central America & Carribean,Venezuela,,Caracas,2020,80.26165413533833
+North America,US,Alabama,Birmingham,1995,56.20611293060565
+North America,US,Alabama,Birmingham,1996,54.76217886235486
+North America,US,Alabama,Birmingham,1997,55.38453996983328
+North America,US,Alabama,Birmingham,1998,58.09512212057578
+North America,US,Alabama,Birmingham,1999,57.10912497206936
+North America,US,Alabama,Birmingham,2000,56.124805949735006
+North America,US,Alabama,Birmingham,2001,56.854751131221526
+North America,US,Alabama,Birmingham,2002,56.62376192955029
+North America,US,Alabama,Birmingham,2003,56.22662450375436
+North America,US,Alabama,Birmingham,2004,56.42705392627085
+North America,US,Alabama,Birmingham,2005,56.95400708300864
+North America,US,Alabama,Birmingham,2006,57.74099980992156
+North America,US,Alabama,Birmingham,2007,57.10024200428302
+North America,US,Alabama,Birmingham,2008,55.96760784313711
+North America,US,Alabama,Birmingham,2009,55.88026769241455
+North America,US,Alabama,Birmingham,2010,56.79041547477778
+North America,US,Alabama,Birmingham,2011,57.07877121810571
+North America,US,Alabama,Birmingham,2012,58.67791737649066
+North America,US,Alabama,Birmingham,2013,55.968208659662125
+North America,US,Alabama,Birmingham,2014,55.68978188460242
+North America,US,Alabama,Birmingham,2015,57.542059071126076
+North America,US,Alabama,Birmingham,2016,58.31625614003788
+North America,US,Alabama,Birmingham,2017,57.943394874916955
+North America,US,Alabama,Birmingham,2018,57.03916554749757
+North America,US,Alabama,Birmingham,2019,56.78060730920758
+North America,US,Alabama,Birmingham,2020,47.39967801736739
