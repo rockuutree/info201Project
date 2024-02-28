@@ -66,7 +66,7 @@ forest_km_percent
 ```
 ## Joining global temp together
 ```{r}
-final_set <- left_join(forest_km_percent, global_temp)
+final_set <- left_join(global_temp, forest_km_percent)
 final_set
 ```
 

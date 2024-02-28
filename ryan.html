@@ -559,24 +559,24 @@ longForestPercent</code></pre>
 </div>
 <div id="joining-global-temp-together" class="section level2">
 <h2>Joining global temp together</h2>
-<pre class="r"><code>final_set &lt;- left_join(forest_km_percent, global_temp)</code></pre>
+<pre class="r"><code>final_set &lt;- left_join(global_temp, forest_km_percent)</code></pre>
 <pre><code>## Joining with `by = join_by(country, year)`</code></pre>
 <pre class="r"><code>final_set</code></pre>
-<pre><code>## # A tibble: 8,288 × 9
-##    country     `Country Code` year      km percent region state city 
-##    &lt;chr&gt;       &lt;chr&gt;          &lt;chr&gt;  &lt;dbl&gt;   &lt;dbl&gt; &lt;chr&gt;  &lt;chr&gt; &lt;chr&gt;
-##  1 Afghanistan AFG            1990  12084.    1.85 &lt;NA&gt;   &lt;NA&gt;  &lt;NA&gt; 
-##  2 Afghanistan AFG            1991  12084.    1.85 &lt;NA&gt;   &lt;NA&gt;  &lt;NA&gt; 
-##  3 Afghanistan AFG            1992  12084.    1.85 &lt;NA&gt;   &lt;NA&gt;  &lt;NA&gt; 
-##  4 Afghanistan AFG            1993  12084.    1.85 &lt;NA&gt;   &lt;NA&gt;  &lt;NA&gt; 
-##  5 Afghanistan AFG            1994  12084.    1.85 &lt;NA&gt;   &lt;NA&gt;  &lt;NA&gt; 
-##  6 Afghanistan AFG            1995  12084.    1.85 &lt;NA&gt;   &lt;NA&gt;  &lt;NA&gt; 
-##  7 Afghanistan AFG            1996  12084.    1.85 &lt;NA&gt;   &lt;NA&gt;  &lt;NA&gt; 
-##  8 Afghanistan AFG            1997  12084.    1.85 &lt;NA&gt;   &lt;NA&gt;  &lt;NA&gt; 
-##  9 Afghanistan AFG            1998  12084.    1.85 &lt;NA&gt;   &lt;NA&gt;  &lt;NA&gt; 
-## 10 Afghanistan AFG            1999  12084.    1.85 &lt;NA&gt;   &lt;NA&gt;  &lt;NA&gt; 
-## # ℹ 8,278 more rows
-## # ℹ 1 more variable: average_temperature &lt;dbl&gt;</code></pre>
+<pre><code>## # A tibble: 3,064 × 9
+##    region country state city    year  average_temperature `Country Code`    km
+##    &lt;chr&gt;  &lt;chr&gt;   &lt;chr&gt; &lt;chr&gt;   &lt;chr&gt;               &lt;dbl&gt; &lt;chr&gt;          &lt;dbl&gt;
+##  1 Africa Algeria &lt;NA&gt;  Algiers 1997                 64.9 DZA            16054
+##  2 Africa Algeria &lt;NA&gt;  Algiers 1998                 63.6 DZA            15966
+##  3 Africa Algeria &lt;NA&gt;  Algiers 1999                 64.9 DZA            15878
+##  4 Africa Algeria &lt;NA&gt;  Algiers 2000                 64.2 DZA            15790
+##  5 Africa Algeria &lt;NA&gt;  Algiers 2001                 64.7 DZA            16129
+##  6 Africa Algeria &lt;NA&gt;  Algiers 2002                 64.1 DZA            16468
+##  7 Africa Algeria &lt;NA&gt;  Algiers 2003                 65.5 DZA            16807
+##  8 Africa Algeria &lt;NA&gt;  Algiers 2004                 64.1 DZA            17146
+##  9 Africa Algeria &lt;NA&gt;  Algiers 2005                 62.9 DZA            17485
+## 10 Africa Algeria &lt;NA&gt;  Algiers 2006                 64.9 DZA            17824
+## # ℹ 3,054 more rows
+## # ℹ 1 more variable: percent &lt;dbl&gt;</code></pre>
 </div>
 
 
