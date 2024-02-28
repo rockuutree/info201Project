@@ -551,9 +551,8 @@ longForestPercent</code></pre>
 ## 10 Afghanistan AFG            1999     1.85
 ## # ℹ 8,246 more rows</code></pre>
 </div>
-</div>
-<div id="joining-table-together-for-forest" class="section level2">
-<h2>Joining Table Together for Forest</h2>
+<div id="joining-table-together-for-forest" class="section level3">
+<h3>Joining Table Together for Forest</h3>
 <pre class="r"><code>forest_km_percent &lt;- left_join(longForestKM, longForestPercent)</code></pre>
 <pre><code>## Joining with `by = join_by(country, `Country Code`, year)`</code></pre>
 <pre class="r"><code>forest_km_percent</code></pre>
@@ -572,8 +571,8 @@ longForestPercent</code></pre>
 ## 10 Afghanistan AFG            1999  12084.    1.85
 ## # ℹ 8,278 more rows</code></pre>
 </div>
-<div id="joining-global-temp-together-to-create-a-final-set" class="section level2">
-<h2>Joining global temp together to create a final set</h2>
+<div id="joining-global-temp-together-to-create-a-final-set" class="section level3">
+<h3>Joining global temp together to create a final set</h3>
 <pre class="r"><code>final_set &lt;- left_join(global_temp, forest_km_percent)</code></pre>
 <pre><code>## Joining with `by = join_by(country, year)`</code></pre>
 <pre class="r"><code>final_set</code></pre>
@@ -591,6 +590,7 @@ longForestPercent</code></pre>
 ##  9 Africa Algeria Algiers 2005                 62.9 DZA            17485   0.734
 ## 10 Africa Algeria Algiers 2006                 64.9 DZA            17824   0.748
 ## # ℹ 3,054 more rows</code></pre>
+</div>
 </div>
 
 
