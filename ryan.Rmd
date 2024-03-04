@@ -69,11 +69,12 @@ longForestPercent
 forest_km_percent <- left_join(longForestKM, longForestPercent)
 forest_km_percent
 ```
-### Joining global temp together to create a final set
+### Inner Joining global temp together to create a final set
 ```{r}
-final_set <- left_join(global_temp, forest_km_percent)
-final_set
+final_set2 <- inner_join(global_temp, forest_km_percent)
+final_set2
 ```
+
 
 
 

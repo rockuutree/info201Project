@@ -11,7 +11,7 @@
 
 <meta name="author" content="Ryan" />
 
-<meta name="date" content="2024-02-28" />
+<meta name="date" content="2024-03-03" />
 
 <title>groupProject</title>
 
@@ -352,7 +352,7 @@ display: none;
 
 <h1 class="title toc-ignore">groupProject</h1>
 <h4 class="author">Ryan</h4>
-<h4 class="date">2024-02-28</h4>
+<h4 class="date">2024-03-03</h4>
 
 </div>
 
@@ -571,12 +571,12 @@ longForestPercent</code></pre>
 ## 10 Afghanistan AFG            1999  12084.    1.85
 ## # ℹ 8,278 more rows</code></pre>
 </div>
-<div id="joining-global-temp-together-to-create-a-final-set" class="section level3">
-<h3>Joining global temp together to create a final set</h3>
-<pre class="r"><code>final_set &lt;- left_join(global_temp, forest_km_percent)</code></pre>
+<div id="inner-joining-global-temp-together-to-create-a-final-set" class="section level3">
+<h3>Inner Joining global temp together to create a final set</h3>
+<pre class="r"><code>final_set2 &lt;- inner_join(global_temp, forest_km_percent)</code></pre>
 <pre><code>## Joining with `by = join_by(country, year)`</code></pre>
-<pre class="r"><code>final_set</code></pre>
-<pre><code>## # A tibble: 3,064 × 8
+<pre class="r"><code>final_set2</code></pre>
+<pre><code>## # A tibble: 2,409 × 8
 ##    region country city    year  average_temperature `Country Code`    km percent
 ##    &lt;chr&gt;  &lt;chr&gt;   &lt;chr&gt;   &lt;chr&gt;               &lt;dbl&gt; &lt;chr&gt;          &lt;dbl&gt;   &lt;dbl&gt;
 ##  1 Africa Algeria Algiers 1997                 64.9 DZA            16054   0.674
@@ -589,7 +589,7 @@ longForestPercent</code></pre>
 ##  8 Africa Algeria Algiers 2004                 64.1 DZA            17146   0.720
 ##  9 Africa Algeria Algiers 2005                 62.9 DZA            17485   0.734
 ## 10 Africa Algeria Algiers 2006                 64.9 DZA            17824   0.748
-## # ℹ 3,054 more rows</code></pre>
+## # ℹ 2,399 more rows</code></pre>
 </div>
 </div>
 
