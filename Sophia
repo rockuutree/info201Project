@@ -1,0 +1,12 @@
+```{r}
+# location VS forest cover
+final_set %>% 
+  select(region, year, km) %>% 
+  group_by(region) %>% 
+  summarize(mean_km = mean(km, na.rm = TRUE)) %>% 
+  ggplot(aes(region, mean_km, fill = region)) +
+  labs(x = "Region", y = "Average Forest Cover (km)",
+       title = "How Different Regions Affect The Tendency of Forests Cover in 1995 to 2020") +
+  geom_col(width = 0.5) +
+  theme(axis.text.x = element_text(angle = 30, size = 7.5, hjust = 1))
+```
