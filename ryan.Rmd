@@ -71,9 +71,46 @@ forest_km_percent
 ```
 ### Inner Joining global temp together to create a final set
 ```{r}
-final_set2 <- inner_join(global_temp, forest_km_percent)
-final_set2
+final_set <- inner_join(global_temp, forest_km_percent)
+final_set
+
+final_set <- final_set %>%
+  mutate(year = as.numeric(year))
 ```
+```{r}
+final_set %>%
+  filter(country == "Australia") %>%
+ggplot(aes(x = average_temperature , y = percent)) +
+  geom_point() +
+  labs(title = "Average Temperature vs Foresty over 25 Yrs",
+       x = "Average Temperature",
+       y = "Foresty (km)")
+```
+```{r}
+final_set %>%
+  filter(country == "Japan") %>%
+  ggplot(aes(x = year, y = km, color = average_temperature)) +
+  geom_point(size = 2) +
+  scale_color_gradient(low = "blue", high = "red") +
+  labs(x = "Year", y = "KM", color = "Average Temperature", 
+       title = "Popularity Trajectory of Temperature and KM Over Years")
+
+
+```
+```{r}
+library(scales)
+
+final_set %>%
+  filter(region == "Africa", year == "1995") %>%
+  ggplot() +
+  geom_bar(mapping = aes(x = country, y = km), stat = "identity") +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) +
+  scale_y_continuous(labels = label_number())
+
+```
+
+
+
 
 
 
