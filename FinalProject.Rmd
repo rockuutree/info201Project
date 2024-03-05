@@ -1,0 +1,98 @@
+---
+title: "groupProject"
+author: "Vince"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+##Loading libraries
+```{r}
+library(readr)
+library(dplyr)
+library(tidyverse)
+library(stringr)
+library(ggplot2)
+```
+
+## Combining Datasets
+
+### Read CSV Files
+
+```{r cars}
+forest_km <- read_delim("forest_area_km.csv")
+forest_percent <- read_delim("forest_area_percent.csv")
+global_temp <- read_delim("Global_Temperatures.csv")
+```
+### Checking first few columns in each csv
+```{r}
+head(forest_km,5) 
+head(forest_percent,5) 
+head(global_temp,5)
+```
+### Cleaning Up CSV Files
+#### Convert "Country Name" header to "country"
+```{r}
+forest_km <- forest_km %>%
+  rename(country = `Country Name`)
+  head(forest_km, 5)
+```
+#### Convert "Country Name" header to "country"
+```{r}
+forest_percent <- forest_percent %>%
+  rename(country = `Country Name`)
+  head(forest_km, 5)
+```
+#### Convert "year" data type from double to char
+```{r}
+global_temp <- global_temp %>%
+  mutate(year = as.character(year))
+```
+
+### Convert Forms from wide to long form
+
+```{r}
+countryList <- c('country', 'Country Code')
+
+longForestKM <- forest_km %>%
+   pivot_longer(!countryList, names_to = "year", values_to = "km")
+longForestKM
+
+```
+```{r}
+
+longForestPercent <- forest_percent %>%
+   pivot_longer(!countryList, names_to = "year", values_to = "percent")
+longForestPercent
+```
+### Joining Table Together for Forest
+```{r}
+forest_km_percent <- left_join(longForestKM, longForestPercent)
+forest_km_percent
+```
+### Inner Joining global temp together to create a final set
+```{r}
+final_set2 <- inner_join(global_temp, forest_km_percent)
+final_set2
+```
+# Graph
+```{r}
+forest_growth <- final_set2 %>%
+  group_by(year) %>%
+  summarize(total_forestgrowth = sum(km, na.rm = TRUE))
+print(forest_growth)
+
+
+ggplot(forest_growth, aes(x = year, y = total_forestgrowth)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE, col = "black") +
+  labs(title = "Total Forest Area Over the 25 Years", x = "Year", y = "Total Forest Growth (km)") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+# Data
+In this analysis of Forest Growth over the past 25 years, we totaled the Forest Area of all countries in a certain year. We then plotted the sum Forest Area vs Time graph and observed the trend. 
+
+# Results
+From this graph, we observed an overall downwards trend. This entails that forest growth didn't occur and the overal trend resulted in global forest area lost. There is this sharp drop in forest area that can't be explained through correlation of global temperatures and forest area as we didn't account for human intervention. As such, efforts made by humanity could have caused this sharp drop or other disasters that could have caused a sharp dorp. 
+
+
+
