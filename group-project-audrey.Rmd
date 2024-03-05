@@ -1,0 +1,113 @@
+---
+title: "groupProject"
+author: "Audrey Huang"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+##Loading libraries
+```{r}
+library(readr)
+library(dplyr)
+library(tidyverse)
+library(stringr)
+library(ggplot2)
+```
+
+## Combining Datasets
+
+### Read CSV Files
+
+```{r cars}
+forest_km <- read_delim("forest_area_km.csv")
+forest_percent <- read_delim("forest_area_percent.csv")
+global_temp <- read_delim("Global_Temperatures.csv")
+```
+### Checking first few columns in each csv
+```{r}
+head(forest_km,5) 
+head(forest_percent,5) 
+head(global_temp,5)
+```
+### Cleaning Up CSV Files
+#### Convert "Country Name" header to "country"
+```{r}
+forest_km <- forest_km %>%
+  rename(country = `Country Name`)
+  head(forest_km, 5)
+```
+#### Convert "Country Name" header to "country"
+```{r}
+forest_percent <- forest_percent %>%
+  rename(country = `Country Name`)
+  head(forest_km, 5)
+```
+#### Convert "year" data type from double to char
+```{r}
+global_temp <- global_temp %>%
+  mutate(year = as.character(year))
+```
+
+### Convert Forms from wide to long form
+
+```{r}
+countryList <- c('country', 'Country Code')
+
+longForestKM <- forest_km %>%
+   pivot_longer(!countryList, names_to = "year", values_to = "km")
+longForestKM
+
+```
+```{r}
+
+longForestPercent <- forest_percent %>%
+   pivot_longer(!countryList, names_to = "year", values_to = "percent")
+longForestPercent
+```
+### Joining Table Together for Forest
+```{r}
+forest_km_percent <- left_join(longForestKM, longForestPercent)
+forest_km_percent
+```
+### Inner Joining global temp together to create a final set
+```{r}
+final_set2 <- inner_join(global_temp, forest_km_percent)
+final_set2
+```
+
+### Q: At which average temperature do the forests in that area tend to thrive?
+```{r}
+final_set2 %>% filter(year==2020 | year==1995) %>% group_by(year) %>% ggplot(aes(x=average_temperature, y=percent, col=year)) + geom_point() + geom_smooth(method=lm, se=FALSE)
+```
+From this plot, we can see that in both 1995 and 2020 (the earliest and latest recorded years in the dataset), there is a positive correlation between average temperature and percent of forestry in the country. 
+
+But at which temperature do the forests tend to thrive? 
+```{r}
+final_set2 %>% filter(year==2020 | year==1995) %>% group_by(year) %>% filter(rank(-percent)==1) %>% summarize(country, average_temperature, percent)
+```
+The temperature at which the highest percentage of forestry occurs at around 79 degrees. 
+
+But does this mean that forestry always thrives at 79 degrees?
+```{r}
+final_set2 %>% group_by(temperature_range = factor(round(average_temperature/10)*10)) %>% reframe(average_percent = mean(percent, na.rm=TRUE)) %>% arrange(rank(-average_percent))
+```
+Actually, the highest average percentage of forestry occurred in the 35-44 degree range, with 38% forestry. The range holding the instance of highest percentage of forestry (which was 79 degrees) is the next ranked temperature range, with 35% forestry on average across the countries. 
+
+What if "thrive" was taken to mean growth?
+```{r}
+final_set2 %>% filter(year==1995 | year==2020) %>% group_by(country) %>% reframe(average_temp = mean(average_temperature), growth = abs(diff(percent))) %>% ggplot(aes(x=average_temp, y=growth)) + geom_point() + geom_smooth(method=lm, se=FALSE)
+```
+From this graph, we can see that there is a clear correlation between average temperature and growth (difference in percent forestry in 2020 and 1995). 
+
+What is the temperature with the most growth?
+```{r}
+final_set2 %>% filter(year==1995 | year==2020) %>% group_by(country) %>% reframe(average_temp = mean(average_temperature), growth = abs(diff(percent))) %>% filter(rank(-growth)==1) %>% summarize(country, average_temp, growth)
+```
+The largest growth in percent forestry was 20% in Nicaragua, at an average temperature of 81 degrees. 
+
+Which temperature range has the most growth on average?
+```{r}
+final_set2 %>% filter(year==1995 | year==2020) %>% group_by(country) %>% reframe(average_temp = mean(average_temperature), growth = abs(diff(percent))) %>% ungroup() %>% group_by(temperature_range = factor(round(average_temp/10)*10)) %>% reframe(average_growth = mean(growth, na.rm=TRUE)) %>% arrange(rank(-average_growth))
+```
+The 75-84 degree temperature range shows the greatest average growth. This is consistent with the results from the previous section. 
+
