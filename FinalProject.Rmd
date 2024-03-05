@@ -112,40 +112,101 @@ final_set2 %>%
 ```
 
 # At which average temperature do the forests in that area tend to thrive?
-```{r, echo=FALSE}
-final_set2 %>% filter(year==2020 | year==1995) %>% group_by(year) %>% ggplot(aes(x=average_temperature, y=percent, col=year)) + geom_point() + geom_smooth(method=lm, se=FALSE)
+```{r}
+final_set2 %>% filter(year==2020 | year==1995) %>% group_by(year) %>% 
+  ggplot(aes(x=average_temperature, y=percent, col=year)) + geom_point() + 
+  geom_smooth(method=lm, se=FALSE) + 
+  labs(title="Trend of percent forestry across the world in 1995 and 2020", x="average temperature", y="percent forestry")
 ```
-From this plot, we can see that in both 1995 and 2020 (the earliest and latest recorded years in the dataset), there is a positive correlation between average temperature and percent of forestry in the country. 
 
-But at which temperature do the forests tend to thrive? 
-```{r, echo=FALSE}
-final_set2 %>% filter(year==2020 | year==1995) %>% group_by(year) %>% filter(rank(-percent)==1) %>% summarize(country, average_temperature, percent)
-```
-The temperature at which the highest percentage of forestry occurs at around 79 degrees. 
+Each dot represents a country in 1995 or 2020. From this plot, we can see that 
+in both 1995 and 2020 (the earliest and latest recorded years in the dataset), 
+there is a positive correlation between average temperature and percent of 
+forestry in the country. 
 
-But does this mean that forestry always thrives at 79 degrees?
-```{r, echo=FALSE}
-final_set2 %>% group_by(temperature_range = factor(round(average_temperature/10)*10)) %>% reframe(average_percent = mean(percent, na.rm=TRUE)) %>% arrange(rank(-average_percent))
+
+But at which temperature is there the highest percent of forestry? 
+
+```{r}
+final_set2 %>% filter(year==2020 | year==1995) %>% group_by(year) %>% 
+  filter(rank(-percent)==1) %>% summarize(country, average_temperature, percent)
 ```
-Actually, the highest average percentage of forestry occurred in the 35-44 degree range, with 38% forestry. The range holding the instance of highest percentage of forestry (which was 79 degrees) is the next ranked temperature range, with 35% forestry on average across the countries. 
+
+In both 1995 and 2020, the country with the highest percent of forestry is 
+Suriname with nearly 100%. The temperature at which the highest percentage of 
+forestry occurs is around 79 degrees. 
+
+
+But does this mean that forestry always thrives at 79 degrees? 
+
+```{r}
+final_set2 %>% filter(round(average_temperature/10)*10==80) %>% 
+  ggplot(aes(x=percent)) + geom_histogram(binwidth=5) + 
+  labs(title="Percent forestry at 75-84 degrees", x="percent forestry")
+```
+
+No, forestry doesn't always thrive at 79 degrees. 
+
+
+So, which temperature has the highest percent of forestry ON AVERAGE?
+
+```{r}
+final_set2 %>% 
+  group_by(temperature_range = factor(round(average_temperature/10)*10)) %>% 
+  reframe(average_percent=mean(percent, na.rm=TRUE)) %>% 
+  arrange(rank(-average_percent))
+```
+
+Actually, the highest average percentage of forestry occurred in the 35-44 
+degree range, with 38% forestry. The range holding the instance of highest 
+percentage of forestry (which was 79 degrees) is the next ranked temperature 
+range, with 35% forestry on average across the countries. 
+
 
 What if "thrive" was taken to mean growth?
-```{r, echo=FALSE}
-final_set2 %>% filter(year==1995 | year==2020) %>% group_by(country) %>% reframe(average_temp = mean(average_temperature), growth = abs(diff(percent))) %>% ggplot(aes(x=average_temp, y=growth)) + geom_point() + geom_smooth(method=lm, se=FALSE)
+
+```{r}
+final_set2 %>% filter(year==1995 | year==2020) %>% group_by(country) %>% 
+  reframe(average_temp=mean(average_temperature), growth=diff(percent)) %>% 
+  ggplot(aes(x=average_temp, y=growth)) + geom_point() + 
+  geom_smooth(method=lm, se=FALSE) +
+  labs(title="Forestry growth vs average temp (1995-2020)", x="average temperature", y="percent forestry growth")
 ```
-From this graph, we can see that there is a clear correlation between average temperature and growth (difference in percent forestry in 2020 and 1995). 
+
+From this plot of change in percentage forestry in each country from 1995-2020 
+against the average temperature across that time period, we can see that there 
+is a clear negative correlation between average temperature and growth. It seems 
+like the countries at a lower temperature experience less of a decrease in 
+forestry. 
+
 
 What is the temperature with the most growth?
-```{r, echo=FALSE}
-final_set2 %>% filter(year==1995 | year==2020) %>% group_by(country) %>% reframe(average_temp = mean(average_temperature), growth = abs(diff(percent))) %>% filter(rank(-growth)==1) %>% summarize(country, average_temp, growth)
+
+```{r}
+final_set2 %>% filter(year==1995 | year==2020) %>% group_by(country) %>% 
+  reframe(average_temp=mean(average_temperature), growth=diff(percent)) %>% 
+  filter(rank(-growth)==1) %>% summarize(country, average_temp, growth)
 ```
-The largest growth in percent forestry was 20% in Nicaragua, at an average temperature of 81 degrees. 
+
+The largest growth in percent forestry was 10% in Cuba, at an average 
+temperature of 75.5 degrees. 
+
 
 Which temperature range has the most growth on average?
-```{r, echo=FALSE}
-final_set2 %>% filter(year==1995 | year==2020) %>% group_by(country) %>% reframe(average_temp = mean(average_temperature), growth = abs(diff(percent))) %>% ungroup() %>% group_by(temperature_range = factor(round(average_temp/10)*10)) %>% reframe(average_growth = mean(growth, na.rm=TRUE)) %>% arrange(rank(-average_growth))
+
+```{r}
+final_set2 %>% filter(year==1995 | year==2020) %>% group_by(country) %>% 
+  reframe(average_temp=mean(average_temperature), growth=diff(percent)) %>% 
+  ungroup() %>% 
+  group_by(temperature_range=factor(round(average_temp/10)*10)) %>% 
+  reframe(average_growth = mean(growth, na.rm=TRUE)) %>% 
+  arrange(rank(-average_growth))
 ```
-The 75-84 degree temperature range shows the greatest average growth. This is consistent with the results from the previous section. 
+
+Although the instance of largest growth occurred at 75 degrees, the 45-54 degree 
+temperature range shows the greatest average growth. In fact, the temperature 
+ranges that showed positive growth were the 40-60 ranges (35-64 degrees). 
+
 
 # Does geographical location affect the tendency of forests to grow or decline?
 ```{r, echo=FALSE}
