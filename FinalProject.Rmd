@@ -74,7 +74,97 @@ forest_km_percent
 final_set2 <- inner_join(global_temp, forest_km_percent)
 final_set2
 ```
-# Graph
+
+# Does average temperature have an impact on the growth of forestry in different regions of the world over the past 25 years?
+```{r}
+final_set2 %>%
+  filter(country == "Australia") %>%
+ggplot(aes(x = average_temperature , y = percent)) +
+  geom_point() +
+  labs(title = "Average Temperature vs Foresty over 25 Yrs",
+       x = "Average Temperature",
+       y = "Foresty (km)")
+```
+
+```{r}
+final_set2 %>%
+  filter(country == "Japan") %>%
+  ggplot(aes(x = year, y = km, color = average_temperature)) +
+  geom_point(size = 2) +
+  scale_color_gradient(low = "blue", high = "red") +
+  labs(x = "Year", y = "KM", color = "Average Temperature", 
+       title = "Popularity Trajectory of Temperature and KM Over Years")
+```
+
+```{r}
+library(scales)
+
+final_set2 %>%
+  filter(region == "Africa", year == "1995") %>%
+  ggplot() +
+  geom_bar(mapping = aes(x = country, y = km), stat = "identity") +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) +
+  scale_y_continuous(labels = label_number())
+
+```
+
+# At which average temperature do the forests in that area tend to thrive?
+```{r}
+final_set2 %>% filter(year==2020 | year==1995) %>% group_by(year) %>% ggplot(aes(x=average_temperature, y=percent, col=year)) + geom_point() + geom_smooth(method=lm, se=FALSE)
+```
+From this plot, we can see that in both 1995 and 2020 (the earliest and latest recorded years in the dataset), there is a positive correlation between average temperature and percent of forestry in the country. 
+
+But at which temperature do the forests tend to thrive? 
+```{r}
+final_set2 %>% filter(year==2020 | year==1995) %>% group_by(year) %>% filter(rank(-percent)==1) %>% summarize(country, average_temperature, percent)
+```
+The temperature at which the highest percentage of forestry occurs at around 79 degrees. 
+
+But does this mean that forestry always thrives at 79 degrees?
+```{r}
+final_set2 %>% group_by(temperature_range = factor(round(average_temperature/10)*10)) %>% reframe(average_percent = mean(percent, na.rm=TRUE)) %>% arrange(rank(-average_percent))
+```
+Actually, the highest average percentage of forestry occurred in the 35-44 degree range, with 38% forestry. The range holding the instance of highest percentage of forestry (which was 79 degrees) is the next ranked temperature range, with 35% forestry on average across the countries. 
+
+What if "thrive" was taken to mean growth?
+```{r}
+final_set2 %>% filter(year==1995 | year==2020) %>% group_by(country) %>% reframe(average_temp = mean(average_temperature), growth = abs(diff(percent))) %>% ggplot(aes(x=average_temp, y=growth)) + geom_point() + geom_smooth(method=lm, se=FALSE)
+```
+From this graph, we can see that there is a clear correlation between average temperature and growth (difference in percent forestry in 2020 and 1995). 
+
+What is the temperature with the most growth?
+```{r}
+final_set2 %>% filter(year==1995 | year==2020) %>% group_by(country) %>% reframe(average_temp = mean(average_temperature), growth = abs(diff(percent))) %>% filter(rank(-growth)==1) %>% summarize(country, average_temp, growth)
+```
+The largest growth in percent forestry was 20% in Nicaragua, at an average temperature of 81 degrees. 
+
+Which temperature range has the most growth on average?
+```{r}
+final_set2 %>% filter(year==1995 | year==2020) %>% group_by(country) %>% reframe(average_temp = mean(average_temperature), growth = abs(diff(percent))) %>% ungroup() %>% group_by(temperature_range = factor(round(average_temp/10)*10)) %>% reframe(average_growth = mean(growth, na.rm=TRUE)) %>% arrange(rank(-average_growth))
+```
+The 75-84 degree temperature range shows the greatest average growth. This is consistent with the results from the previous section. 
+
+# Does geographical location affect the tendency of forests to grow or decline?
+```{r}
+final_set2 %>% 
+  select(region, year, km) %>% 
+  group_by(region) %>% 
+  summarize(mean_km = mean(km, na.rm = TRUE)) %>% 
+  ggplot(aes(region, mean_km, fill = region)) +
+  labs(x = "Region", y = "Average Forest Cover (km)",
+       title = "How Different Regions Affect The Tendency of Forests Cover in 1995 to 2020") +
+  geom_col(width = 0.5) +
+  theme(axis.text.x = element_text(angle = 30, size = 7.5, hjust = 1))
+```
+
+### Data
+By selecting only columns of **region, year, km** to narrow down the data we focus on for this specific research question: "Does geographical location affect the tendency of forests to grow or decline?". As the main goal here is find tendency from time period of 1995 to 2020 instead of focusing on each year's tendency, we use summarize method to find the mean of km during this time period.
+
+### Result/Analysis
+By using histogram method of visualization, the graph has showed that North America have highest average forest cover, while Middle East has the lowest average forest cover.
+
+
+# Over the past 25 years, what is the general trend of forest growth across the world?
 ```{r}
 forest_growth <- final_set2 %>%
   group_by(year) %>%
@@ -88,10 +178,10 @@ ggplot(forest_growth, aes(x = year, y = total_forestgrowth)) +
   labs(title = "Total Forest Area Over the 25 Years", x = "Year", y = "Total Forest Growth (km)") +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ```
-# Data
+### Data
 In this analysis of Forest Growth over the past 25 years, we totaled the Forest Area of all countries in a certain year. We then plotted the sum Forest Area vs Time graph and observed the trend. 
 
-# Results
+### Results
 From this graph, we observed an overall downwards trend. This entails that forest growth didn't occur and the overal trend resulted in global forest area lost. There is this sharp drop in forest area that can't be explained through correlation of global temperatures and forest area as we didn't account for human intervention. As such, efforts made by humanity could have caused this sharp drop or other disasters that could have caused a sharp dorp. 
 
 
