@@ -105,7 +105,9 @@ final_set2 %>%
   ggplot() +
   geom_bar(mapping = aes(x = country, y = km), stat = "identity") +
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) +
-  scale_y_continuous(labels = label_number())
+  scale_y_continuous(labels = label_number()) +
+  labs(x = "Country", y = "KM",
+       title = "Each Country of Africa's Forest Cover in Km")
 
 ```
 
