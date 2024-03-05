@@ -13,6 +13,9 @@ library(tidyverse)
 library(stringr)
 library(ggplot2)
 ```
+```{r, echo=FALSE}
+1 + 1
+```
 
 ## Combining Datasets
 
@@ -77,7 +80,7 @@ final_set
 final_set <- final_set %>%
   mutate(year = as.numeric(year))
 ```
-```{r}
+```{r, echo=FALSE}
 final_set %>%
   filter(country == "Australia") %>%
 ggplot(aes(x = average_temperature , y = percent)) +
@@ -86,7 +89,7 @@ ggplot(aes(x = average_temperature , y = percent)) +
        x = "Average Temperature",
        y = "Foresty (km)")
 ```
-```{r}
+```{r, echo=FALSE}
 final_set %>%
   filter(country == "Japan") %>%
   ggplot(aes(x = year, y = km, color = average_temperature)) +
@@ -97,7 +100,7 @@ final_set %>%
 
 
 ```
-```{r}
+```{r, echo=FALSE}
 library(scales)
 
 final_set %>%
