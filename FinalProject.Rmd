@@ -73,6 +73,9 @@ forest_km_percent
 ```{r}
 final_set2 <- inner_join(global_temp, forest_km_percent)
 final_set2
+
+final_set2 <- final_set2 %>%
+  mutate(year = as.numeric(year))
 ```
 
 # Does average temperature have an impact on the growth of forestry in different regions of the world over the past 25 years?
