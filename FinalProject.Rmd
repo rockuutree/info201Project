@@ -78,16 +78,6 @@ final_set2
 # Does average temperature have an impact on the growth of forestry in different regions of the world over the past 25 years?
 ```{r, echo=FALSE}
 final_set2 %>%
-  filter(country == "Australia") %>%
-ggplot(aes(x = average_temperature , y = percent)) +
-  geom_point() +
-  labs(title = "Average Temperature vs Foresty over 25 Yrs",
-       x = "Average Temperature",
-       y = "Foresty (km)")
-```
-
-```{r, echo=FALSE}
-final_set2 %>%
   filter(country == "Japan") %>%
   ggplot(aes(x = year, y = km, color = average_temperature)) +
   geom_point(size = 2) +
@@ -102,6 +92,18 @@ library(scales)
 
 final_set2 %>%
   filter(region == "Africa", year == "1995") %>%
+  ggplot() +
+  geom_bar(mapping = aes(x = country, y = km), stat = "identity") +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) +
+  scale_y_continuous(labels = label_number()) +
+  labs(x = "Country", y = "KM",
+       title = "Each Country of Africa's Forest Cover in Km")
+
+```
+```{r, echo=FALSE}
+
+final_set2 %>%
+  filter(region == "Africa", year == "2018") %>%
   ggplot() +
   geom_bar(mapping = aes(x = country, y = km), stat = "identity") +
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) +
