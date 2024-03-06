@@ -81,6 +81,7 @@ final_set2 %>%
   filter(country == "Japan") %>%
   ggplot(aes(x = year, y = km, color = average_temperature)) +
   geom_point(size = 2) +
+  geom_line() +
   scale_color_gradient(low = "blue", high = "red") +
   labs(x = "Year", y = "KM", color = "Average Temperature", 
        title = "Popularity Trajectory of Temperature and KM Over Years") +
