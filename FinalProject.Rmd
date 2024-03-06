@@ -78,14 +78,15 @@ final_set2
 # Does average temperature have an impact on the growth of forestry in different regions of the world over the past 25 years?
 ```{r, echo=FALSE}
 final_set2 %>%
-  filter(country == "Japan") %>%
+  filter(country == "Gabon") %>%
   ggplot(aes(x = year, y = km, color = average_temperature)) +
   geom_point(size = 2) +
-  geom_line() +
+  geom_line() +  # Add this line to connect the points
   scale_color_gradient(low = "blue", high = "red") +
   labs(x = "Year", y = "KM", color = "Average Temperature", 
        title = "Popularity Trajectory of Temperature and KM Over Years") +
-theme(axis.text.x = element_text(angle = 45, size = 7, hjust = 1))
+  theme(axis.text.x = element_text(angle = 45, size = 7, hjust = 1))
+
 ```
 
 ```{r, echo=FALSE}
