@@ -50,5 +50,10 @@ During the merging process, we observed numerous missing values resulting from t
 We also imported the package “scales” to assist in scaling and formatting the data. For our bar plot that depicts the “kilometer” of every country in a region at a specific year, we used “scale_y_continuous” to properly format the all country labels in a readable manner. Same with using “theme” and rotating the “axis” of the label by 90 degrees to have the label read vertically instead of the words overlapping horizontally.
 
 ## Results
+![](../info201Project/assets/ryan1.jpg)
+![](../info201Project/assets/avg_thrive.jpg)
+![](../info201Project/assets/region_growth.jpg)
+![](../info201Project/assets/forest_china.jpg)
+
 ## Findings
 ## Summary
