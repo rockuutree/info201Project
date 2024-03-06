@@ -1,0 +1,54 @@
+---
+title: "Final Project Writing"
+author: "Ryan, Vince, Audrey, Sophia"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Intro
+
+In recent years, global warming and climate change have become a rising issue in the political and social climate. According to the UK Parliament, individuals who have expressed “ ‘very concerned’ increased from 23% in 2017 to 35% in 2019” (Ares, E., & Bolton, P., 2020). As such, notable figures and movements have become ever so prominent in today’s media such as Greta Thunberg or protesters who throw soup onto historical paintings. The severity of the consequences due to climate change is beginning to become more apparent and as a result, awareness around climate change has been on the rise. 
+
+To study the effects of climate change further, our team decided to explore, research, and produce conclusions about the relationship between global temperature changes and global forest area coverage. Climate change looks different from region to region, so to get a holistic look at the issue at hand, we decided to look at global measurements and data. 
+
+Although climate change and global warming have become most prevalent during the early 2020s, the crisis has been silently looming for many years. As early as the Industrial Revolution, the conversation about impacts on the environment has remained relevant (History, 2017). Fast forward to 1989 and the Intergovernmental Panel on Climate Change (IPCC) was formed. This initiated global efforts to combat climate change and since then, they have pushed out multiple reports on the crisis (History, 2017). 
+
+After looking through the history of climate change, the goal of this investigation is to answer these questions:
+
+- Does average temperature have an impact on the growth of forestry in different regions of the world over the past 25 years?
+- At which average temperature do the forests in that area tend to thrive?
+- Does geographical location affect the tendency of forests to grow or decline?
+- Over the past 25 years, what is the general trend of forest growth across the world?
+
+According to the United States Environmental Protection Agency, climate change can impact forests through a variety of ways such as invasive species, wildfires, and overall damage to the ecosystem (US EPA, 2022). Although some effects may not be immediate, over time, it damages forests’ health which reduces their functionality when it comes to acting as carbon storage spaces, producing air, and providing a habitat (US EPA, 2022). We aim to concentrate our efforts on the visualization and statistics to determine whether climate change has truly had an impact on only one aspect of many. 
+
+As prevalent as climate change is and the numerous movements to call for a change to help prevent and lessen the impacts of climate change, it isn’t taken as seriously as one would think. We hope that reading this report, it will further expand our knowledge of climate change impacts, reach those who can create an impact, and allow further acknowledgement of a crisis that may not have a lot of impact now but will certainly have its consequences in the future.
+
+## Explanation of Data
+
+In our investigation, we explore the relationship between global temperatures and forest area coverage. 
+
+The first dataset we found contains information about the world's forest area changes since 1990. The data consists of location, year, and square kilometer footage of forestry over time. The dataset was formed by the Food and Agriculture Organization, which is a specialized agency of the UN that leads efforts to improve nutrition and food security and is managed and published by The World Bank. All the data can be downloaded through a CSV file on Kaggle. The methods used to collect information were done through satellite imagery, ground surveys, and reports by members.
+
+The second dataset we found to combine in a data frame is a dataset that captures average temperature data across different regions, providing insights into the climate variations by country, city, and state over the years. Multiple organizations like NASA’s Goddard Institute of Space Studies and the European Centre for Medium-Range Weather use monitoring systems and weather stations to collect numerical data. This dataset can also be accessed through Kaggle as a CSV file.
+
+Given that both datasets are separated by year and location/region, they can be combined to investigate the impact of weather and climate on the growth or decline of forestry in the corresponding regions. We know that the growth of forestry can be heavily influenced by many different ecological factors, including temperature, humidity, rainfall, and the occurrence of forest fires. 
+
+
+## Methods
+
+Our initial step involved extracting data from three CSV files. Once we grasped the headers' essence in each file, we started by identifying the keys for merging across the trio. The common thread in all datasets emerged as the year-country combination. Furthermore, we streamlined the dataset by selecting key columns pertinent to our project, including "year," "country," "region," "temperature," "percent," and "km”.  All graphs and charts created utilize most of the variables selected to find either the average temperature over time or forest growth over time. Initially, we tweaked the headers to ensure uniformity for merging. For instance, we renamed "Country Name" in the forest_km CSV to simply "country" for smoother manipulation, eliminating spaces and shortening column names. This adjustment was replicated in the forest_percent CSV. Additionally, we recognized that both forest "km" and "percent" files were organized in wide form by year, necessitating a shift to long-form for enhanced analysis of global forestry data.
+
+Subsequently, we merged the forest "percentage" and "kilometers" datasets before amalgamating them with the global average temperature dataset. However, this integration initially encountered an error due to mismatched data types in the "year" variable – one dataset treating it as a "double" and the other as a "character." To resolve this, we converted the character-type year variable to a double value for alignment.
+
+During the merging process, we observed numerous missing values resulting from the integration. To address this, we performed an "inner_join" to retain only valid rows devoid of missing data. A drawback to this was that some countries didn’t have any values for some spots like no average temperature, kilometer, or forestry percentage, meaning the country was just removed from our dataset overall after doing the “inner_join”.
+
+We also imported the package “scales” to assist in scaling and formatting the data. For our bar plot that depicts the “kilometer” of every country in a region at a specific year, we used “scale_y_continuous” to properly format the all country labels in a readable manner. Same with using “theme” and rotating the “axis” of the label by 90 degrees to have the label read vertically instead of the words overlapping horizontally.
+
+## Results
+## Findings
+## Summary
