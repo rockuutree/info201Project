@@ -56,4 +56,13 @@ We also imported the package “scales” to assist in scaling and formatting th
 ![](../info201Project/assets/forest_china.jpg)
 
 ## Findings
+
+While there is a perception that rising temperatures due to climate change would significantly impact forest growth, the analysis suggests a more nuanced relationship. We observed a general negative correlation between temperature and the growth of forestry, there is considerable variability, particularly at higher temperatures. This indicates that rising temperatures alone may not be the sole determinant of forest growth or decline. To continue, The data highlights significant regional disparities in forest cover. For instance, North America consistently maintains the highest average forest cover, while the Middle East has the lowest. This suggests that geographical location plays a crucial role in determining the extent of forest area coverage, potentially influenced by factors beyond just temperature, such as precipitation, soil type, and human activities. The trend analysis spanning 25 years reveals a concerning pattern of overall forest loss globally. Despite variations in regional forest cover, there is a consistent downward trend in total forest area. While rising temperatures may contribute to this trend indirectly through factors like increased risk of wildfires or habitat degradation, human activities and other environmental factors likely play significant roles in driving this decline.
+
+
+The analysis relies on datasets obtained from sources like the Food and Agriculture Organization and climate monitoring organizations. It's important to acknowledge the potential limitations of these datasets, such as inaccuracies in measurement, inconsistent reporting standards, and gaps in data coverage. Additionally, the decision to use an "inner join" to address missing data may have led to the exclusion of certain countries, potentially biasing the analysis towards regions with more complete data.
+
+
+The next steps could consist of incorporating additional variables beyond temperature, such as precipitation, soil quality, land use changes, and human interventions, to provide a more comprehensive understanding of forest dynamics. By addressing these considerations and pursuing future avenues of research, we can continue to deepen our understanding of the complex interactions between climate change and global forests and inform more effective strategies for conservation and sustainable land management.
+
 ## Summary
