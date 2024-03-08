@@ -8,6 +8,9 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+## Abstract
+
+Climate change has been on the rise and so is the average global temperatures. To examine the impacts of rising temperatures, we investigated the impacts it has had on global forests. In the end, we found that while rising temperatures do impact forest growth, it is not a strong correlation as there are many other factors that play a role in decreasing forest area. 
 
 ## Intro
 
@@ -66,3 +69,8 @@ The analysis relies on datasets obtained from sources like the Food and Agricult
 The next steps could consist of incorporating additional variables beyond temperature, such as precipitation, soil quality, land use changes, and human interventions, to provide a more comprehensive understanding of forest dynamics. By addressing these considerations and pursuing future avenues of research, we can continue to deepen our understanding of the complex interactions between climate change and global forests and inform more effective strategies for conservation and sustainable land management.
 
 ## Summary
+
+Climate change has had an impact on our environment and greatly so. Over the past 2.5 decades, global temperatures have been on the increase, and with that, an ever-decreasing global forest. This came to be as countries started to become more developed, the greater the reliance they had on carbon-based fuel (Why is climate change happening). From our data, we couldn’t find a strong correlation between rising global temperatures and decreasing global forests. This is due to the aforementioned intersectionality that climate change and rising temperatures are only a part of the problem. These were not what we were predicting as we were hypothesizing that there would be a stronger correlation. The issue of climate change is one in which global leaders can be united to combat, yet little has been done. 
+
+As voting season is coming around, we have the power to vote for leaders who are willing to combat climate change. Although we may not be able to influence private companies and other countries' legislation, we can impact our own to ensure we are able to make a lasting impact on our fight against climate change.
+
