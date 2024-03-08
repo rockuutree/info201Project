@@ -41,6 +41,9 @@ The second dataset we found to combine in a data frame is a dataset that capture
 
 Given that both datasets are separated by year and location/region, they can be combined to investigate the impact of weather and climate on the growth or decline of forestry in the corresponding regions. We know that the growth of forestry can be heavily influenced by many different ecological factors, including temperature, humidity, rainfall, and the occurrence of forest fires. 
 
+The final dataset under consists of 2409 rows and 8 columns, encapsulating measurements of average temperature, forest area in square kilometers, and the percentage of land covered by forest across various regions and countries. Each row within the dataset represents a specific region or country at a particular date, offering insights into the environmental dynamics over time. The relevant variables encompass country names, years of observation, forest area in square kilometers, percentage of forest cover, and average temperature readings. These variables are coded as follows: country names are represented as character variables, years as doubles, forest area and percentage cover as double variables, and average temperature readings as double variables as well.
+
+
 
 ## Methods
 
@@ -52,11 +55,22 @@ During the merging process, we observed numerous missing values resulting from t
 
 We also imported the package “scales” to assist in scaling and formatting the data. For our bar plot that depicts the “kilometer” of every country in a region at a specific year, we used “scale_y_continuous” to properly format the all country labels in a readable manner. Same with using “theme” and rotating the “axis” of the label by 90 degrees to have the label read vertically instead of the words overlapping horizontally.
 
+Notably, missing values are present, particularly if a left_join operation is performed. However, utilizing an inner_join strategy mitigates this issue, ensuring the dataset is devoid of missing entries. Moreover, challenges arise from data type mismatches between datasets, exemplified by instances where "Year" is coded as a character in one dataset and as a double in another. Such discrepancies complicate the merging process and necessitate manual adjustments to ensure data harmonization. Additionally, inconsistencies in header names across datasets pose another hurdle, requiring meticulous attention to detail during the merging process.
+
 ## Results
 ![](../info201Project/assets/ryan1.jpg)
+This chart is a depiction of Gabon from 1995 to 2020. In 1995 we can see that the average temperature hovers around 79-80 degrees, and also has the highest forest coverage in kilometers throughout the graph. Overtime, there is a clear consistent downwards trend which indicate that over time, the forest coverage has decreased. It's also apparent that in recent years (2010-2020) there also a gradual increase in average temperature, with 2020 being the highest average temperature and lowest forest coverage. This does asserts that average temperature does have some impact on the overall forest coverage.
 ![](../info201Project/assets/avg_thrive.jpg)
+From this plot, we can see that in both 1995 and 2020 (the earliest and latest recorded years in the dataset), there is a positive correlation between average temperature and percent of forestry in the country. 
 ![](../info201Project/assets/region_growth.jpg)
+By selecting only columns of **region, year, km** to narrow down the data we focus on for this specific research question: "Does geographical location affect the tendency of forests to grow or decline?". As the main goal here is find tendency from time period of 1995 to 2020 instead of focusing on each year's tendency, we use summarize method to find the mean of km during this time period.
+
+By using histogram method of visualization, the graph has showed that North America have highest average forest cover, while Middle East has the lowest average forest cover.
+
 ![](../info201Project/assets/forest_china.jpg)
+In this analysis of Forest Growth over the past 25 years, we totaled the Forest Area of all countries in a certain year. We then plotted the sum Forest Area vs Time graph and observed the trend. 
+
+From this graph, we observed an overall downwards trend. This entails that forest growth didn't occur and the overal trend resulted in global forest area lost. There is this sharp drop in forest area that can't be explained through correlation of global temperatures and forest area as we didn't account for human intervention. As such, efforts made by humanity could have caused this sharp drop or other disasters that could have caused a sharp dorp. 
 
 ## Findings
 
